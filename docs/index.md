@@ -10,17 +10,13 @@ hero:
   actions:
     - theme: brand
       text: I'm new to BETAGLOT
-      link: /WhatBetaglot
+      link: /Guide/WhatBetaglot
     - theme: alt
       text: Examples
-      link: /BetaExamples
+      link: /Examples/ExamplesOverview
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Last Updated
+    details: Aug 20, 2024
 ---
 

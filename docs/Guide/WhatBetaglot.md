@@ -22,7 +22,6 @@ sidebar: false
 
 ## ClassName
 
-
 ### Capital Letter
 
 PascalCase is named after a programming language called Pascal
