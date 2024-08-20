@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/betaglot/",
-  title: "Betaglot",
-  description: "See the Beta",
+  title: "BETAGLOT",
+  description: "EVERYTHING IS CONNECTED",
   lastUpdated: true,
   ignoreDeadLinks: true,
   appearance: 'dark',

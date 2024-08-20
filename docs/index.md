@@ -3,12 +3,13 @@
 layout: home
 
 hero:
-  name: "Betaglot"
+  name: "BETAGLOT"
   text: "EVERYTHING\nIS\nCONNECTED"
+  image: /Betaglot_Logo.png
   tagline: ""
   actions:
     - theme: brand
-      text: I'm new to Betaglot
+      text: I'm new to BETAGLOT
       link: /WhatBetaglot
     - theme: alt
       text: Examples
