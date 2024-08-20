@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "Betaglot"
-  text: "See the Beta"
+  text: "EVERYTHING\nIS\nCONNECTED"
   tagline: ""
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: I'm new to Betaglot
+      link: /WhatBetaglot
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Examples
+      link: /BetaExamples
 
 features:
   - title: Feature A
