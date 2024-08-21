@@ -6,6 +6,7 @@ export default defineConfig({
   description: "EVERYTHING IS CONNECTED",
   lastUpdated: true,
   ignoreDeadLinks: true,
+  cleanUrls: true,
   appearance: 'dark',
   head: [
     ["link", { rel: "apple-touch-icon", href: "/Betaglot_Logo.png" }],
@@ -39,7 +40,7 @@ export default defineConfig({
 
 function sidebarGuide() {
   return [
-    { text: '<dev>What is BETAGLOT?</dev>', link: '/Guide/WhatBetaglot' },
+    { text: '<dev>What is BETAGLOT?</dev>', link: '/guide/WhatBetaglot' },
 
   ]
 }
@@ -91,7 +92,6 @@ function sidebarDevelopment() {
   ]
 }
 
-// #Nav
 function nav() {
   return [
     {
@@ -101,7 +101,7 @@ function nav() {
     },
     {
       text: 'Examples',
-      link: '/examples/Overview',
+      link: '/examples/ExamplesOverview',
       activeMatch: '/examples/'
     },
     {
@@ -336,7 +336,6 @@ function sidebarReference() {
   ] 
 }
 
-// #Tutorial
 function sidebarTutorial() {
   return [
     { text: 'Tutorial Overview', link: '/tutorial/TutorialOverview' },

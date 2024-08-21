@@ -10,13 +10,13 @@ hero:
   actions:
     - theme: brand
       text: I'm new to BETAGLOT
-      link: /Guide/WhatBetaglot
+      link: /guide/WhatBetaglot
     - theme: alt
       text: Examples
-      link: /Examples/ExamplesOverview
+      link: /examples/ExamplesOverview
 
 features:
   - title: Last Updated
-    details: Aug 20, 2024
+    details: Aug 21, 2024
 ---
 
