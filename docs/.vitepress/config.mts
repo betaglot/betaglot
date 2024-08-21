@@ -96,7 +96,7 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: '/guide/What/WhatPutPlant',
+      link: '/guide/WhatBetaglot',
       activeMatch: '/guide/'
     },
     {
@@ -138,9 +138,9 @@ function sidebarReference() {
         { text: '🔷 <beta>BetaDiagram</beta>', link: '/reference/Beta/BetaDiagram' },
         {
           text: '🔷 <beta>Plantbeta</beta>', link: '/reference/Beta/Plantbeta/Overview', collapsed: true, items: [
-            { text: '🔷 <beta>BetaElement</beta>', link: '/reference/Beta/Plantbeta/BetaElement' },
-            { text: '🔷 <beta>BetaMethod</beta>', link: '/reference/Beta/Plantbeta/BetaMethod' },
-            { text: '🔷 <beta>BetaBlock</beta>', link: '/reference/Beta/Plantbeta/BetaBlock' },
+            { text: '🔷 <beta>BetaClass</beta>', link: '/reference/Beta/BetaClass' },
+            { text: '🔷 <beta>BetaMethod</beta>', link: '/reference/Beta/BetaMethod' },
+            { text: '🔷 <beta>BetaBlock</beta>', link: '/reference/Beta/BetaBlock' },
           ]
         },
         {
