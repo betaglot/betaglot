@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/betaglot/",
   title: "BETAGLOT",
   description: "EVERYTHING IS CONNECTED",
   lastUpdated: true,
