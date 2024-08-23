@@ -28,5 +28,5 @@
 
 - "Neuro.Awareness"
 
-Neuro/Awareness/Overview.md, <dev>Neuro.Awareness</dev>, ![0734.jpg](/PaperPhoto/0734.jpg)
+Neuro/Awareness/Overview.md, <dev>Neuro.Awareness</dev>,
 :::

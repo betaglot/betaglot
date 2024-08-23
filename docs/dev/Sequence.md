@@ -188,5 +188,4 @@ All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "
 `TagsToHeaders: False`
 ```
 
-![PaperPhoto](/PaperPhoto/0017.jpg)
 :::

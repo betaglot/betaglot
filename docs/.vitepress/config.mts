@@ -75,7 +75,6 @@ function sidebarDevelopment() {
     { text: '<dev>Mindmap</dev>', link: '/dev/Mindmap' },
     { text: '<dev>Offline</dev>', link: '/dev/Offline' },
     { text: '<dev>Open Source</dev>', link: '/dev/OpenSource' },
-    { text: '<dev>PaperPhoto</dev>', link: '/dev/PaperPhoto' },
     { text: '<dev>Podcast</dev>', link: '/dev/Podcast' },
     { text: '<dev>Pylanter</dev>', link: '/dev/Pylanter' },
     { text: '<dev>Research Questions</dev>', link: '/dev/ResearchQuestions' },

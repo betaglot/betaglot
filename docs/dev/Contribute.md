@@ -148,6 +148,5 @@ Maximum Length
 - "Dev.Donation"
 - "Dev.Feedback"
 
-dev/Contribute.md, <dev>Dev.Feedback</dev>, ![3045.jpg](/PaperPhoto/3045.jpg)
 
 :::

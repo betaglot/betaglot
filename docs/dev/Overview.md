@@ -31,7 +31,4 @@ Art inspired by Planting
 
 - "Dev.Sculpture"
 
-dev/art/Overview.md, <dev>Dev.Sculpture</dev>, ![2858.jpg](/PaperPhoto/2858.jpg)
-dev/art/Overview.md, <dev>Dev.Sculpture</dev>, ![90025.jpg](/PaperPhoto/90025.jpg)
-
 :::

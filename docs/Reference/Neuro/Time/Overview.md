@@ -97,12 +97,4 @@ Links to other related NeuroFactors.
 - ResearchModel_ModelDay_Chronology_20
 - ResearchModel_ModelDay_Chronology_21_SleepStartTime_  
 
-Neuro/Time/Planning.md, <dev>Neuro.Planning.Prediction</dev>, ![1409.jpg](/PaperPhoto/1409.jpg)
-Neuro/Time/Planning.md, <dev>Neuro.Planning</dev>, ![1561.jpg](/PaperPhoto/1561.jpg)
-Neuro/Time/Planning.md, <dev>Neuro.Planning</dev>, ![1853.jpg](/PaperPhoto/1853.jpg)
-Neuro/Time/Planning.md, <dev>Neuro.Planning</dev>, ![1866.jpg](/PaperPhoto/1866.jpg)
-Neuro/Time/Planning.md, <dev>Neuro.Planning.Prediction</dev>, ![1866.jpg](/PaperPhoto/1866.jpg)
-Neuro/Time/Planning.md, <dev>Neuro.Planning.Prediction</dev>, ![2048.jpg](/PaperPhoto/2048.jpg)
-Neuro/Time/Planning.md, <dev>Neuro.Planning</dev>, ![2573.jpg](/PaperPhoto/2573.jpg)
-Neuro/Time/Planning.md, <dev>Neuro.Planning</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 :::

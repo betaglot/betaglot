@@ -99,5 +99,5 @@ Links to other related NeuroFactors.
 - SoundLibrary_TruckHorn_LastCall_FinishTime
 - SoundLibrary_Whistle_Emergency_ThreeWhistleBlow
 
-Neuro/Audio/Overview.md, <dev>Neuro.Hearing</dev>, ![2956.jpg](/PaperPhoto/2956.jpg)
+Neuro/Audio/Overview.md, <dev>Neuro.Hearing</dev>,
 :::

@@ -390,11 +390,6 @@ Planting Bags used all year round are no longer called planting bags. `(Silvicol
 ```py
 `TagsToHeaders: False`
 ```
-
-![PaperPhoto](/PaperPhoto/0048.jpg)
-![PaperPhoto](/PaperPhoto/0049.jpg)
-![PaperPhoto](/PaperPhoto/0052.jpg)
-![PaperPhoto](/PaperPhoto/0057.jpg)
 <h2>PageTags</h2>
 
 - "Dev.ToolDiagram"
@@ -407,37 +402,5 @@ Planting Bags used all year round are no longer called planting bags. `(Silvicol
 - "Dev.Tools.Screefer"
 - "Dev.Tools.Spade"
 
-dev/Tools.md, <dev>Dev.Tools</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
-dev/Tools.md, <dev>Dev.Tools.Kit</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
-dev/Tools.md, <dev>Dev.Tools.PlantingBag</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
-dev/Tools.md, <dev>Dev.Tools.Flag</dev>, ![0049.jpg](/PaperPhoto/0049.jpg)
-dev/Tools.md, <dev>Dev.Tools.Spade</dev>, ![0052.jpg](/PaperPhoto/0052.jpg)
-dev/Tools.md, <dev>Dev.Tools.Flag</dev>, ![0056.jpg](/PaperPhoto/0056.jpg)
-dev/Tools.md, <dev>Dev.Tools.Flag</dev>, ![0057.jpg](/PaperPhoto/0057.jpg)
-dev/Tools.md, <dev>Dev.Tools.Cart</dev>, ![0102.jpg](/PaperPhoto/0102.jpg)
-dev/Tools.md, <dev>Dev.Tools.Flag</dev>, ![0487.jpg](/PaperPhoto/0487.jpg)
-dev/Tools.md, <dev>Dev.Tools.Cart</dev>, ![1167.jpg](/PaperPhoto/1167.jpg)
-dev/Tools.md, <dev>Dev.Tools.PlantingBag</dev>, ![1167.jpg](/PaperPhoto/1167.jpg)
-dev/Tools.md, <dev>Dev.Tools.Cart</dev>, ![1169.jpg](/PaperPhoto/1169.jpg)
-dev/Tools.md, <dev>Dev.Tools.Cart</dev>, ![1179.jpg](/PaperPhoto/1179.jpg)
-dev/Tools.md, <dev>Dev.Tools.PlantingBag</dev>, ![1179.jpg](/PaperPhoto/1179.jpg)
-dev/Tools.md, <dev>Dev.Tools.Cart</dev>, ![1181.jpg](/PaperPhoto/1181.jpg)
-dev/Tools.md, <dev>Dev.Tools.PlantingBag</dev>, ![1181.jpg](/PaperPhoto/1181.jpg)
-dev/Tools.md, <dev>Dev.Tools.Cart</dev>, ![1183.jpg](/PaperPhoto/1183.jpg)
-dev/Tools.md, <dev>Dev.Tools.PlantingBag</dev>, ![1183.jpg](/PaperPhoto/1183.jpg)
-dev/Tools.md, <dev>Dev.Tools.Screefer</dev>, ![1184.jpg](/PaperPhoto/1184.jpg)
-dev/Tools.md, <dev>Dev.Tools.Flag</dev>, ![1301.jpg](/PaperPhoto/1301.jpg)
-dev/Tools.md, <dev>Dev.Tools.Spade</dev>, ![1303.jpg](/PaperPhoto/1303.jpg)
-dev/Tools.md, <dev>Dev.Tools.Kit</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
-dev/Tools.md, <dev>Dev.Tools.PlantingBag</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
-dev/Tools.md, <dev>Dev.Tools.Flag</dev>, ![2571.jpg](/PaperPhoto/2571.jpg)
-dev/Tools.md, <dev>Dev.Tools.Kit</dev>, ![2572.jpg](/PaperPhoto/2572.jpg)
-dev/Tools.md, <dev>Dev.Tools.PlantingBag</dev>, ![2572.jpg](/PaperPhoto/2572.jpg)
-dev/Tools.md, <dev>Dev.Tools.Flag</dev>, ![2938.jpg](/PaperPhoto/2938.jpg)
-dev/Tools.md, <dev>Dev.Tools.Flag</dev>, ![2962.jpg](/PaperPhoto/2962.jpg)
-dev/Tools.md, <dev>Dev.Tools.PlantingBag</dev>, ![3016.jpg](/PaperPhoto/3016.jpg)
-dev/Tools.md, <dev>Dev.Tools.Flag</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
-dev/Tools.md, <dev>Dev.ToolDiagram</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
-dev/Tools.md, <dev>Dev.ToolDiagram.BagsDiagram</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
 
 :::
