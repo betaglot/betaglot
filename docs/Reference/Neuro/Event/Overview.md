@@ -3,7 +3,7 @@
 
 > there are dozens of events happening each second
 
-![Dashboard](/dev/Dashboard.png)
+<!-- ![Dashboard](/dev/Dashboard.png) -->
 
 -
 - When a particular state is present
