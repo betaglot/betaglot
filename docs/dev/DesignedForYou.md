@@ -16,7 +16,7 @@ sidebar: false
 
 ## Summary of your experience
 
-![InsideOut2_AllEmotions](/InsideOut2_AllEmotions.jpg)
+![InsideOut2_AllEmotions](/Neuro/InsideOut2_AllEmotions.jpg)
 
 ### Fear 😨
 
