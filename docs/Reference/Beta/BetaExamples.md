@@ -1,9 +1,9 @@
 
 # 🔷 <beta>Beta Examples</beta>
 
-![Paper_BetaQuote](/Paper_BetaQuote2.jpg)
+![Paper_BetaQuote](/Beta/Paper_BetaQuote2.jpg)
 
-![Paper_BetaQuote](/Paper_BetaQuote.jpg)
+![Paper_BetaQuote](/Beta/Paper_BetaQuote.jpg)
 
 ## 🔷<beta>"<via>Follow that <eco>stream</eco> up to the <eco>top corner</eco> <neuro>then</neuro> go left and BoustroCover </via> <neuro>then</neuro> <moto>walk </moto>back to cache"</beta>
 
