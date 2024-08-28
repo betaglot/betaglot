@@ -1,6 +1,10 @@
 
 # 🛠 <beta>Beta Graphics</beta>
 
+## Interactive Diagram
+
+<https://tactical-board.com/uk/rugby>
+
 ## BetaDiagram is a subset of BetaGraphic
 
 How is Risk visualized?
