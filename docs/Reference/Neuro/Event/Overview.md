@@ -1,4 +1,3 @@
-
 # 💜 <neuro>Event</neuro>
 
 > there are dozens of events happening each second

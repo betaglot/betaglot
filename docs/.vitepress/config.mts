@@ -57,7 +57,7 @@ function sidebarDevelopment() {
     { text: '<dev>Downloads</dev>', link: '/dev/Downloads' },
     { text: '<dev>DX</dev>', link: '/dev/DX' },
     { text: '<dev>ElementGraph</dev>', link: '/dev/ElementsGraph' },
-    { text: '<dev>Filming</dev>', link: '/dev/Filming' },
+    { text: '<dev>Cinematography</dev>', link: '/dev/Cinematography' },
     { text: '<dev>FireBeta</dev>', link: '/FireBeta/FireBeta' },
     { text: '<dev>GoPro</dev>', link: '/dev/GoPro' },
     {
@@ -81,6 +81,7 @@ function sidebarDevelopment() {
     { text: '<dev>Roadmap</dev>', link: '/dev/Roadmap' },
     { text: '<dev>Sequence</dev>', link: '/dev/Sequence' },
     { text: '<dev>SocialMedia</dev>', link: '/dev/SocialMedia' },
+    { text: '<dev>Storytelling</dev>', link: '/dev/Storytelling' },
     { text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide' },
     { text: '<dev>Tagging</dev>', link: '/dev/Tagging' },
     { text: '<dev>TaskList</dev>', link: '/dev/TaskList' },
