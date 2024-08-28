@@ -11,7 +11,7 @@ AlsoKnownAs(BetaComposition)
 
 In Betagraphy, Betagraphers create Betagraphics to represent Beta as an image..
 
-Betagraphic: noun, a picture or diagram that gives information, especially one produced on a computer
+Betagraph: noun, a picture or diagram that gives information, especially one produced on a computer
 
 A Routesetter is the person who implements a Betagrapher's Betagraphy
 
