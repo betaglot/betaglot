@@ -54,6 +54,14 @@ Show don't tell
 
 Reader and writer are intellectual equals
 
+Show user how they can use the information, instead of telling them what to do.
+
+### Exposition
+
+#### Introductory Paragraph
+
+#### See how this can develop into that
+
 ## <dev>Semantics</dev>
 
 ::: warning
