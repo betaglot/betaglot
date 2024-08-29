@@ -36,6 +36,20 @@ It doesn't matter if it's always totally true, the canadian stereotype is believ
 
 </via>
 
+## Neoclassical
+
+Ancient Greek
+
+Most terms are greek.
+
+Capitals
+
+Which font for Titles?
+
+Worthy of Olympics
+
+Without a doubt, climbing Competitions are older than humanity
+
 ## Classic Style
 
 > The writer can see something that the reader has not yet noticed, and he orients the reader's gaze so that she can see it for herself.

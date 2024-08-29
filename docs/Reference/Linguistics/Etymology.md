@@ -10,6 +10,10 @@ If a latin word fits better then use it instead. Eg
 
 ## Greek
 
+Proper nouns are capitalized
+
+Use 'K' instead of 'C'
+
 - Beta
 - BetaLitany
 - Symbeta
@@ -20,7 +24,7 @@ If a latin word fits better then use it instead. Eg
 - BetaDialect
 - BetaDialogue
 - BetaMonologue
-- BetaLexicon
+- BetaLexikon
 - Method
 - Hyper
 - Hypo
@@ -30,3 +34,10 @@ If a latin word fits better then use it instead. Eg
 - Anti
 - Prologue
 - Choreography
+- BETAGON  
+    - Agon = Contest, Gathering, Conflict, Trial
+- Betatect
+    - Beta + (tekton = weave, build, fabricate)
+- Kriterion
+    - Criterion
+    - BetaScore
