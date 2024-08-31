@@ -14,7 +14,20 @@ Proper nouns are capitalized
 
 Use 'K' instead of 'C'
 
-- Beta
+- https://en.wikipedia.org/wiki/Musical_system_of_ancient_Greece
+- Gene
+    - AI BetaGenerator converts prompts into Beta  
+    BetaGenesis
+    - Analogy(Genetic Material, Beta)
+        - Epigenetics Eco affects gene expression, Moto is the Gene. Generator
+        - A Betatekt's seed idea of a route is a Germ
+        - Genes code proteins. If Beta is an assembly of proteins, then what are
+        - Proteins are BetaMethods, Genes are BetaAttributes
+
+- BETAMETRON
+    - Measure
+- System
+- BetaGram
 - BetaLitany
 - Symbeta
     - Shared Beta
@@ -40,4 +53,4 @@ Use 'K' instead of 'C'
     - Beta + (tekton = weave, build, fabricate)
 - Kriterion
     - Criterion
-    - BetaScore
+    - BETAMETRON

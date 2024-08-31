@@ -1,21 +1,21 @@
 
-# 🔷 <beta>Beta Difficulty Score</beta>
+# 🔷 <beta>Beta DifficultyMETRON</beta>
 
-Is there a maximum DifficultyScore
+Is there a maximum DifficultyMETRON
 
 ```py
 
-BetaDifficultyScore = (MotoDifficultyScore + EcoDifficultyScore + ViaDifficultyScore + NeuroDifficultyScore)
+BetaDifficultyMETRON = (MotoDifficultyMETRON + EcoDifficultyMETRON + ViaDifficultyMETRON + NeuroDifficultyMETRON)
 
 ```
 
-## MotoDifficultyScore
+## MotoDifficultyMETRON
 
-## EcoDifficultyScore
+## EcoDifficultyMETRON
 
-## ViaDifficultyScore
+## ViaDifficultyMETRON
 
-## NeuroDifficultyScore
+## NeuroDifficultyMETRON
 
 ::: details 🛠 <dev>&&&</dev>
 
@@ -35,9 +35,9 @@ BetaDifficultyScore = (MotoDifficultyScore + EcoDifficultyScore + ViaDifficultyS
 - "Beta.BetaDifficulty.BetaIntensity"
 - "Beta.BetaDifficulty.BetaRisk"
 - "Beta.BetaDifficulty.Overview"
-- "Beta.Difficulty.DifficultyScore"
-- "Beta.Difficulty.DifficultyScore.TotalDifficulty"
-- "Beta.Difficulty.DifficultyScoreChart"
+- "Beta.Difficulty.DifficultyMETRON"
+- "Beta.Difficulty.DifficultyMETRON.TotalDifficulty"
+- "Beta.Difficulty.DifficultyMETRONChart"
 - "Dev.Difficulty.Complexity"
 - "Dev.Difficulty.DifficultyChart"
 - "Dev.Difficulty.DifficultyComparison"

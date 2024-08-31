@@ -2,7 +2,7 @@
 
 ::: tip
 
-If you're looking for BetaExecutionScore
+If you're looking for BetaExecutionMETRON
 
 :::
 

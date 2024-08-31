@@ -146,7 +146,7 @@ An Element is an Object of Put(Plant).
 
 - BetaElement and Put(Plant)Element have been confused. Beta can be applied to Climbing, Put(Plant) can not. You don't need Beta to climb. Beta is an abstraction layer on top of Climbing or Planting. Beta is the observation
 
-- BetaScore
+- BETAMETRON
 
 Beta is the method that you use, but also the communication of that method. There needs to be another word for the communication. BetaLingua
 

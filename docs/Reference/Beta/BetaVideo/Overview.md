@@ -1,12 +1,30 @@
 # 🔷<beta>BetaVideo</beta>
 
+## Upload a Video to Betaglot
+
+- **Free**
+
+### Requirements
+
+Video must be approved before payment.
+
+- Optional: Agree to Terms that the video or frames will become public.
+- VideoLength
+- VideoQuality
+- Parallel Recording (more than one camera angle from start to finish)
+
+### Promised Returns
+
+- LevelOfDetail
+- Natural Language (English, French, Spanish, German)
+
 ## Purpose
 
 - A video of every BetaElement
 
 ## Captions
 
-Beta as CaptionData. BetaCaptions are more useful when watching at Slow Frame Rate.
+Beta as CaptionData. BetaCaptions are more useful when watching at Slow Frame Rate, since EyeMoto from Caption to Content is fallicious multitasking.
 
 ### ImplicitBeta
 

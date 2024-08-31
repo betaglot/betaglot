@@ -631,5 +631,5 @@ betaglot_activities = {
     - The superclass of Elements is Apparatus since most elements. Apparatus is an Econ.
     - ElementGraph is not just Moto, nodes can be any of the BetaFactors. Econ branches down into neuro or moto
 - CheerBeta see Dallas Cowboys Cheerleaders
-- (BetaQuotient)InsteadOf(BetaIndex,BetaScore)
+- (BetaQuotient)InsteadOf(BetaIndex,BETAMETRON)
 :::

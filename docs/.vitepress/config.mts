@@ -133,24 +133,24 @@ function sidebarReference() {
     // #Beta
     {
       text: '🔷 <beta>Beta</beta>', link: '/reference/Beta/WhatBeta', collapsed: true, items: [
-        { text: '🔷 BetaExamples', link: '/reference/Beta/BetaExamples' },
+        { text: '🔷 BetaExamples', link: '/reference/Beta/BetaExample/Example_Betagram' },
         { text: '🔷 BetaLingo', link: '/reference/Beta/BetaLingo/Overview' },
-        { text: '🔷 BetaDiagram', link: '/reference/Beta/BetaDiagram' },
+        { text: '🔷 BETAGRAPHY', link: '/reference/Beta/BETAGRAPHY' },
         {
-          text: '🔷 Plantbeta', link: '/reference/Beta/Plantbeta/Overview', collapsed: true, items: [
+          text: '🔷 BETASYSTEMA', link: '/reference/Beta/BETASYSTEMA/Overview', collapsed: true, items: [
             { text: '🔷 BetaClass', link: '/reference/Beta/BetaClass' },
             { text: '🔷 BetaMethod', link: '/reference/Beta/BetaMethod' },
             { text: '🔷 BetaBlock', link: '/reference/Beta/BetaBlock' },
           ]
         },
         {
-          text: '🔷 BetaScore', link: '/reference/Beta/BetaScore/Overview', collapsed: true, items: [
-            { text: '🔷 BetaExecutionScore', link: '/reference/Beta/BetaScore/BetaExecutionScore' },
+          text: '🔷 BETAMETRON', link: '/reference/Beta/BETAMETRON/Overview', collapsed: true, items: [
+            { text: '🔷 BetaExecutionMETRON', link: '/reference/Beta/BETAMETRON/BetaExecutionMETRON' },
             {
-              text: '🔷 BetaDifficultyScore', link: '/reference/Beta/BetaScore/BetaDifficultyScore/Overview', collapsed: true, items: [
-                { text: '🔷 BetaComplexityScore', link: '/reference/Beta/BetaScore/BetaDifficultyScore/BetaComplexityScore' },
-                { text: '🔷 BetaRiskScore', link: '/reference/Beta/BetaScore/BetaDifficultyScore/BetaRiskScore' },
-                { text: '🔷 BetaIntensityScore', link: '/reference/Beta/BetaScore/BetaDifficultyScore/BetaIntensityScore' }
+              text: '🔷 BetaDifficultyMETRON', link: '/reference/Beta/BETAMETRON/BetaDifficultyMETRON/Overview', collapsed: true, items: [
+                { text: '🔷 BetaComplexityScore', link: '/reference/Beta/BETAMETRON/BetaDifficultyMETRON/BetaComplexityMETRON' },
+                { text: '🔷 BetaRiskScore', link: '/reference/Beta/BETAMETRON/BetaDifficultyMETRON/BetaRiskMETRON' },
+                { text: '🔷 BetaIntensityScore', link: '/reference/Beta/BETAMETRON/BetaDifficultyMETRON/BetaIntensityMETRON' }
               ]
             }
           ]
@@ -164,6 +164,25 @@ function sidebarReference() {
         },
         {
           text: '🔷 BetaVideo', link: '/reference/Beta/BetaVideo/Overview', collapsed: true, items: [
+          ]
+        },
+        {
+          text: '🔷 BETASKHEMA', link: '/reference/Beta/BETASKHEMA/Overview', collapsed: true, items: [
+            {
+              text: '🔷 BetaAttribute', link: '/reference/Beta/BePython/Overview', collapsed: true, items: [
+                { text: '🔷 BetaRisk', link: '/reference/Beta/BetaDifficulty/BetaRisk' }
+              ]
+            },
+            {
+              text: '🔷 BetaMethod', link: '/reference/Beta/BetaMethod/Overview', collapsed: true, items: [
+                { text: '🔷 BetaRisk', link: '/reference/Beta/BetaDifficulty/BetaRisk' }
+              ]
+            },
+            {
+              text: '🔷 BePython', link: '/reference/Beta/BePython/Overview', collapsed: true, items: [
+                { text: '🔷 BetaRisk', link: '/reference/Beta/BetaDifficulty/BetaRisk' }
+              ]
+            },    
           ]
         },
       ]
@@ -194,12 +213,12 @@ function sidebarReference() {
         },
         {
           text: '🟠 MotoScore', link: '/reference/Moto/MotoScore/Overview', collapsed: true, items: [
-            { text: '🟠 MotoExecutionScore', link: '/reference/Moto/MotoScore/MotoExecutionScore' },
+            { text: '🟠 MotoExecutionMETRON', link: '/reference/Moto/MotoScore/MotoExecutionMETRON' },
             {
-              text: '🟠 MotoDifficultyScore', link: '/reference/Moto/MotoScore/MotoDifficultyScore/Overview', collapsed: true, items: [
-                { text: '🟠 MotoComplexityScore', link: '/reference/Moto/MotoScore/MotoDifficultyScore/MotoComplexityScore' },
-                { text: '🟠 MotoRiskScore', link: '/reference/Moto/MotoScore/MotoDifficultyScore/MotoRiskScore' },
-                { text: '🟠 MotoIntensityScore', link: '/reference/Moto/MotoScore/MotoDifficultyScore/MotoIntensityScore' }
+              text: '🟠 MotoDifficultyMETRON', link: '/reference/Moto/MotoScore/MotoDifficultyMETRON/Overview', collapsed: true, items: [
+                { text: '🟠 MotoComplexityScore', link: '/reference/Moto/MotoScore/MotoDifficultyMETRON/MotoComplexityScore' },
+                { text: '🟠 MotoRiskScore', link: '/reference/Moto/MotoScore/MotoDifficultyMETRON/MotoRiskScore' },
+                { text: '🟠 MotoIntensityScore', link: '/reference/Moto/MotoScore/MotoDifficultyMETRON/MotoIntensityScore' }
               ]
             }
           ]
