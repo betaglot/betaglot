@@ -1,5 +1,9 @@
 # BETASKHEMA: EVERYTHING IS CONNECTED
 
+GraphTheory
+
+BetaWeb, BioNode, Network, Connectome, Edge, Node, Relationship, IsA, HasA, KnowledgeGraph, Mindmap, Brainstorm, IdeaWeb
+
 Schema
 
 ## Psychological Schema

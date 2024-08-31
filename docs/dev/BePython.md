@@ -632,7 +632,6 @@ What scope is parallel? Team can both be Backfilling but using different Theorem
 
 - PutPlantApp.py
 
-
 ## DevNotes
 
 - People just want to know what to do

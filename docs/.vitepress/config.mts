@@ -138,7 +138,7 @@ function sidebarReference() {
         { text: '🔷 BETAGRAPHY', link: '/reference/Beta/BETAGRAPHY' },
         {
           text: '🔷 BETASYSTEMA', link: '/reference/Beta/BETASYSTEMA/Overview', collapsed: true, items: [
-            { text: '🔷 BetaClass', link: '/reference/Beta/BetaClass' },
+            { text: '🔷 BETATAXON', link: '/reference/Beta/BETATAXON' },
             { text: '🔷 BetaMethod', link: '/reference/Beta/BetaMethod' },
             { text: '🔷 BetaBlock', link: '/reference/Beta/BetaBlock' },
           ]
@@ -182,7 +182,7 @@ function sidebarReference() {
               text: '🔷 BePython', link: '/reference/Beta/BePython/Overview', collapsed: true, items: [
                 { text: '🔷 BetaRisk', link: '/reference/Beta/BetaDifficulty/BetaRisk' }
               ]
-            },    
+            },
           ]
         },
       ]
@@ -281,8 +281,8 @@ function sidebarReference() {
             },
           ]
         },
-        {text: '🔻 Via Problem', link: '/reference/Via/ViaProblem/Overview', collapsed: true, items: []},
-        {text: '🔻 Via Theorem', link: '/reference/Via/ViaTheorem/Overview', collapsed: true, items: []}
+        { text: '🔻 Via Problem', link: '/reference/Via/ViaProblem/Overview', collapsed: true, items: [] },
+        { text: '🔻 Via Theorem', link: '/reference/Via/ViaTheorem/Overview', collapsed: true, items: [] }
       ]
     },
     // #Neuro
@@ -389,7 +389,7 @@ function sidebarReference() {
         { text: '💜 Thermoception', link: '/reference/Neuro/Thermoception' },
       ]
     },
-  ] 
+  ]
 }
 
 function sidebarTutorial() {

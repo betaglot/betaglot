@@ -1,4 +1,3 @@
 # Reference Overview
 
-![Betaoglot_Logo](/Betaglot_Logo.png)
-
+![Betaglot_Logo](/Betaglot_Logo.png)

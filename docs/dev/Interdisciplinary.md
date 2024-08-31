@@ -12,7 +12,7 @@
 
 ### Biology
 
-- Dichotomous Tree for BetaClass Identification
+- Dichotomous Tree for BETATAXON Identification
 
 ::: details 🛠 <dev>&&&</dev>
 

@@ -14,7 +14,7 @@ Proper nouns are capitalized
 
 Use 'K' instead of 'C'
 
-- https://en.wikipedia.org/wiki/Musical_system_of_ancient_Greece
+- <https://en.wikipedia.org/wiki/Musical_system_of_ancient_Greece>
 - Gene
     - AI BetaGenerator converts prompts into Beta  
     BetaGenesis
@@ -24,6 +24,7 @@ Use 'K' instead of 'C'
         - Genes code proteins. If Beta is an assembly of proteins, then what are
         - Proteins are BetaMethods, Genes are BetaAttributes
 
+- Betataxon = BETATAXON
 - BETAMETRON
     - Measure
 - System
