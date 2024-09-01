@@ -76,15 +76,38 @@ function nav() {
 
 function sidebarGuide() {
   return [
-    { text: 'What is Betaglot?', link: '/guide/WhatBetaglot'},
-    { text: 'Origin', link: '/guide/Origin/WhatBetaglot', collapsed: true, items: [
-      { text: 'Design', link: '/guide/Origin/WhatBetaglot'},
-      { text: 'Sport', link: '/guide/Origin/WhatBetaglot'},
-      { text: 'STEM', link: '/guide/Origin/WhatBetaglot'},
-      { text: 'Canada', link: '/guide/Origin/Geometry'},
-
-    ]},
-
+    { text: 'What is Betaglot?', link: '/guide/WhatBetaglot' },
+    {
+      text: 'Origin', link: '/guide/Origin/Overview', collapsed: true, items: [
+        {
+          text: 'Design', link: '/guide/Origin/Design/Overview', collapsed: true, items: [
+            { text: 'Art', link: '/guide/Origin/Art' },
+            { text: 'Architecture', link: '/guide/Origin/Architecture' },
+            { text: 'Choreography', link: '/guide/Origin/Choreography' },
+            { text: 'GraphicDesign', link: '/guide/Origin/GraphicDesign' },
+          ]
+        },
+        {
+          text: 'Sport', link: '/guide/Origin/Sport/Overview', collapsed: true, items: [
+            { text: 'Climbing', link: '/guide/Origin/Climbing' },
+            { text: 'CodeOfPoints', link: '/guide/Origin/CodeOfPoints' },
+            { text: 'Olympics', link: '/guide/Origin/Olympics' },
+            { text: 'TreePlanting', link: '/guide/Origin/TreePlanting' },
+          ]
+        },
+        {
+          text: 'STEM', link: '/guide/Origin/STEM/Overview', collapsed: true, items: [
+            { text: 'Cognition', link: '/guide/Origin/Cognition' },
+            { text: 'Computation', link: '/guide/Origin/Computation' },
+            { text: 'Geometry', link: '/guide/Origin/Geometry' },
+            { text: 'Internet', link: '/guide/Origin/Internet' },
+            { text: 'Physics', link: '/guide/Origin/Physics' },
+            { text: 'Smartphone', link: '/guide/Origin/Smartphone' },
+          ]
+        },
+        { text: 'Canada', link: '/guide/Origin/Canada' },
+      ]
+    },
   ]
 }
 
