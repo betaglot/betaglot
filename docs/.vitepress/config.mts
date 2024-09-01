@@ -76,11 +76,11 @@ function nav() {
 
 function sidebarGuide() {
   return [
-    { text: 'What is Betaglot?', link: '/guide/WhatBetaglot' },
+    { text: 'What is BETAGLOT?', link: '/guide/WhatBetaglot' },
     {
-      text: 'Origin', link: '/guide/Origin/Overview', collapsed: true, items: [
+      text: 'Origins of BETAGLOT', link: '/guide/Origin/Overview', collapsed: false, items: [
         {
-          text: 'Design', link: '/guide/Origin/Design/Overview', collapsed: true, items: [
+          text: 'Design', link: '/guide/Origin/Design/Overview', collapsed: false, items: [
             { text: 'Art', link: '/guide/Origin/Art' },
             { text: 'Architecture', link: '/guide/Origin/Architecture' },
             { text: 'Choreography', link: '/guide/Origin/Choreography' },
@@ -88,7 +88,7 @@ function sidebarGuide() {
           ]
         },
         {
-          text: 'Sport', link: '/guide/Origin/Sport/Overview', collapsed: true, items: [
+          text: 'Sport', link: '/guide/Origin/Sport/Overview', collapsed: false, items: [
             { text: 'Climbing', link: '/guide/Origin/Climbing' },
             { text: 'CodeOfPoints', link: '/guide/Origin/CodeOfPoints' },
             { text: 'Olympics', link: '/guide/Origin/Olympics' },
@@ -96,7 +96,7 @@ function sidebarGuide() {
           ]
         },
         {
-          text: 'STEM', link: '/guide/Origin/STEM/Overview', collapsed: true, items: [
+          text: 'STEM', link: '/guide/Origin/STEM/Overview', collapsed: false, items: [
             { text: 'Cognition', link: '/guide/Origin/Cognition' },
             { text: 'Computation', link: '/guide/Origin/Computation' },
             { text: 'Geometry', link: '/guide/Origin/Geometry' },

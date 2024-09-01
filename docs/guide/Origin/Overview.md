@@ -1,4 +1,4 @@
-# Origins of BETAGLOT
+# Origins of 🔷<beta>BETAGLOT</beta>
 
 ::: warning
 Show the Origin don't Tell!
