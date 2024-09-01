@@ -1,12 +1,5 @@
 # Cognitive Science
 
-
-## Artificial Intelligence
-
-## Cognition and Philosophy
-
-### 
-
 ## Cognition and Linguistics
 
 ### Steven Pinker
@@ -25,12 +18,20 @@ The Huberman Lab Podcast
 
 ### Douglas Hofstadter
 
-Analogy as Core to Cognition
+#### Analogic reasoning
 
-Surfaces and Essences
+[Analogy as the Core of Cognition. Douglas Hofstader](https://www.youtube.com/watch?v=n8m7lFQ3njk&ab_channel=Stanford)
 
 ## Cognition and Psychology
 
 ### Daniel Kahneman
 
 Thinking Fast and Slow
+
+## Cognition and Philosophy
+
+### Sam Harris
+
+Waking Up App
+
+NonDualism: You are Awareness. You are Consciousness.

@@ -38,14 +38,50 @@ export default defineConfig({
   },
 })
 
+function nav() {
+  return [
+    {
+      text: 'Guide',
+      link: '/guide/WhatBetaglot',
+      activeMatch: '/guide/'
+    },
+    {
+      text: 'Examples',
+      link: '/examples/ExamplesOverview',
+      activeMatch: '/examples/'
+    },
+    {
+      text: 'Tutorial',
+      link: '/tutorial/TutorialOverview',
+      activeMatch: '/tutorial/'
+    },
+    {
+      text: 'Reference',
+      link: '/reference/RefOverview',
+      activeMatch: '/reference/'
+    },
+    {
+      text: '🔷',
+      link: '/app/Overview',
+      activeMatch: '/app/'
+    },
+    {
+      text: '🛠',
+      link: 'dev/DevOverview',
+      activeMatch: '/dev/'
+    }
+  ]
+}
+
+
 function sidebarGuide() {
   return [
-    { text: '<dev>What is Betaglot?</dev>', link: '/guide/WhatBetaglot'},
-    { text: '<dev>ClassicalPeriod</dev>', link: '/guide/ClassicalPeriod/WhatBetaglot', collapsed: true, items: [
-      { text: '<dev>What is Betaglot?</dev>', link: '/guide/ClassicalPeriod/WhatBetaglot'},
-      { text: '<dev>What is Betaglot?</dev>', link: '/guide/ClassicalPeriod/WhatBetaglot'},
-      { text: '<dev>What is Betaglot?</dev>', link: '/guide/ClassicalPeriod/WhatBetaglot'},
-      { text: '<dev>Geometry</dev>', link: '/guide/ClassicalPeriod/Geometry'},
+    { text: 'What is Betaglot?', link: '/guide/WhatBetaglot'},
+    { text: 'Origin', link: '/guide/Origin/WhatBetaglot', collapsed: true, items: [
+      { text: 'Design', link: '/guide/Origin/WhatBetaglot'},
+      { text: 'Sport', link: '/guide/Origin/WhatBetaglot'},
+      { text: 'STEM', link: '/guide/Origin/WhatBetaglot'},
+      { text: 'Canada', link: '/guide/Origin/Geometry'},
 
     ]},
 
@@ -99,40 +135,6 @@ function sidebarDevelopment() {
   ]
 }
 
-function nav() {
-  return [
-    {
-      text: 'Guide',
-      link: '/guide/WhatBetaglot',
-      activeMatch: '/guide/'
-    },
-    {
-      text: 'Examples',
-      link: '/examples/ExamplesOverview',
-      activeMatch: '/examples/'
-    },
-    {
-      text: 'Tutorial',
-      link: '/tutorial/TutorialOverview',
-      activeMatch: '/tutorial/'
-    },
-    {
-      text: 'Reference',
-      link: '/reference/RefOverview',
-      activeMatch: '/reference/'
-    },
-    {
-      text: '🔷',
-      link: '/app/Overview',
-      activeMatch: '/app/'
-    },
-    {
-      text: '🛠',
-      link: 'dev/DevOverview',
-      activeMatch: '/dev/'
-    }
-  ]
-}
 
 function sidebarReference() {
   return [

@@ -2,7 +2,7 @@
 
 ## Sport
 
-## STEM: Science, Technology, Engineering, Mathematics 
+## STEM: Science, Technology, Engineering, Mathematics
 
 ## Design
 
