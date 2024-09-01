@@ -1,10 +1,16 @@
-# 🔷<beta>Taxon</beta>
+# 🔷<beta>Beta Taxon</beta>
+
+Plural: Taxa
 
 Taxonony
 
 The Science of Classification
 
+::: Etymology
+
 taxis + -nomia
+
+:::
 
 "arrangement" + "method"
 

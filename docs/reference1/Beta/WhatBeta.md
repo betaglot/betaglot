@@ -60,36 +60,27 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 - You will get better at one by learning the other.
 :::
 
-## <beta>What is a Beta Element?</beta>
+## <beta>What is a Beta Taxon?</beta>
 
-Based on Gymnastics Elements. Elements are completed using Beta Factors. Multiple alternative Factors can be used to complete an Element.
+BetaParameter
 
-- 🔷OpenHole
-- 🔷SelectSite
-- 🔷CloseHole
-- 🔷Flag
-- 🔷BagUp
-- 🔷LineIn
-- 🔷Screef
-- 🔷Rework
+### <moto>MotoParameter</moto>
 
-### <moto>MotoFactor</moto>
+### <eco>EcoParameter</eco>
 
-### <eco>EcoFactor</eco>
+### <via>ViaParameter</via>
 
-### <via>ViaFactor</via>
-
-### <neuro>NeuroFactor</neuro>
+### <neuro>NeuroParameter</neuro>
 
 ## <beta>What is a BetaInstance?</beta>
 
-> all the BetaElements occuring at a given instant
+> all the BetaTaxa occuring at a given instant
 
 ---
 
 ## Constraints when Implementing <beta>Beta</beta>
 
-What are the the constraints for each module when implementing Beta in Put(Plant)?
+What are the the constraints for each parameter when implementing Beta?
 
 ### <beta>Beta Constraints</beta>
 
@@ -136,7 +127,6 @@ There is a miscommunication happening if:
 
 ## DevNotes
 
-- TeamPut() is Beta
 - You don't need Beta to be a TreePlanter. Beta is just a Wrapper for communication. It's an API, an Interface between you and your coworkers.
 - Use Code snippets to write abbreviated names to insert Tags or ElementName
 
@@ -154,11 +144,7 @@ There is a miscommunication happening if:
 
 - Everything is an Object, like Python
 
-> Beta is what you actually do implement
-> Elements are just options possibilities
-> Beta requires decision
-
-Each Put(Plant) module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
+Each BetaFactor is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
 
 Eco doesn't have any problems or theorems
 
