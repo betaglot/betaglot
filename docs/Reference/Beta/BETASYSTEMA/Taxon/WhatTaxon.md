@@ -4,11 +4,9 @@ Taxonony
 
 The Science of Classification
 
-```greek
 taxis + -nomia
 
 "arrangement" + "method"
-```
 
 ```py
 Taxon = AlsoKnownAs([
