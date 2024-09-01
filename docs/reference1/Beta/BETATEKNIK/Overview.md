@@ -1,4 +1,4 @@
-# 🔷🔷 BETATEKNIK
+# 🔷<beta>BETATEKNIK</beta>
 
 Beta Teknik describes the total difficulty of a Climber's performance.
 

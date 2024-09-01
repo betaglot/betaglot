@@ -101,7 +101,7 @@ function nav() {
     },
     {
       text: 'Examples',
-      link: '/examples/ExamplesOverview',
+      link: '/examples1/ExamplesOverview',
       activeMatch: '/examples/'
     },
     {
@@ -135,31 +135,31 @@ function sidebarReference() {
       text: '🔷 <beta>Beta</beta>', link: '/reference1/Beta/WhatBeta', collapsed: true, items: [
         { text: '🔷 BetaExamples', link: '/reference1/Beta/BetaExample/Example_Betagram' },
         { text: '🔷 BetaLingo', link: '/reference1/Beta/BetaLingo/Overview' },
-        { text: '🔷 BETAGRAPHY', link: '/reference1/Beta/BETAGRAPHY' },
+        { text: '🔷 BETAGRAPHY', link: '/reference1/Beta/Betagraphy' },
         {
-          text: '🔷 BETASYSTEMA', link: '/reference1/Beta/BETASYSTEMA/Overview', collapsed: true, items: [
-            { text: '🔷 BETATAXON', link: '/reference1/Beta/BETATAXON' },
+          text: '🔷 BETASYSTEMA', link: '/reference1/Beta/BetaSystema/Overview', collapsed: true, items: [
+            { text: '🔷 BETATAXON', link: '/reference1/Beta/BetaTaxon' },
             { text: '🔷 BetaMethod', link: '/reference1/Beta/BetaMethod' },
             { text: '🔷 BetaBlock', link: '/reference1/Beta/BetaBlock' },
           ]
         },
         {
-          text: '🔷 BETAMETRON', link: '/reference1/Beta/BETAMETRON/Overview', collapsed: true, items: [
-            { text: '🔷 BetaExecutionMETRON', link: '/reference1/Beta/BETAMETRON/BetaExecutionMETRON' },
+          text: '🔷 BETAMETRON', link: '/reference1/Beta/BetaMetron/Overview', collapsed: true, items: [
+            { text: '🔷 BetaExecutionMETRON', link: '/reference1/Beta/BetaMetron/BetaExecutionMetron' },
             {
-              text: '🔷 BetaDifficultyMETRON', link: '/reference1/Beta/BETAMETRON/BetaDifficultyMETRON/Overview', collapsed: true, items: [
-                { text: '🔷 BetaComplexityScore', link: '/reference1/Beta/BETAMETRON/BetaDifficultyMETRON/BetaComplexityMETRON' },
-                { text: '🔷 BetaRiskScore', link: '/reference1/Beta/BETAMETRON/BetaDifficultyMETRON/BetaRiskMETRON' },
-                { text: '🔷 BetaIntensityScore', link: '/reference1/Beta/BETAMETRON/BetaDifficultyMETRON/BetaIntensityMETRON' }
+              text: '🔷 BetaDifficultyMETRON', link: '/reference1/Beta/BetaMetron/BetaDifficultyMetron/Overview', collapsed: true, items: [
+                { text: '🔷 BetaComplexityScore', link: '/reference1/Beta/BetaMetron/BetaDifficultyMetron/BetaComplexityMetron' },
+                { text: '🔷 BetaRiskScore', link: '/reference1/Beta/BetaMetron/BetaDifficultyMetron/BetaRiskMetron' },
+                { text: '🔷 BetaIntensityScore', link: '/reference1/Beta/BetaMetron/BetaDifficultyMetron/BetaIntensityMetron' }
               ]
             }
           ]
         },
         {
-          text: '🔷 BETATEKNIK', link: '/reference1/Beta/BETATEKNIK/Overview', collapsed: true, items: [
-            { text: '🔷 BetaComplexity', link: '/reference1/Beta/BETATEKNIK/BetaComplexity' },
-            { text: '🔷 BetaIntensity', link: '/reference1/Beta/BETATEKNIK/BetaIntensity' },
-            { text: '🔷 BetaRisk', link: '/reference1/Beta/BETATEKNIK/BetaRisk' }
+          text: '🔷 BETATEKNIK', link: '/reference1/Beta/BetaTeknik/Overview', collapsed: true, items: [
+            { text: '🔷 BetaComplexity', link: '/reference1/Beta/BetaTeknik/BetaComplexity' },
+            { text: '🔷 BetaIntensity', link: '/reference1/Beta/BetaTeknik/BetaIntensity' },
+            { text: '🔷 BetaRisk', link: '/reference1/Beta/BetaTeknik/BetaRisk' }
           ]
         },
         {
@@ -167,15 +167,15 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🔷 BETASKHEMA', link: '/reference1/Beta/BETASKHEMA/Overview', collapsed: true, items: [
+          text: '🔷 BETASKHEMA', link: '/reference1/Beta/BetaSkhema/Overview', collapsed: true, items: [
             {
               text: '🔷 BetaAttribute', link: '/reference1/Beta/BePython/Overview', collapsed: true, items: [
-                { text: '🔷 BetaRisk', link: '/reference1/Beta/BetaDifficulty/BetaRisk' }
+                { text: '🔷 BetaRisk', link: '/reference1/Beta/BetaTeknik/BetaRisk' }
               ]
             },
             {
               text: '🔷 BetaMethod', link: '/reference1/Beta/BetaMethod/Overview', collapsed: true, items: [
-                { text: '🔷 BetaRisk', link: '/reference1/Beta/BetaDifficulty/BetaRisk' }
+                { text: '🔷 BetaRisk', link: '/reference1/Beta/BetaTekn/BetaRisk' }
               ]
             },
             {
@@ -191,10 +191,10 @@ function sidebarReference() {
     {
       text: '🟩 <eco>Eco</eco>', collapsed: true, link: '/reference1/Eco/EcoOverview', items: [
         {
-          text: '🔷 EcoDifficulty', link: '/reference1/Eco/EcoDifficulty', collapsed: true, items: [
-            { text: '🟩 EcoComplexity', link: '/reference1/Eco/EcoDifficulty/EcoComplexity' },
-            { text: '🟩 EcoIntensity', link: '/reference1/Eco/EcoDifficulty/EcoIntensity' },
-            { text: '🟩 EcoRisk', link: '/reference1/Eco/EcoDifficulty/EcoRisk' },
+          text: '🔷 EcoTeknik', link: '/reference1/Eco/EcoTeknik', collapsed: true, items: [
+            { text: '🟩 EcoComplexity', link: '/reference1/Eco/EcoTeknik/EcoComplexity' },
+            { text: '🟩 EcoIntensity', link: '/reference1/Eco/EcoTeknik/EcoIntensity' },
+            { text: '🟩 EcoRisk', link: '/reference1/Eco/EcoTeknik/EcoRisk' },
           ]
         }
       ]
@@ -213,21 +213,21 @@ function sidebarReference() {
         },
         {
           text: '🟠 MotoScore', link: '/reference1/Moto/MotoScore/Overview', collapsed: true, items: [
-            { text: '🟠 MotoExecutionMETRON', link: '/reference1/Moto/MotoScore/MotoExecutionMETRON' },
+            { text: '🟠 MotoExecutionMetron', link: '/reference1/Moto/MotoScore/MotoExecutionMetron' },
             {
-              text: '🟠 MotoDifficultyMETRON', link: '/reference1/Moto/MotoScore/MotoDifficultyMETRON/Overview', collapsed: true, items: [
-                { text: '🟠 MotoComplexityScore', link: '/reference1/Moto/MotoScore/MotoDifficultyMETRON/MotoComplexityScore' },
-                { text: '🟠 MotoRiskScore', link: '/reference1/Moto/MotoScore/MotoDifficultyMETRON/MotoRiskScore' },
-                { text: '🟠 MotoIntensityScore', link: '/reference1/Moto/MotoScore/MotoDifficultyMETRON/MotoIntensityScore' }
+              text: '🟠 MotoTeknikMetron', link: '/reference1/Moto/MotoScore/MotoTeknikMetron/Overview', collapsed: true, items: [
+                { text: '🟠 MotoComplexityScore', link: '/reference1/Moto/MotoScore/MotoTeknikMetron/MotoComplexityMetron' },
+                { text: '🟠 MotoRiskScore', link: '/reference1/Moto/MotoScore/MotoTeknikMetron/MotoRiskMetron' },
+                { text: '🟠 MotoIntensityScore', link: '/reference1/Moto/MotoScore/MotoTeknikMetron/MotoIntensityMetron' }
               ]
             }
           ]
         },
         {
-          text: '🟠 MotoDifficulty', link: '/reference1/Moto/MotoDifficulty/Overview', collapsed: true, items: [
-            { text: '🟠 MotoComplexity', link: '/reference1/Moto/MotoDifficulty/MotoComplexity' },
-            { text: '🟠 MotoIntensity', link: '/reference1/Moto/MotoDifficulty/MotoIntensity' },
-            { text: '🟠 MotoRisk', link: '/reference1/Moto/MotoDifficulty/MotoRisk' }
+          text: '🟠 MotoTeknik', link: '/reference1/Moto/MotoTeknik/Overview', collapsed: true, items: [
+            { text: '🟠 MotoComplexity', link: '/reference1/Moto/MotoTeknik/MotoComplexity' },
+            { text: '🟠 MotoIntensity', link: '/reference1/Moto/MotoTeknik/MotoIntensity' },
+            { text: '🟠 MotoRisk', link: '/reference1/Moto/MotoTeknik/MotoRisk' }
           ]
         },
         {
@@ -240,7 +240,7 @@ function sidebarReference() {
     {
       text: '🔻 <via>Via</via>', link: '/reference1/Via/ViaOverview', collapsed: true, items: [
         { text: '🔷 Via Sequence', link: '/reference1/Via/ViaSequence/Overview' },
-        { text: '🔷 Via Difficulty', link: '/reference1/Via/ViaDifficulty' },
+        { text: '🔷 ViaTeknik', link: '/reference1/Via/ViaTeknik' },
         {
           text: '🔻 ViaGeometry', link: '/reference1/Via/ViaGeometry/Overview', collapsed: true, items: [
             {
@@ -288,7 +288,7 @@ function sidebarReference() {
     // #Neuro
     {
       text: '💜 <neuro>Neuro</neuro>', link: '/reference1/Neuro/NeuroOverview', collapsed: true, items: [
-        { text: '🔷 Neuro Difficulty', link: '/reference1/Neuro/NeuroDifficulty' },
+        { text: '🔷 Neuro Difficulty', link: '/reference1/Neuro/NeuroTeknik' },
         {
           text: '💜 Arousal', link: '/reference1/Neuro/Arousal/Overview', collapsed: true, items: [
           ]
