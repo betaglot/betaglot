@@ -40,7 +40,7 @@ export default defineConfig({
 
 function sidebarGuide() {
   return [
-    { text: '<dev>What is BETAGLOT?</dev>', link: '/guide/WhatBetaglot' },
+    { text: '<dev>What is Betaglot?</dev>', link: '/guide/WhatBetaglot' },
 
   ]
 }
