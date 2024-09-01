@@ -24,6 +24,8 @@ Use 'K' instead of 'C'
         - Genes code proteins. If Beta is an assembly of proteins, then what are
         - Proteins are BetaMethods, Genes are BetaAttributes
 
+- Period
+    - Periodic: Cycle
 - Betataxon = BETATAXON
 - BETAMETRON
     - Measure

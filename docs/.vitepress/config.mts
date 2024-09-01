@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference1/site-config
+// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "BETAGLOT",
   description: "EVERYTHING IS CONNECTED",
@@ -27,10 +27,10 @@ export default defineConfig({
       provider: 'local'
     },
     sidebar: {
-      '/guide1/': sidebarGuide(),
+      '/guide/': sidebarGuide(),
       '/examples/': sidebarExamples(),
       '/tutorial/': sidebarTutorial(),
-      '/reference1/': sidebarReference(),
+      '/reference/': sidebarReference(),
       '/dev/': sidebarDevelopment(),
       '/app/': sidebarApp()
     },
@@ -40,7 +40,14 @@ export default defineConfig({
 
 function sidebarGuide() {
   return [
-    { text: '<dev>What is Betaglot?</dev>', link: '/guide1/WhatBetaglot' },
+    { text: '<dev>What is Betaglot?</dev>', link: '/guide/WhatBetaglot'},
+    { text: '<dev>ClassicalPeriod</dev>', link: '/guide/ClassicalPeriod/WhatBetaglot', collapsed: true, items: [
+      { text: '<dev>What is Betaglot?</dev>', link: '/guide/ClassicalPeriod/WhatBetaglot'},
+      { text: '<dev>What is Betaglot?</dev>', link: '/guide/ClassicalPeriod/WhatBetaglot'},
+      { text: '<dev>What is Betaglot?</dev>', link: '/guide/ClassicalPeriod/WhatBetaglot'},
+      { text: '<dev>Geometry</dev>', link: '/guide/ClassicalPeriod/Geometry'},
+
+    ]},
 
   ]
 }
@@ -96,12 +103,12 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: '/guide1/WhatBetaglot',
-      activeMatch: '/guide1/'
+      link: '/guide/WhatBetaglot',
+      activeMatch: '/guide/'
     },
     {
       text: 'Examples',
-      link: '/examples1/ExamplesOverview',
+      link: '/examples/ExamplesOverview',
       activeMatch: '/examples/'
     },
     {
@@ -111,8 +118,8 @@ function nav() {
     },
     {
       text: 'Reference',
-      link: '/reference1/RefOverview',
-      activeMatch: '/reference1/'
+      link: '/reference/RefOverview',
+      activeMatch: '/reference/'
     },
     {
       text: '🔷',
@@ -129,58 +136,58 @@ function nav() {
 
 function sidebarReference() {
   return [
-    { text: '<strong>Reference Overview</strong>', link: '/reference1/RefOverview' },
+    { text: '<strong>Reference Overview</strong>', link: '/reference/RefOverview' },
     // #Beta
     {
-      text: '🔷 <beta>Beta</beta>', link: '/reference1/Beta/WhatBeta', collapsed: true, items: [
-        { text: '🔷 BetaExamples', link: '/reference1/Beta/BetaExample/Example_Betagram' },
-        { text: '🔷 BetaLingo', link: '/reference1/Beta/BetaLingo/Overview' },
-        { text: '🔷 BETAGRAPHY', link: '/reference1/Beta/Betagraphy' },
+      text: '🔷 <beta>Beta</beta>', link: '/reference/Beta/WhatBeta', collapsed: true, items: [
+        { text: '🔷 BetaExamples', link: '/reference/Beta/BetaExample/Example_Betagram' },
+        { text: '🔷 BetaLingo', link: '/reference/Beta/BetaLingo/Overview' },
+        { text: '🔷 BETAGRAPHY', link: '/reference/Beta/Betagraphy' },
         {
-          text: '🔷 BETASYSTEMA', link: '/reference1/Beta/BetaSystema/Overview', collapsed: true, items: [
-            { text: '🔷 BETATAXON', link: '/reference1/Beta/BetaTaxon' },
-            { text: '🔷 BetaMethod', link: '/reference1/Beta/BetaMethod' },
-            { text: '🔷 BetaBlock', link: '/reference1/Beta/BetaBlock' },
+          text: '🔷 BETASYSTEMA', link: '/reference/Beta/BetaSystema/Overview', collapsed: true, items: [
+            { text: '🔷 BETATAXON', link: '/reference/Beta/BetaTaxon' },
+            { text: '🔷 BetaMethod', link: '/reference/Beta/BetaMethod' },
+            { text: '🔷 BetaBlock', link: '/reference/Beta/BetaBlock' },
           ]
         },
         {
-          text: '🔷 BETAMETRON', link: '/reference1/Beta/BetaMetron/Overview', collapsed: true, items: [
-            { text: '🔷 BetaExecutionMETRON', link: '/reference1/Beta/BetaMetron/BetaExecutionMetron' },
+          text: '🔷 BETAMETRON', link: '/reference/Beta/BetaMetron/Overview', collapsed: true, items: [
+            { text: '🔷 BetaExecutionMETRON', link: '/reference/Beta/BetaMetron/BetaExecutionMetron' },
             {
-              text: '🔷 BetaDifficultyMETRON', link: '/reference1/Beta/BetaMetron/BetaDifficultyMetron/Overview', collapsed: true, items: [
-                { text: '🔷 BetaComplexityScore', link: '/reference1/Beta/BetaMetron/BetaDifficultyMetron/BetaComplexityMetron' },
-                { text: '🔷 BetaRiskScore', link: '/reference1/Beta/BetaMetron/BetaDifficultyMetron/BetaRiskMetron' },
-                { text: '🔷 BetaIntensityScore', link: '/reference1/Beta/BetaMetron/BetaDifficultyMetron/BetaIntensityMetron' }
+              text: '🔷 BetaDifficultyMETRON', link: '/reference/Beta/BetaMetron/BetaDifficultyMetron/Overview', collapsed: true, items: [
+                { text: '🔷 BetaComplexityScore', link: '/reference/Beta/BetaMetron/BetaDifficultyMetron/BetaComplexityMetron' },
+                { text: '🔷 BetaRiskScore', link: '/reference/Beta/BetaMetron/BetaDifficultyMetron/BetaRiskMetron' },
+                { text: '🔷 BetaIntensityScore', link: '/reference/Beta/BetaMetron/BetaDifficultyMetron/BetaIntensityMetron' }
               ]
             }
           ]
         },
         {
-          text: '🔷 BETATEKNIK', link: '/reference1/Beta/BetaTeknik/Overview', collapsed: true, items: [
-            { text: '🔷 BetaComplexity', link: '/reference1/Beta/BetaTeknik/BetaComplexity' },
-            { text: '🔷 BetaIntensity', link: '/reference1/Beta/BetaTeknik/BetaIntensity' },
-            { text: '🔷 BetaRisk', link: '/reference1/Beta/BetaTeknik/BetaRisk' }
+          text: '🔷 BETATEKNIK', link: '/reference/Beta/BetaTeknik/Overview', collapsed: true, items: [
+            { text: '🔷 BetaComplexity', link: '/reference/Beta/BetaTeknik/BetaComplexity' },
+            { text: '🔷 BetaIntensity', link: '/reference/Beta/BetaTeknik/BetaIntensity' },
+            { text: '🔷 BetaRisk', link: '/reference/Beta/BetaTeknik/BetaRisk' }
           ]
         },
         {
-          text: '🔷 BetaVideo', link: '/reference1/Beta/BetaVideo/Overview', collapsed: true, items: [
+          text: '🔷 BetaVideo', link: '/reference/Beta/BetaVideo/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '🔷 BETASKHEMA', link: '/reference1/Beta/BetaSkhema/Overview', collapsed: true, items: [
+          text: '🔷 BETASKHEMA', link: '/reference/Beta/BetaSkhema/Overview', collapsed: true, items: [
             {
-              text: '🔷 BetaAttribute', link: '/reference1/Beta/BePython/Overview', collapsed: true, items: [
-                { text: '🔷 BetaRisk', link: '/reference1/Beta/BetaTeknik/BetaRisk' }
+              text: '🔷 BetaAttribute', link: '/reference/Beta/BePython/Overview', collapsed: true, items: [
+                { text: '🔷 BetaRisk', link: '/reference/Beta/BetaTeknik/BetaRisk' }
               ]
             },
             {
-              text: '🔷 BetaMethod', link: '/reference1/Beta/BetaMethod/Overview', collapsed: true, items: [
-                { text: '🔷 BetaRisk', link: '/reference1/Beta/BetaTekn/BetaRisk' }
+              text: '🔷 BetaMethod', link: '/reference/Beta/BetaMethod/Overview', collapsed: true, items: [
+                { text: '🔷 BetaRisk', link: '/reference/Beta/BetaTekn/BetaRisk' }
               ]
             },
             {
-              text: '🔷 BePython', link: '/reference1/Beta/BePython/Overview', collapsed: true, items: [
-                { text: '🔷 BetaRisk', link: '/reference1/Beta/BetaDifficulty/BetaRisk' }
+              text: '🔷 BePython', link: '/reference/Beta/BePython/Overview', collapsed: true, items: [
+                { text: '🔷 BetaRisk', link: '/reference/Beta/BetaDifficulty/BetaRisk' }
               ]
             },
           ]
@@ -189,204 +196,204 @@ function sidebarReference() {
     },
     // #Eco
     {
-      text: '🟩 <eco>Eco</eco>', collapsed: true, link: '/reference1/Eco/EcoOverview', items: [
+      text: '🟩 <eco>Eco</eco>', collapsed: true, link: '/reference/Eco/EcoOverview', items: [
         {
-          text: '🔷 EcoTeknik', link: '/reference1/Eco/EcoTeknik', collapsed: true, items: [
-            { text: '🟩 EcoComplexity', link: '/reference1/Eco/EcoTeknik/EcoComplexity' },
-            { text: '🟩 EcoIntensity', link: '/reference1/Eco/EcoTeknik/EcoIntensity' },
-            { text: '🟩 EcoRisk', link: '/reference1/Eco/EcoTeknik/EcoRisk' },
+          text: '🔷 EcoTeknik', link: '/reference/Eco/EcoTeknik', collapsed: true, items: [
+            { text: '🟩 EcoComplexity', link: '/reference/Eco/EcoTeknik/EcoComplexity' },
+            { text: '🟩 EcoIntensity', link: '/reference/Eco/EcoTeknik/EcoIntensity' },
+            { text: '🟩 EcoRisk', link: '/reference/Eco/EcoTeknik/EcoRisk' },
           ]
         }
       ]
     },
     //#Moto
     {
-      text: '🟠 <Moto>Moto</Moto>', link: '/reference1/Moto/MotoOverview', collapsed: true, items: [
-        { text: '🟠 MotoExamples', link: '/reference1/Moto/MotoExamples' },
-        { text: '🟠 MotoDiagram', link: '/reference1/Moto/MotoDiagram' },
+      text: '🟠 <Moto>Moto</Moto>', link: '/reference/Moto/MotoOverview', collapsed: true, items: [
+        { text: '🟠 MotoExamples', link: '/reference/Moto/MotoExamples' },
+        { text: '🟠 MotoDiagram', link: '/reference/Moto/MotoDiagram' },
         {
-          text: '🟠 BePython', link: '/reference1/Moto/PlantMoto/Overview', collapsed: true, items: [
-            { text: '🟠 MotoClass', link: '/reference1/Moto/MotoClass' },
-            { text: '🟠 MotoMethod', link: '/reference1/Moto/MotoMethod' },
-            { text: '🟠 MotoBlock', link: '/reference1/Moto/MotoBlock' },
+          text: '🟠 BePython', link: '/reference/Moto/PlantMoto/Overview', collapsed: true, items: [
+            { text: '🟠 MotoClass', link: '/reference/Moto/MotoClass' },
+            { text: '🟠 MotoMethod', link: '/reference/Moto/MotoMethod' },
+            { text: '🟠 MotoBlock', link: '/reference/Moto/MotoBlock' },
           ]
         },
         {
-          text: '🟠 MotoScore', link: '/reference1/Moto/MotoScore/Overview', collapsed: true, items: [
-            { text: '🟠 MotoExecutionMetron', link: '/reference1/Moto/MotoScore/MotoExecutionMetron' },
+          text: '🟠 MotoScore', link: '/reference/Moto/MotoScore/Overview', collapsed: true, items: [
+            { text: '🟠 MotoExecutionMetron', link: '/reference/Moto/MotoScore/MotoExecutionMetron' },
             {
-              text: '🟠 MotoTeknikMetron', link: '/reference1/Moto/MotoScore/MotoTeknikMetron/Overview', collapsed: true, items: [
-                { text: '🟠 MotoComplexityScore', link: '/reference1/Moto/MotoScore/MotoTeknikMetron/MotoComplexityMetron' },
-                { text: '🟠 MotoRiskScore', link: '/reference1/Moto/MotoScore/MotoTeknikMetron/MotoRiskMetron' },
-                { text: '🟠 MotoIntensityScore', link: '/reference1/Moto/MotoScore/MotoTeknikMetron/MotoIntensityMetron' }
+              text: '🟠 MotoTeknikMetron', link: '/reference/Moto/MotoScore/MotoTeknikMetron/Overview', collapsed: true, items: [
+                { text: '🟠 MotoComplexityScore', link: '/reference/Moto/MotoScore/MotoTeknikMetron/MotoComplexityMetron' },
+                { text: '🟠 MotoRiskScore', link: '/reference/Moto/MotoScore/MotoTeknikMetron/MotoRiskMetron' },
+                { text: '🟠 MotoIntensityScore', link: '/reference/Moto/MotoScore/MotoTeknikMetron/MotoIntensityMetron' }
               ]
             }
           ]
         },
         {
-          text: '🟠 MotoTeknik', link: '/reference1/Moto/MotoTeknik/Overview', collapsed: true, items: [
-            { text: '🟠 MotoComplexity', link: '/reference1/Moto/MotoTeknik/MotoComplexity' },
-            { text: '🟠 MotoIntensity', link: '/reference1/Moto/MotoTeknik/MotoIntensity' },
-            { text: '🟠 MotoRisk', link: '/reference1/Moto/MotoTeknik/MotoRisk' }
+          text: '🟠 MotoTeknik', link: '/reference/Moto/MotoTeknik/Overview', collapsed: true, items: [
+            { text: '🟠 MotoComplexity', link: '/reference/Moto/MotoTeknik/MotoComplexity' },
+            { text: '🟠 MotoIntensity', link: '/reference/Moto/MotoTeknik/MotoIntensity' },
+            { text: '🟠 MotoRisk', link: '/reference/Moto/MotoTeknik/MotoRisk' }
           ]
         },
         {
-          text: '🟠 MotoVideo', link: '/reference1/Moto/MotoVideo/Overview', collapsed: true, items: [
+          text: '🟠 MotoVideo', link: '/reference/Moto/MotoVideo/Overview', collapsed: true, items: [
           ]
         },
       ]
     },
     // #Via
     {
-      text: '🔻 <via>Via</via>', link: '/reference1/Via/ViaOverview', collapsed: true, items: [
-        { text: '🔷 Via Sequence', link: '/reference1/Via/ViaSequence/Overview' },
-        { text: '🔷 ViaTeknik', link: '/reference1/Via/ViaTeknik' },
+      text: '🔻 <via>Via</via>', link: '/reference/Via/ViaOverview', collapsed: true, items: [
+        { text: '🔷 Via Sequence', link: '/reference/Via/ViaSequence/Overview' },
+        { text: '🔷 ViaTeknik', link: '/reference/Via/ViaTeknik' },
         {
-          text: '🔻 ViaGeometry', link: '/reference1/Via/ViaGeometry/Overview', collapsed: true, items: [
+          text: '🔻 ViaGeometry', link: '/reference/Via/ViaGeometry/Overview', collapsed: true, items: [
             {
-              text: '🔻 ViaPoint', link: '/reference1/Via/ViaGeometry/ViaPoint/Overview', collapsed: true, items: [
-                { text: '🔻 Viewpoint', link: '/reference1/Via/ViaGeometry/ViaPoint/Viewpoint' },
-                { text: '🔻 CenterPoint', link: '/reference1/Via/ViaGeometry/ViaPoint/CenterPoint' },
-                { text: '🔻 InflectionPoint', link: '/reference1/Via/ViaGeometry/ViaPoint/InflectionPoint' },
-                { text: '🔻 Midpoint', link: '/reference1/Via/ViaGeometry/ViaPoint/MidPoint' },
-                { text: '🔻 ReferencePoint', link: '/reference1/Via/ViaGeometry/ViaPoint/ReferencePoint' },
-                { text: '🔻 ReflectionPoint', link: '/reference1/Via/ViaGeometry/ViaPoint/ReflectionPoint' },
-                { text: '🔻 TargetPoint', link: '/reference1/Via/ViaGeometry/ViaPoint/TargetPoint' },
+              text: '🔻 ViaPoint', link: '/reference/Via/ViaGeometry/ViaPoint/Overview', collapsed: true, items: [
+                { text: '🔻 Viewpoint', link: '/reference/Via/ViaGeometry/ViaPoint/Viewpoint' },
+                { text: '🔻 CenterPoint', link: '/reference/Via/ViaGeometry/ViaPoint/CenterPoint' },
+                { text: '🔻 InflectionPoint', link: '/reference/Via/ViaGeometry/ViaPoint/InflectionPoint' },
+                { text: '🔻 Midpoint', link: '/reference/Via/ViaGeometry/ViaPoint/MidPoint' },
+                { text: '🔻 ReferencePoint', link: '/reference/Via/ViaGeometry/ViaPoint/ReferencePoint' },
+                { text: '🔻 ReflectionPoint', link: '/reference/Via/ViaGeometry/ViaPoint/ReflectionPoint' },
+                { text: '🔻 TargetPoint', link: '/reference/Via/ViaGeometry/ViaPoint/TargetPoint' },
               ]
             },
             {
-              text: '🔻 ViaCurve', link: '/reference1/Via/ViaGeometry/ViaCurve/Overview', collapsed: true, items: [
-                { text: '🔻 AroundCurve', link: '/reference1/Via/ViaGeometry/ViaCurve/CircumventCurve' },
-                { text: '🔻 GhostLine', link: '/reference1/Via/ViaGeometry/ViaCurve/GhostLine' },
-                { text: '🔻 ParallelCurve', link: '/reference1/Via/ViaGeometry/ViaCurve/ParallelCurve' },
-                { text: '🔻 PerimeterCurve', link: '/reference1/Via/ViaGeometry/ViaCurve/PerimeterCurve' },
-                { text: '🔻 SpiralCurve', link: '/reference1/Via/ViaGeometry/ViaCurve/SpiralCurve' },
-                { text: '🔻 TurnAroundCurve', link: '/reference1/Via/ViaGeometry/ViaCurve/TurnAroundCurve' },
-                { text: '🔻 ZigzagCurve', link: '/reference1/Via/ViaGeometry/ViaCurve/ZigzagCurve' },
+              text: '🔻 ViaCurve', link: '/reference/Via/ViaGeometry/ViaCurve/Overview', collapsed: true, items: [
+                { text: '🔻 AroundCurve', link: '/reference/Via/ViaGeometry/ViaCurve/CircumventCurve' },
+                { text: '🔻 GhostLine', link: '/reference/Via/ViaGeometry/ViaCurve/GhostLine' },
+                { text: '🔻 ParallelCurve', link: '/reference/Via/ViaGeometry/ViaCurve/ParallelCurve' },
+                { text: '🔻 PerimeterCurve', link: '/reference/Via/ViaGeometry/ViaCurve/PerimeterCurve' },
+                { text: '🔻 SpiralCurve', link: '/reference/Via/ViaGeometry/ViaCurve/SpiralCurve' },
+                { text: '🔻 TurnAroundCurve', link: '/reference/Via/ViaGeometry/ViaCurve/TurnAroundCurve' },
+                { text: '🔻 ZigzagCurve', link: '/reference/Via/ViaGeometry/ViaCurve/ZigzagCurve' },
               ]
             },
             {
-              text: '🔻 ViaSpace', link: '/reference1/Via/ViaGeometry/ViaSpace/Overview', collapsed: true, items: [
-                { text: '🔻 MaximumSpacing', link: '/reference1/Via/ViaGeometry/ViaSpace/MaximumSpacing' },
-                { text: '🔻 MinimumSpacing', link: '/reference1/Via/ViaGeometry/ViaSpace/MinimumSpacing' },
-                { text: '🔻 OptimalSpacing', link: '/reference1/Via/ViaGeometry/ViaSpace/OptimalSpacing' },
-                { text: '🔻 ElasticSpacing', link: '/reference1/Via/ViaGeometry/ViaSpace/ElasticSpacing' },
-                { text: '🔻 SpacingOnSlope', link: '/reference1/Via/ViaGeometry/ViaSpace/SpacingOnSlope' },
+              text: '🔻 ViaSpace', link: '/reference/Via/ViaGeometry/ViaSpace/Overview', collapsed: true, items: [
+                { text: '🔻 MaximumSpacing', link: '/reference/Via/ViaGeometry/ViaSpace/MaximumSpacing' },
+                { text: '🔻 MinimumSpacing', link: '/reference/Via/ViaGeometry/ViaSpace/MinimumSpacing' },
+                { text: '🔻 OptimalSpacing', link: '/reference/Via/ViaGeometry/ViaSpace/OptimalSpacing' },
+                { text: '🔻 ElasticSpacing', link: '/reference/Via/ViaGeometry/ViaSpace/ElasticSpacing' },
+                { text: '🔻 SpacingOnSlope', link: '/reference/Via/ViaGeometry/ViaSpace/SpacingOnSlope' },
               ]
             },
             {
-              text: '🔻 ViaSurface', link: '/reference1/Via/ViaGeometry/ViaSurface/Overview', collapsed: true, items: [
-                { text: '🔻 ViaSurface Texture', link: '/reference1/Via/ViaSurface/ViaSurfaceTexture' },
+              text: '🔻 ViaSurface', link: '/reference/Via/ViaGeometry/ViaSurface/Overview', collapsed: true, items: [
+                { text: '🔻 ViaSurface Texture', link: '/reference/Via/ViaSurface/ViaSurfaceTexture' },
               ]
             },
           ]
         },
-        { text: '🔻 Via Problem', link: '/reference1/Via/ViaProblem/Overview', collapsed: true, items: [] },
-        { text: '🔻 Via Theorem', link: '/reference1/Via/ViaTheorem/Overview', collapsed: true, items: [] }
+        { text: '🔻 Via Problem', link: '/reference/Via/ViaProblem/Overview', collapsed: true, items: [] },
+        { text: '🔻 Via Theorem', link: '/reference/Via/ViaTheorem/Overview', collapsed: true, items: [] }
       ]
     },
     // #Neuro
     {
-      text: '💜 <neuro>Neuro</neuro>', link: '/reference1/Neuro/NeuroOverview', collapsed: true, items: [
-        { text: '🔷 Neuro Difficulty', link: '/reference1/Neuro/NeuroTeknik' },
+      text: '💜 <neuro>Neuro</neuro>', link: '/reference/Neuro/NeuroOverview', collapsed: true, items: [
+        { text: '🔷 Neuro Difficulty', link: '/reference/Neuro/NeuroTeknik' },
         {
-          text: '💜 Arousal', link: '/reference1/Neuro/Arousal/Overview', collapsed: true, items: [
+          text: '💜 Arousal', link: '/reference/Neuro/Arousal/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 Attention', link: '/reference1/Neuro/Attention/Overview', collapsed: true, items: [
+          text: '💜 Attention', link: '/reference/Neuro/Attention/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 Audio', link: '/reference1/Neuro/Audio/Overview', collapsed: true, items: [
+          text: '💜 Audio', link: '/reference/Neuro/Audio/Overview', collapsed: true, items: [
             {
-              text: '💜 Music', link: '/reference1/Neuro/Audio/Music/Overview', collapsed: true, items: [
-                { text: '💜 Playlists', link: '/reference1/Neuro/Audio/Music/Overview' },
+              text: '💜 Music', link: '/reference/Neuro/Audio/Music/Overview', collapsed: true, items: [
+                { text: '💜 Playlists', link: '/reference/Neuro/Audio/Music/Overview' },
               ]
             },
-            { text: '💜 BranchBreakSound', link: '/reference1/Neuro/Audio/BranchBreakSound' },
-            { text: '💜 LogBreakSound', link: '/reference1/Neuro/Audio/LogBreakSound' },
-            { text: '💜 SlashSound', link: '/reference1/Neuro/Audio/SlashSound' },
-            { text: '💜 SpadeSound', link: '/reference1/Neuro/Audio/SpadeSound' },
-            { text: '💜 SoilSound', link: '/reference1/Neuro/Audio/SoilSound' },
+            { text: '💜 BranchBreakSound', link: '/reference/Neuro/Audio/BranchBreakSound' },
+            { text: '💜 LogBreakSound', link: '/reference/Neuro/Audio/LogBreakSound' },
+            { text: '💜 SlashSound', link: '/reference/Neuro/Audio/SlashSound' },
+            { text: '💜 SpadeSound', link: '/reference/Neuro/Audio/SpadeSound' },
+            { text: '💜 SoilSound', link: '/reference/Neuro/Audio/SoilSound' },
           ]
         },
         {
-          text: '💜 Awareness', link: '/reference1/Neuro/Awareness/Overview', collapsed: true, items: [
+          text: '💜 Awareness', link: '/reference/Neuro/Awareness/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 Counting', link: '/reference1/Neuro/Counting/Overview', collapsed: true, items: [
+          text: '💜 Counting', link: '/reference/Neuro/Counting/Overview', collapsed: true, items: [
           ]
         },
         {
           text: '💜 Decision', collapsed: true, items: [
-            { text: '💜 GoOrNoGo', link: '/reference1/Neuro/Decision/GoOrNoGo' },
-            { text: '💜 MicrositeSelection', link: '/reference1/Neuro/Decision/MicrositeSelection' },
+            { text: '💜 GoOrNoGo', link: '/reference/Neuro/Decision/GoOrNoGo' },
+            { text: '💜 MicrositeSelection', link: '/reference/Neuro/Decision/MicrositeSelection' },
           ]
         },
         {
-          text: '💜 Emotion', link: '/reference1/Neuro/Emotion/Overview', collapsed: true, items: [
-            { text: '💜 Anger', link: '/reference1/Neuro/Emotion/Anger' },
-            { text: '💜 Disgust', link: '/reference1/Neuro/Emotion/Disgust' },
-            { text: '💜 Fear', link: '/reference1/Neuro/Emotion/Fear' },
-            { text: '💜 Joy', link: '/reference1/Neuro/Emotion/Joy' },
-            { text: '💜 Sadness', link: '/reference1/Neuro/Emotion/Sadness' },
+          text: '💜 Emotion', link: '/reference/Neuro/Emotion/Overview', collapsed: true, items: [
+            { text: '💜 Anger', link: '/reference/Neuro/Emotion/Anger' },
+            { text: '💜 Disgust', link: '/reference/Neuro/Emotion/Disgust' },
+            { text: '💜 Fear', link: '/reference/Neuro/Emotion/Fear' },
+            { text: '💜 Joy', link: '/reference/Neuro/Emotion/Joy' },
+            { text: '💜 Sadness', link: '/reference/Neuro/Emotion/Sadness' },
           ]
         },
         {
-          text: '💜 Energy', link: '/reference1/Neuro/Energy/Overview', collapsed: true, items: [
+          text: '💜 Energy', link: '/reference/Neuro/Energy/Overview', collapsed: true, items: [
           ]
         },
         {
           text: '💜 Estimation', collapsed: true, items: [
-            { text: '💜 AreaEstimation', link: '/reference1/Neuro/Estimation/AreaEstimation' },
-            { text: '💜 BagCoverEstimation', link: '/reference1/Neuro/Estimation/BagCoverEstimation' },
-            { text: '💜 DistanceEstimation', link: '/reference1/Neuro/Estimation/DistanceEstimation' },
-            { text: '💜 TimeEstimation', link: '/reference1/Neuro/Estimation/TimeEstimation' },
+            { text: '💜 AreaEstimation', link: '/reference/Neuro/Estimation/AreaEstimation' },
+            { text: '💜 BagCoverEstimation', link: '/reference/Neuro/Estimation/BagCoverEstimation' },
+            { text: '💜 DistanceEstimation', link: '/reference/Neuro/Estimation/DistanceEstimation' },
+            { text: '💜 TimeEstimation', link: '/reference/Neuro/Estimation/TimeEstimation' },
           ]
         },
         {
-          text: '💜 Event', link: '/reference1/Neuro/Event/Overview', collapsed: true, items: [
+          text: '💜 Event', link: '/reference/Neuro/Event/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 Homeostasis', link: '/reference1/Neuro/Homeostasis/Overview', collapsed: true, items: [
+          text: '💜 Homeostasis', link: '/reference/Neuro/Homeostasis/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 Memory', link: '/reference1/Neuro/Memory/Overview', collapsed: true, items: [
-            { text: '💜 WorkingMemory', link: '/reference1/Neuro/Memory/WorkingMemory' },
-            { text: '💜 ShortTermMemory', link: '/reference1/Neuro/Memory/ShortTermMemory' },
-            { text: '💜 LongTermMemory', link: '/reference1/Neuro/Memory/LongTermMemory' },
-            { text: '💜 NumberMemory', link: '/reference1/Neuro/Memory/NumberMemory' },
-            { text: '💜 ViaMemory', link: '/reference1/Neuro/Memory/ViaMemory' },
+          text: '💜 Memory', link: '/reference/Neuro/Memory/Overview', collapsed: true, items: [
+            { text: '💜 WorkingMemory', link: '/reference/Neuro/Memory/WorkingMemory' },
+            { text: '💜 ShortTermMemory', link: '/reference/Neuro/Memory/ShortTermMemory' },
+            { text: '💜 LongTermMemory', link: '/reference/Neuro/Memory/LongTermMemory' },
+            { text: '💜 NumberMemory', link: '/reference/Neuro/Memory/NumberMemory' },
+            { text: '💜 ViaMemory', link: '/reference/Neuro/Memory/ViaMemory' },
           ]
         },
         {
-          text: '💜 Mindfulness', link: '/reference1/Neuro/Mindfulness/Overview', collapsed: true, items: [
+          text: '💜 Mindfulness', link: '/reference/Neuro/Mindfulness/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 Muscle', link: '/reference1/Neuro/Muscle/Overview', collapsed: true, items: [
+          text: '💜 Muscle', link: '/reference/Neuro/Muscle/Overview', collapsed: true, items: [
           ]
         },
-        { text: '💜 Proprioception', link: '/reference1/Neuro/Proprioception/Overview' },
-        { text: '💜 Resilience', link: '/reference1/Neuro/Resilience/Overview' },
+        { text: '💜 Proprioception', link: '/reference/Neuro/Proprioception/Overview' },
+        { text: '💜 Resilience', link: '/reference/Neuro/Resilience/Overview' },
         {
-          text: '💜 SpatialCognition', link: '/reference1/Neuro/SpatialCognition/Overview', collapsed: true, items: [
+          text: '💜 SpatialCognition', link: '/reference/Neuro/SpatialCognition/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 Time', link: '/reference1/Neuro/Time/Overview', collapsed: true, items: [
-            { text: '💜 BagUpTime', link: '/reference1/Neuro/Time/BagUpTime' },
-            { text: '💜 DailySchedule', link: '/reference1/Neuro/Time/DailySchedule' },
-            { text: '💜 MotoTiming', link: '/reference1/Neuro/Time/MotoTiming' },
-            { text: '💜 Planning', link: '/reference1/Neuro/Time/Planning' },
-            { text: '💜 Timer', link: '/reference1/Neuro/Time/Timer' },
+          text: '💜 Time', link: '/reference/Neuro/Time/Overview', collapsed: true, items: [
+            { text: '💜 BagUpTime', link: '/reference/Neuro/Time/BagUpTime' },
+            { text: '💜 DailySchedule', link: '/reference/Neuro/Time/DailySchedule' },
+            { text: '💜 MotoTiming', link: '/reference/Neuro/Time/MotoTiming' },
+            { text: '💜 Planning', link: '/reference/Neuro/Time/Planning' },
+            { text: '💜 Timer', link: '/reference/Neuro/Time/Timer' },
           ]
         },
-        { text: '💜 Thermoception', link: '/reference1/Neuro/Thermoception' },
+        { text: '💜 Thermoception', link: '/reference/Neuro/Thermoception' },
       ]
     },
   ]
@@ -401,13 +408,13 @@ function sidebarTutorial() {
     { text: 'Matching', link: '/tutorial/Test_Matching' },
     { text: 'MultipleChoice', link: '/tutorial/Test_MultipleChoice' },
     { text: 'Sequencing', link: '/tutorial/Test_Sequencing' },
-    { text: 'Go to Reference', link: '/reference1/Overview' },
+    { text: 'Go to Reference', link: '/reference/Overview' },
   ]
 }
 
 function sidebarExamples() {
   return [
-    { text: 'Examples Overview', link: '/examples1/ExamplesOverview' },
+    { text: 'Examples Overview', link: '/examples/ExamplesOverview' },
     { text: 'Go to Tutorial', link: '/tutorial/TutorialOverview' },
   ]
 }

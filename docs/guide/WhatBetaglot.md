@@ -1,12 +1,8 @@
----
-sidebar: false
----
-
 # <beta>EVERYTHING</beta>
 
- <beta>IS</beta>
+# <beta>IS</beta>
 
- <beta>CONNECTED</beta>
+# <beta>CONNECTED</beta>
 
 🔷<beta>What is Betaglot?</beta>
 
