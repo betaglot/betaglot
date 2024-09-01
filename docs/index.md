@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: I'm new to BETAGLOT
-      link: /guide/WhatBetaglot
+      link: /guide1/WhatBetaglot
     - theme: alt
       text: Examples
       link: /examples/ExamplesOverview

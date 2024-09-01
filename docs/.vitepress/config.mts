@@ -27,7 +27,7 @@ export default defineConfig({
       provider: 'local'
     },
     sidebar: {
-      '/guide/': sidebarGuide(),
+      '/guide1/': sidebarGuide(),
       '/examples/': sidebarExamples(),
       '/tutorial/': sidebarTutorial(),
       '/reference1/': sidebarReference(),
@@ -40,7 +40,7 @@ export default defineConfig({
 
 function sidebarGuide() {
   return [
-    { text: '<dev>What is Betaglot?</dev>', link: '/guide/WhatBetaglot' },
+    { text: '<dev>What is Betaglot?</dev>', link: '/guide1/WhatBetaglot' },
 
   ]
 }
@@ -96,8 +96,8 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: '/guide/WhatBetaglot',
-      activeMatch: '/guide/'
+      link: '/guide1/WhatBetaglot',
+      activeMatch: '/guide1/'
     },
     {
       text: 'Examples',
