@@ -156,10 +156,10 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🔷 BetaDifficulty', link: '/reference/Beta/BetaDifficulty/Overview', collapsed: true, items: [
-            { text: '🔷 BetaComplexity', link: '/reference/Beta/BetaDifficulty/BetaComplexity' },
-            { text: '🔷 BetaIntensity', link: '/reference/Beta/BetaDifficulty/BetaIntensity' },
-            { text: '🔷 BetaRisk', link: '/reference/Beta/BetaDifficulty/BetaRisk' }
+          text: '🔷 BETATEKNIK', link: '/reference/Beta/BETATEKNIK/Overview', collapsed: true, items: [
+            { text: '🔷 BetaComplexity', link: '/reference/Beta/BETATEKNIK/BetaComplexity' },
+            { text: '🔷 BetaIntensity', link: '/reference/Beta/BETATEKNIK/BetaIntensity' },
+            { text: '🔷 BetaRisk', link: '/reference/Beta/BETATEKNIK/BetaRisk' }
           ]
         },
         {
