@@ -15,7 +15,7 @@ export default defineConfig({
   themeConfig: {
     siteTitle: "BETAGLOT",
     outline: [2, 4],
-    logo: 'Betaglot_Logo.png',
+    logo: '/Betaglot_Logo.png',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/betaglot/betaglot' }
     ],
