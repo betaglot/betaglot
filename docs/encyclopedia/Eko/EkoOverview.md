@@ -23,7 +23,7 @@ In PutPlant's <beta>Beta system</beta> the <eko>Eko</eko> module represents the 
 
 :::
 
-## <eko>What are Eco Fac?</eko
+## <eko>What are Eko Taxa?</eko>
 
 Eco Taxa are prefixed by a 🟩 green square icon
 
