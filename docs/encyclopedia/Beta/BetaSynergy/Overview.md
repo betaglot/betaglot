@@ -6,7 +6,7 @@
 
 ## ❌ Synergy.Error
 
-### ❌ Synergy.Error.Eco 🟩<eco></eco>
+### ❌ Synergy.Error.Eco 🟩<eko></eko>
 
 Unbundle heuristic during team plant block close
 

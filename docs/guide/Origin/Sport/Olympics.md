@@ -8,7 +8,7 @@
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -36,7 +36,7 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: =Opponent</eco>
+🟩<eko>Eco: =Opponent</eko>
 
 🟠<moto>Moto: </moto>
 
@@ -54,7 +54,7 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -70,7 +70,7 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -84,7 +84,7 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: Plant=Opponent</eco>
+🟩<eko>Eco: Plant=Opponent</eko>
 
 🟠<moto>Moto: </moto>
 
@@ -105,7 +105,7 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -119,7 +119,7 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: Spade=Paddle</moto>
 
@@ -145,7 +145,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -165,7 +165,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -179,7 +179,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -194,7 +194,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -213,7 +213,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 💜<neuro>Neuro: Neuro</neuro>
 
-🟩<eco>Eco: Opponent</eco>
+🟩<eko>Eco: Opponent</eko>
 
 🟠<moto>Moto: Submission, Position</moto>
 
@@ -237,7 +237,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -251,7 +251,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -274,7 +274,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -288,7 +288,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -302,7 +302,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -322,7 +322,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -336,7 +336,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -350,7 +350,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -364,7 +364,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -378,7 +378,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -399,7 +399,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -421,7 +421,7 @@ What is the name if the scooters' shaft?
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -435,7 +435,7 @@ What is the name if the scooters' shaft?
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -449,7 +449,7 @@ What is the name if the scooters' shaft?
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -465,7 +465,7 @@ Slalom where you hit the gates is the most like planting.
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: Topography=Topography, Microsite=Gate</eco>
+🟩<eko>Eco: Topography=Topography, Microsite=Gate</eko>
 
 🟠<moto>Moto: Spade=Pole</moto>
 
@@ -491,7 +491,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -505,7 +505,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -519,7 +519,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -533,7 +533,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -547,7 +547,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: Land=Wave</eco>
+🟩<eko>Eco: Land=Wave</eko>
 
 🟠<moto>Moto: Carve,Cut,NoseRiding,SwitchStance</moto>
 
@@ -561,7 +561,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -573,7 +573,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 

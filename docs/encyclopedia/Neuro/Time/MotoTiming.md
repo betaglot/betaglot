@@ -51,7 +51,7 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 🟩<eco>EcoFactors</eco>
+## Related 🟩<eko>EcoFactors</eko>
 
 -
 

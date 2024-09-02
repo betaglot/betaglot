@@ -67,7 +67,7 @@ View from road
 
 ViaPlan vs. ActualVia
 
-## <eco>EcoSpace</eco>
+## <eko>EcoSpace</eko>
 
 ## <moto>MotoSpace</moto>
 

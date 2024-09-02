@@ -48,7 +48,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 -
 
-## Related 🟩<eco>EcoFactors</eco>
+## Related 🟩<eko>EcoFactors</eko>
 
 -
 

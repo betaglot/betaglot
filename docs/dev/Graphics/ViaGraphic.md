@@ -88,7 +88,7 @@ How are the edges useful for spacing or knowing where to walk when is it advanta
 
 Aim for the convergence points
 
-### <eco>EcoVoronoi</eco>
+### <eko>EcoVoronoi</eko>
 
 Closest
 

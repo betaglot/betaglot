@@ -17,6 +17,6 @@ hero:
 
 features:
   - title: Last Updated
-    details: Aug 21, 2024
+    details: Sep 2, 2024
 ---
 

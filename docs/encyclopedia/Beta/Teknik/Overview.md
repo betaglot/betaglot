@@ -6,9 +6,6 @@ You meant what you said
 
 You did what you said you would do
 
-
-
-
 ::: tip Also Known As
 Difficulty Score, Technical Score
 :::

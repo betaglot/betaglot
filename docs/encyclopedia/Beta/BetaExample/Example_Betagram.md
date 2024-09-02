@@ -5,15 +5,15 @@
 
 ![Paper_BetaQuote](/Beta/Paper_BetaQuote.jpg)
 
-## 🔷<beta>"<via>Follow that <eco>stream</eco> up to the <eco>top corner</eco> <neuro>then</neuro> go left and BoustroCover </via> <neuro>then</neuro> <moto>walk </moto>back to cache"</beta>
+## 🔷<beta>"<via>Follow that <eko>stream</eko> up to the <eko>top corner</eko> <neuro>then</neuro> go left and BoustroCover </via> <neuro>then</neuro> <moto>walk </moto>back to cache"</beta>
 
 🔻<via>"Follow": CoverHeuristic</via>
 
-🟩<eco>"stream": Water</eco>
+🟩<eko>"stream": Water</eko>
 
 🔻<via>"up to the": TargetPoint</via>
 
-🟩<eco>"top corner": PieceShape</eco>
+🟩<eko>"top corner": PieceShape</eko>
 
 💜<neuro>"then": Event</neuro>
 
@@ -25,19 +25,19 @@
 
 🔻<via>"back to the cache": ViaFinishPoint</via>
 
-## 🔷<beta>"<via>Fill</via> the <eco>wet areas</eco> with <eco>spruce</eco>, you don't need to <moto>screef</moto> in the <eco>riparian areas</eco>"</beta>
+## 🔷<beta>"<via>Fill</via> the <eko>wet areas</eko> with <eko>spruce</eko>, you don't need to <moto>screef</moto> in the <eko>riparian areas</eko>"</beta>
 
 🔻<via>"Fill": Cover</via>
 
-🟩<eco>"wet areas": WetLand</eco>
+🟩<eko>"wet areas": WetLand</eko>
 
 💜<neuro>"don't need to": NOT</neuro>
 
-🟩<eco>"spruce": Seedling</eco>
+🟩<eko>"spruce": Seedling</eko>
 
 🟠<moto>"screef": ScreefMoto</moto>
 
-## 🔷<beta>"Only <via>flag</via> your <via>line in</via> and <neuro>if</neuro> you <via>leave</via> the <eco>trench</eco>"</beta>
+## 🔷<beta>"Only <via>flag</via> your <via>line in</via> and <neuro>if</neuro> you <via>leave</via> the <eko>trench</eko>"</beta>
 
 🔷<beta>"Only": </beta>
 
@@ -47,15 +47,15 @@
 
 💜<neuro>"if": Logic</neuro>
 
-🟩<eco>"trench": [TrenchLand](/encyclopedia/Eco/Prep/TrenchLand)</eco>
+🟩<eko>"trench": [TrenchLand](/encyclopedia/Eco/Prep/TrenchLand)</eko>
 
-## 🔷<beta>"I've been <via>backfilling</via> this <eco>piece</eco>"</beta>
+## 🔷<beta>"I've been <via>backfilling</via> this <eko>piece</eko>"</beta>
 
 🔻<via>"backfilling": BackCover</via>
 
-🟩<eco>"piece": Piece</eco>
+🟩<eko>"piece": Piece</eko>
 
-## 🔷<beta>"<neuro>When</neuro> we <via>get to</via> that <eco>boulder</eco> we'll <via>turn back</via>"</beta>
+## 🔷<beta>"<neuro>When</neuro> we <via>get to</via> that <eko>boulder</eko> we'll <via>turn back</via>"</beta>
 
 💜<neuro>"When": Event</neuro>
 
@@ -63,11 +63,11 @@
 
 🔻<via>"get to": ViaPoint</via>
 
-🟩<eco>"boulder": Rock</eco>
+🟩<eko>"boulder": Rock</eko>
 
 🔻<via>"turn back": TurnAroundCurve</via>
 
-## 🔷<beta><moto>Step</moto>.<via>Over</via>(<eco>Log</eco>)</beta>
+## 🔷<beta><moto>Step</moto>.<via>Over</via>(<eko>Log</eko>)</beta>
 
 is not a move, it is Beta since it is composed of 3 modules:
 
@@ -75,36 +75,36 @@ is not a move, it is Beta since it is composed of 3 modules:
 
 🔻<via>Over()</via>
 
-🟩<eco>Log</eco>
+🟩<eko>Log</eko>
 
-## 🔷<beta>"<via>Close</via> a <eco>piece</eco>"</beta>
-
-🔻<via>Close()</via>
-
-🟩<eco>Piece</eco>
-
-## 🔷<beta>"<via>Close</via> a <eco>Hole</eco>"</beta>
+## 🔷<beta>"<via>Close</via> a <eko>piece</eko>"</beta>
 
 🔻<via>Close()</via>
 
-🟩<eco>Hole</eco>
+🟩<eko>Piece</eko>
+
+## 🔷<beta>"<via>Close</via> a <eko>Hole</eko>"</beta>
+
+🔻<via>Close()</via>
+
+🟩<eko>Hole</eko>
 
 ::: details 🛠 <dev>&&&</dev>
 
-## 🟩<eco>Piece</eco>.<via>Cover(Boustro)</via>
+## 🟩<eko>Piece</eko>.<via>Cover(Boustro)</via>
 
-## 🔷<beta>"<moto>Bag up heavy</moto> to <via>backfill</via> this <eco>long piece</eco></beta>
+## 🔷<beta>"<moto>Bag up heavy</moto> to <via>backfill</via> this <eko>long piece</eko></beta>
 
 🟠<moto>BagSize</moto>
 
 🔻<via>BackCover</via>
 
-🟩<eco>Long Piece</eco>
+🟩<eko>Long Piece</eko>
 
-## 🔷<beta>"<via>Line in through the</via> <eco>narrow channel </eco><neuro>then</neuro> <via>go left through</via> <eco>another channel</eco> <via>to </via>a <eco>rectangle of PerfectTrenches</eco>"</beta>
+## 🔷<beta>"<via>Line in through the</via> <eko>narrow channel </eko><neuro>then</neuro> <via>go left through</via> <eko>another channel</eko> <via>to </via>a <eko>rectangle of PerfectTrenches</eko>"</beta>
 
 1. 🔻<via>LineIn()</via>
-2. 🟩<eco>Channel</eco>
+2. 🟩<eko>Channel</eko>
 3. 💜<neuro>then</neuro>
 4. 🔻<via>Go(Left)</via>
 

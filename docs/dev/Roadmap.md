@@ -79,16 +79,16 @@ Test [novel planter tools](dev/Tools)
 
 ### Plant fire resistance Devices
 
-🔷<beta>Put(<eco>Ice</eco>)</beta>
+🔷<beta>Put(<eko>Ice</eko>)</beta>
 
 - Plant a glacier seedling
 -
 
-🔷<beta>Put(<eco>FireBreak</eco>)</beta>
+🔷<beta>Put(<eko>FireBreak</eko>)</beta>
 
-🔷<beta>Put(<eco>Meadow</eco>)</beta>
+🔷<beta>Put(<eko>Meadow</eko>)</beta>
 
-🔷<beta>Put(<eco></eco>)</beta>
+🔷<beta>Put(<eko></eko>)</beta>
 
 ### Urban Planting
 

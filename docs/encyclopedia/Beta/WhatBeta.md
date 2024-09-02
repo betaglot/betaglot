@@ -2,7 +2,7 @@
 
 > Beta is the **information** that you use to perform planting tasks.
 
-<beta>Beta</beta> emerges from the interactions between <eco>Eko</eco>, <moto>Moto</moto>, <via>Via</via> and <neuro>Neuro</neuro>.
+<beta>Beta</beta> emerges from the interactions between <eko>Eko</eko>, <moto>Moto</moto>, <via>Via</via> and <neuro>Neuro</neuro>.
 
 ![<beta>Beta</beta>Icon](/Beta/Beta_Icon.png)
 
@@ -31,15 +31,15 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                         **Climbing** | **Planting**                      |
 | -----------------------------------: | :-------------------------------- |
 |                  <beta>Beta</beta> = | = <beta>Beta</beta>               |
-|                     <eco>Eko</eco> = | = <eco>Eko</eco>                  |
+|                     <eko>Eko</eko> = | = <eko>Eko</eko>                  |
 |               <via>Via</via> = | = <via>Via</via>            |
 |               <neuro>Neuro</neuro> = | = <neuro>Neuro</neuro>            |
-|                      <eco>Wall</eco> | <eco>Land</eco>                   |
-|              <eco>Wall Section</eco> | <eco>Area</eco>                  |
+|                      <eko>Wall</eko> | <eko>Land</eko>                   |
+|              <eko>Wall Section</eko> | <eko>Area</eko>                  |
 |      <via>ContactSurface</via> = | = <via>ContactSurface</via>   |
 |                  <via>Hold</via> | <via>Microsite</via>          |
-|                    <eco>Volume</eco> | <eco>Mound, Trench</eco>          |
-|                 <eco>WallAngle</eco> | <eco>SlopeAngle</eco>             |
+|                    <eko>Volume</eko> | <eko>Mound, Trench</eko>          |
+|                 <eko>WallAngle</eko> | <eko>SlopeAngle</eko>             |
 |            <moto>ClimbingShoe</moto> | <moto>PlantingBoot</moto>         |
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
@@ -49,7 +49,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                  <moto>Fall</moto> = | = <moto>Fall</moto>               |
 | <via>Anchor, Belay Station</via> | <via>Cache</via>              |
 |              <via>Approach</via> | <via>Walk In </via>           |
-|                     <eco>Crag </eco> | <eco> Block</eco>                 |
+|                     <eko>Crag </eko> | <eko> Block</eko>                 |
 
 ## How is it useful to relate Climbing to Planting?
 
@@ -66,7 +66,7 @@ BetaParameter
 
 ### <moto>MotoParameter</moto>
 
-### <eco>EcoParameter</eco>
+### <eko>EcoParameter</eko>
 
 ### <via>ViaParameter</via>
 
@@ -102,7 +102,7 @@ Via is often a lack of knowledge of what's over the hill or around the corner
 
 Neuro is
 
-### <eco>Eco Constraints</eco>
+### <eko>Eco Constraints</eko>
 
 Eco is weather, if you are in fog you can't see eco. Remember that eco is the object of environment, which always exists. Eco requires perception. Eco requires Neuro
 

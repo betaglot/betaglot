@@ -43,7 +43,7 @@ Abstract Syntax Tree
 3. Separate into <beta>BetaModules</beta> (optional step)
     - 🟠<moto>Leg.Step()</moto>
     - 🔻<via>Over</via>
-    - 🟩<eco>Log</eco>
+    - 🟩<eko>Log</eko>
 
 ## 🔷<beta>Give(Beta)</beta>
 
@@ -59,11 +59,11 @@ Abstract Syntax Tree
 
 > to move something or someone into the stated place, position, or direction
 
-### 🔷<beta>Put(<eco>Plant</eco>)</beta>
+### 🔷<beta>Put(<eko>Plant</eko>)</beta>
 
 > to plant a plant in the soil
 
-### 🔷<beta>Put(<eco>Root</eco>)</beta>
+### 🔷<beta>Put(<eko>Root</eko>)</beta>
 
 > to place a root within a Hole
 
@@ -71,7 +71,7 @@ Stuff into hole
 
 With BareRoots you must often curl the roots into the hole
 
-<eco>Nanosite</eco> is a ViaPoint
+<eko>Nanosite</eko> is a ViaPoint
 
 ### 🔷<beta>Put(<via>Flag</via>)</beta>
 
@@ -111,17 +111,17 @@ Trees/Time
 
 "Do you get it?"
 
-### 🔷<beta>Get(<eco>Plant</eco>)</beta>
+### 🔷<beta>Get(<eko>Plant</eko>)</beta>
 
 > to obtain an EcoFactor
 
-#### 🔷<beta>Get(<eco>Tree</eco>)</beta>
+#### 🔷<beta>Get(<eko>Tree</eko>)</beta>
 
-#### 🔷<beta>Get(<eco>Bundle</eco>)</beta>
+#### 🔷<beta>Get(<eko>Bundle</eko>)</beta>
 
-#### 🔷<beta>Get(<eco>Box</eco>)</beta>
+#### 🔷<beta>Get(<eko>Box</eko>)</beta>
 
-#### 🔷<beta>Get(<eco>Log</eco>)</beta>
+#### 🔷<beta>Get(<eko>Log</eko>)</beta>
 
 ### 🔷<beta>Get(<via>Via</via>)</beta>
 

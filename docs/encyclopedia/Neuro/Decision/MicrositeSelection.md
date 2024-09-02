@@ -47,7 +47,7 @@ Answer 3
 
 -
 
-## Related 🟩<eco>EcoFactors</eco>
+## Related 🟩<eko>EcoFactors</eko>
 
 -
 

@@ -60,7 +60,7 @@ Focus on Emotion and feeling, not abstract computations
 - Q:
 - K:
 
-### <eco>Club: Econs</eco>
+### <eko>Club: Econs</eko>
 
 - Ace: Cream
 - 2:

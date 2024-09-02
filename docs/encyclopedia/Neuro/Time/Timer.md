@@ -45,7 +45,7 @@ Answer 3
 
 -
 
-## Related 🟩<eco>EcoFactors</eco>
+## Related 🟩<eko>EcoFactors</eko>
 
 - Description of how this <neuro>NeuroFactor </neuro>relates to a particular [EcoFactor](/encyclopedia/Eco/EcoOverview).
 - Description of how this <neuro>NeuroFactor </neuro>relates to a particular [EcoFactor](/encyclopedia/Eco/EcoOverview).

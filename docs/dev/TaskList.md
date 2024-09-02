@@ -1,6 +1,6 @@
 # 🛠<dev>TaskList</dev>
 
-A list of all tasks needed for 🔷<beta>Put(<eco>Plant</eco>)</beta>
+A list of all tasks needed for 🔷<beta>Put(<eko>Plant</eko>)</beta>
 
 ::: warning You can too!
 You don't need to be a programmer to contribute to this open source project.

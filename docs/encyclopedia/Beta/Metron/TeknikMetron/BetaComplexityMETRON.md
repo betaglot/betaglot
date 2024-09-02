@@ -17,7 +17,7 @@ BetaComplexityScore = (MotoComplexityScore + EcoComplexityScore + ViaComplexityS
 
 ## Maximize EcoComplexity
 
-(<eco>ThreeSisters</eco> + <eco>FireResistant</eco> + <eco>SelectiveLogging</eco>)
+(<eko>ThreeSisters</eko> + <eko>FireResistant</eko> + <eko>SelectiveLogging</eko>)
 
 ::: details 🛠 <dev>&&&</dev>
 

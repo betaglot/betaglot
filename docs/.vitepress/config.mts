@@ -130,7 +130,7 @@ function sidebarDevelopment() {
       text: '<dev>Graphics</dev>', collapsed: true, items: [
         { text: '<dev>Overview</dev>', link: '/dev/Graphics/Overview' },
         { text: '<beta>Beta Graphics</beta>', link: '/dev/Graphics/BetaGraphic' },
-        { text: '<eco>EcoGraphics</eco>', link: '/dev/Graphics/EcoGraphic' },
+        { text: '<eko>EcoGraphics</eko>', link: '/dev/Graphics/EcoGraphic' },
         { text: '<moto>Moto Graphics</moto>', link: '/dev/Graphics/MotoGraphic' },
         { text: 'Neuro Graphics', link: '/dev/Graphics/NeuroGraphic' },
         { text: 'Via Graphics', link: '/dev/Graphics/ViaGraphic' },
@@ -241,7 +241,7 @@ function sidebarEncyclopedia() {
     },
     // #Eco
     {
-      text: '🟩 <eco>EKO</eco>', collapsed: true, link: '/encyclopedia/Eko/EcoOverview', items: [
+      text: '🟩 <eko>EKO</eko>', collapsed: true, link: '/encyclopedia/Eko/EcoOverview', items: [
         {
           text: '🔷 EKOTeknik', link: '/encyclopedia/Eko/EcoTeknik', collapsed: true, items: [
             { text: '🟩 EcoComplexity', link: '/encyclopedia/Eko/EcoTeknik/EcoComplexity' },

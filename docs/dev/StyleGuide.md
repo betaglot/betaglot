@@ -183,7 +183,7 @@ Periods
 #569cd6 
 ```
 
-### <eco>EcoColor</eco>
+### <eko>EcoColor</eko>
 
 ```ts
 #6a9955 
@@ -303,7 +303,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🟩 <dev>DesignBox</dev><eco>.Eco</eco>
+### 🟩 <dev>DesignBox</dev><eko>.Eco</eko>
 
 ```md
 ::: details 🛠 <dev>&&&</dev>
@@ -320,7 +320,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 :::
 
-# 🟩 <eco>Eko</eco>
+# 🟩 <eko>Eko</eko>
 
 ```md
 
@@ -535,7 +535,7 @@ Where in Eco is this Moto performed and on what EcoFactor. Put "the ground" if n
 
 ## <beta>BetaPage.BaseLayout</beta>
 
-## <eco>EcoPage.BaseLayout</eco>
+## <eko>EcoPage.BaseLayout</eko>
 
 ::: details 🛠 <dev>&&&</dev>
 

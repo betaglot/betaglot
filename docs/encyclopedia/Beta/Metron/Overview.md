@@ -1,4 +1,4 @@
-# 🔷 <beta>BETAMETRON</beta>
+# 🔷 <beta>METRON</beta>
 
 ## TEKNIK
 
@@ -21,15 +21,15 @@ Beauty, Good
 Execution
 
 How well you did it
+
 - Ease
 - Good
 - Fluency
-
-
+- No deductions
 
 ```py
 
-BETAMETRON = (BetaDifficultyMETRON * BetaExecutionMETRON)
+Metron = (TeknikMetron * KalosMetron)
 
 ```
 

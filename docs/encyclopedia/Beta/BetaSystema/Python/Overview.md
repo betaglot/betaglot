@@ -251,7 +251,7 @@ for object in BetaList:
 <Beta>
     <Via>Cover</Via>
     <Moto>Climb</Moto>
-    <Eco>Log</Eco>
+    <eko>Log</eko>
     <Via>MinimumSpace</Via>
     <Moto>ArmPut</Moto>
 </Beta>
@@ -574,7 +574,7 @@ Beta is the method that you use, but also the communication of that method. Ther
 
 The BetaLingo of balance beam
 
-> "<moto>Jump</moto> <via>on</via> the <eco>beam</eco> <via>at the middle</via>, then <moto>step</moto> <via>backwards</via>"
+> "<moto>Jump</moto> <via>on</via> the <eko>beam</eko> <via>at the middle</via>, then <moto>step</moto> <via>backwards</via>"
 
 ### <beta>BetaTaxon: Object</beta>
 
@@ -586,7 +586,7 @@ Beta_Attributes = {
 
 ```
 
-### <eco>EcoParameter: Object</eco>
+### <eko>EcoParameter: Object</eko>
 
 ```py
 
@@ -654,7 +654,7 @@ for microsite in via:
 - Species Ratio
 -
 
-#### <eco>EcoDict</eco>
+#### <eko>EcoDict</eko>
 
 ### Tuple
 

@@ -47,7 +47,7 @@ Answer 3
 - Description of how this <neuro>NeuroFactor </neuro>relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Moto/MotoOverview).
 - Description of how this <neuro>NeuroFactor </neuro>relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Moto/MotoOverview).
 
-## Related 🟩<eco>EcoFactors</eco>
+## Related 🟩<eko>EcoFactors</eko>
 
 -
 
