@@ -239,7 +239,7 @@ function sidebarEncyclopedia() {
         },
       ]
     },
-    // #Eco
+    // #Eko
     {
       text: '🟩 <eko>EKO</eko>', collapsed: true, link: '/encyclopedia/Eko/EkoOverview', items: [
         {

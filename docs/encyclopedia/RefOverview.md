@@ -1,4 +1,4 @@
-# Encyclopedia
+# ENCYCLOPEDIA
 
 ![Betaglot_Logo](/Betaglot_Logo.png)
 
