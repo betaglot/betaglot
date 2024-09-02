@@ -18,7 +18,20 @@ Use 'K' instead of 'C'
 
 - <https://en.wikipedia.org/wiki/Musical_system_of_ancient_Greece>
 
+- BetaGnosis
+    - get to know the beta
+    - I know what the beta is
 - idea
+    - test ideas until you know the beta
+    - a possible course of action
+    - a suggestion or plan for doing something
+    - Untested Beta
+    - I have an idea of what to do
+    - Onsight
+    - Guess
+    - concept
+        - an understanding, thought, or picture in your mind:
+
 - Gene
     - AI BetaGenerator converts prompts into Beta  
     BetaGenesis

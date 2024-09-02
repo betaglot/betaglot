@@ -1,7 +1,9 @@
-# 🔷 PlanBeta
+# 🔷 BetaIdea
 
-Prediction
-Expectation
+- Ideate
+- Guess
+- Predict
+- Expectation
 ToReduceUnknowns
 
 - MentalClimbing
