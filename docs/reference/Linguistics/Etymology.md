@@ -8,6 +8,8 @@ If a latin word fits better then use it instead. Eg
 
 :::
 
+Use "Origin" like in spelling bees. "Etymology" is inaccessible to kids.
+
 ## Greek
 
 Proper nouns are capitalized
@@ -15,6 +17,8 @@ Proper nouns are capitalized
 Use 'K' instead of 'C'
 
 - <https://en.wikipedia.org/wiki/Musical_system_of_ancient_Greece>
+
+- idea
 - Gene
     - AI BetaGenerator converts prompts into Beta  
     BetaGenesis
@@ -24,6 +28,9 @@ Use 'K' instead of 'C'
         - Genes code proteins. If Beta is an assembly of proteins, then what are
         - Proteins are BetaMethods, Genes are BetaAttributes
 
+- Telos
+    - Purpose
+        - The purpose of the climbing
 - Period
     - Periodic: Cycle
 - Betataxon = BETATAXON
