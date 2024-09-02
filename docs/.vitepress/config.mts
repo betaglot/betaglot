@@ -241,12 +241,12 @@ function sidebarEncyclopedia() {
     },
     // #Eco
     {
-      text: '🟩 <eko>EKO</eko>', collapsed: true, link: '/encyclopedia/Eko/EcoOverview', items: [
+      text: '🟩 <eko>EKO</eko>', collapsed: true, link: '/encyclopedia/Eko/EkoOverview', items: [
         {
-          text: '🔷 EKOTeknik', link: '/encyclopedia/Eko/EcoTeknik', collapsed: true, items: [
-            { text: '🟩 EcoComplexity', link: '/encyclopedia/Eko/EcoTeknik/EcoComplexity' },
-            { text: '🟩 EcoIntensity', link: '/encyclopedia/Eko/EcoTeknik/EcoIntensity' },
-            { text: '🟩 EcoRisk', link: '/encyclopedia/Eko/EcoTeknik/EcoRisk' },
+          text: '🟩 Teknik', link: '/encyclopedia/Eko/Teknik', collapsed: true, items: [
+            { text: '🟩 EkoComplexity', link: '/encyclopedia/Eko/Teknik/EkoComplexity' },
+            { text: '🟩 EkoIntensity', link: '/encyclopedia/Teknik/EkoIntensity' },
+            { text: '🟩 EkoRisk', link: '/encyclopedia/Eko/Teknik/EkoRisk' },
           ]
         }
       ]
