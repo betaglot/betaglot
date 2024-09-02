@@ -32,7 +32,7 @@ BetaDifficultyMETRON = (MotoDifficultyMETRON + EcoDifficultyMETRON + ViaDifficul
 <h2>PageTags</h2>
 
 - "Beta.BetaDifficulty.BetaComplexity"
-- "Beta.BetaDifficulty.BetaIntensity"
+- "Beta.BetaDifficulty.BetaKratos"
 - "Beta.BetaDifficulty.BetaRisk"
 - "Beta.BetaDifficulty.Overview"
 - "Beta.Difficulty.DifficultyMETRON"
@@ -45,7 +45,7 @@ BetaDifficultyMETRON = (MotoDifficultyMETRON + EcoDifficultyMETRON + ViaDifficul
 - "Dev.Difficulty.Fraction.2"
 - "Dev.Difficulty.Fraction.3"
 - "Dev.Difficulty.Fraction.5"
-- "Dev.Difficulty.Intensity"
+- "Dev.Difficulty.Kratos"
 - "Dev.Difficulty.RelativeDifficulty"
 - "Dev.Difficulty.Risk"
 :::

@@ -32,7 +32,7 @@ tags = {
     ],
     "Beta/BetaDifficulty/Overview": [
         "Beta.BetaDifficulty.BetaComplexity",
-        "Beta.BetaDifficulty.BetaIntensity",
+        "Beta.BetaDifficulty.BetaKratos",
         "Beta.BetaDifficulty.BetaRisk",
         "Beta.BetaDifficulty.Overview",
         "Beta.Difficulty.DifficultyMETRON",
@@ -45,7 +45,7 @@ tags = {
         "Dev.Difficulty.Fraction.2",
         "Dev.Difficulty.Fraction.3",
         "Dev.Difficulty.Fraction.5",
-        "Dev.Difficulty.Intensity",
+        "Dev.Difficulty.Kratos",
         "Dev.Difficulty.RelativeDifficulty",
         "Dev.Difficulty.Risk"
     ],
@@ -527,7 +527,7 @@ tags = {
     "Eco/Density/Plot.md": [],
     "Eco/EcoDifficulty.md": [
         "Eco.EcoDifficulty.LandComplexity",
-        "Eco.EcoDifficulty.LandIntensity",
+        "Eco.EcoDifficulty.LandKratos",
         "Eco.EcoDifficulty.LandRisk",
         "Eco.EcoDifficulty.Overview"
     ],
@@ -1096,7 +1096,7 @@ tags = {
     ],
     "Moto/MotoDifficulty.md": [
         "Moto.MotoDifficulty.MotoComplexity",
-        "Moto.MotoDifficulty.MotoIntensity",
+        "Moto.MotoDifficulty.MotoKratos",
         "Moto.MotoDifficulty.MotoRisk",
         "Moto.MotoDifficulty.Overview"
     ],
@@ -1600,12 +1600,12 @@ tags = {
         "Neuro.CognitiveEase.Repetition",
         "Neuro.Difficulty",
         "Neuro.Difficulty.NeuroComplexity",
-        "Neuro.Difficulty.NeuroIntensity",
+        "Neuro.Difficulty.NeuroKratos",
         "Neuro.Difficulty.NeuroRisk",
         "Neuro.FlowState",
         "Neuro.Music",
         "Neuro.NeuroDifficulty.NeuroComplexity",
-        "Neuro.NeuroDifficulty.NeuroIntensity",
+        "Neuro.NeuroDifficulty.NeuroKratos",
         "Neuro.NeuroDifficulty.NeuroRisk",
         "Neuro.NeuroDifficulty.Overview",
         "Neuro.NeuroError",
@@ -1770,11 +1770,11 @@ tags = {
     "Via/ViaDifficulty.md": [
         "Via.Difficulty",
         "Via.Difficulty.ViaComplexity",
-        "Via.Difficulty.ViaIntensity",
+        "Via.Difficulty.ViaKratos",
         "Via.Difficulty.ViaRisk",
         "Via.ViaDifficulty.Overview",
         "Via.ViaDifficulty.ViaComplexity",
-        "Via.ViaDifficulty.ViaIntensity",
+        "Via.ViaDifficulty.ViaKratos",
         "Via.ViaDifficulty.ViaRisk"
     ],
     "Via/ViaOverview.md": [

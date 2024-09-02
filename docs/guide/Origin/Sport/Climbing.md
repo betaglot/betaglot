@@ -8,4 +8,4 @@
 
 ## RICscale
 
-### Risk, Intensity, Complexity
+### Risk, Kratos, Complexity

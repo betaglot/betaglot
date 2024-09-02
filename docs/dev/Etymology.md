@@ -27,7 +27,7 @@ Use 'K' instead of 'C'
 - chrome
 - polychrome
 - cycle
-- dynamic instead of intensity
+- dynamic instead of Kratos
 - macro micro
 - mega
 - pan

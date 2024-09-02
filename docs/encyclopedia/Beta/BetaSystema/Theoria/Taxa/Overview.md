@@ -19,7 +19,7 @@ taxis + -nomia
 Can be called BetaTaxon, or just Taxon
 
 ```py
-Taxon = AlsoKnownAs([
+"Taxon" = AlsoKnownAs([
     "Element",
     "Class",
     "Object",

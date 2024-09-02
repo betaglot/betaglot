@@ -202,7 +202,7 @@ function sidebarEncyclopedia() {
               text: '🔷 TEKNIKMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/Overview', collapsed: true, items: [
                 { text: '🔷 ComplexityMETRON', link: '/encyclopedia/Beta/BetaMetron/TekninkMetron/ComplexityMetron' },
                 { text: '🔷 RiskMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/RiskMetron' },
-                { text: '🔷 IntensityMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/IntensityMetron' }
+                { text: '🔷 KratosMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/KratosMetron' }
               ]
             }
           ]
@@ -210,7 +210,7 @@ function sidebarEncyclopedia() {
         {
           text: '🔷 BETATEKNIK', link: '/encyclopedia/Beta/BetaTeknik/Overview', collapsed: true, items: [
             { text: '🔷 BetaComplexity', link: '/encyclopedia/Beta/BetaTeknik/BetaComplexity' },
-            { text: '🔷 BetaIntensity', link: '/encyclopedia/Beta/BetaTeknik/BetaIntensity' },
+            { text: '🔷 BetaKratos', link: '/encyclopedia/Beta/BetaTeknik/BetaKratos' },
             { text: '🔷 BetaRisk', link: '/encyclopedia/Beta/BetaTeknik/BetaRisk' }
           ]
         },
@@ -245,7 +245,7 @@ function sidebarEncyclopedia() {
         {
           text: '🟩 Teknik', link: '/encyclopedia/Eko/Teknik', collapsed: true, items: [
             { text: '🟩 EkoComplexity', link: '/encyclopedia/Eko/Teknik/EkoComplexity' },
-            { text: '🟩 EkoIntensity', link: '/encyclopedia/Teknik/EkoIntensity' },
+            { text: '🟩 EkoKratos', link: '/encyclopedia/Teknik/EkoKratos' },
             { text: '🟩 EkoRisk', link: '/encyclopedia/Eko/Teknik/EkoRisk' },
           ]
         }
@@ -270,7 +270,7 @@ function sidebarEncyclopedia() {
               text: '🟠 MotoTeknikMetron', link: '/encyclopedia/Moto/MotoScore/MotoTeknikMetron/Overview', collapsed: true, items: [
                 { text: '🟠 MotoComplexityScore', link: '/encyclopedia/Moto/MotoScore/MotoTeknikMetron/MotoComplexityMetron' },
                 { text: '🟠 MotoRiskScore', link: '/encyclopedia/Moto/MotoScore/MotoTeknikMetron/MotoRiskMetron' },
-                { text: '🟠 MotoIntensityScore', link: '/encyclopedia/Moto/MotoScore/MotoTeknikMetron/MotoIntensityMetron' }
+                { text: '🟠 MotoKratosScore', link: '/encyclopedia/Moto/MotoScore/MotoTeknikMetron/MotoKratosMetron' }
               ]
             }
           ]
@@ -278,7 +278,7 @@ function sidebarEncyclopedia() {
         {
           text: '🟠 MotoTeknik', link: '/encyclopedia/Moto/MotoTeknik/Overview', collapsed: true, items: [
             { text: '🟠 MotoComplexity', link: '/encyclopedia/Moto/MotoTeknik/MotoComplexity' },
-            { text: '🟠 MotoIntensity', link: '/encyclopedia/Moto/MotoTeknik/MotoIntensity' },
+            { text: '🟠 MotoKratos', link: '/encyclopedia/Moto/MotoTeknik/MotoKratos' },
             { text: '🟠 MotoRisk', link: '/encyclopedia/Moto/MotoTeknik/MotoRisk' }
           ]
         },

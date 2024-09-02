@@ -13040,7 +13040,7 @@ tags = [
                     "title": "Dev.Interdisciplinary.Music"
                 },
                 {
-                    "title": "Moto.MotoDifficulty.MotoIntensity"
+                    "title": "Moto.MotoDifficulty.MotoKratos"
                 },
                 {
                     "title": "Moto.MotoPhrase"
@@ -13072,7 +13072,7 @@ tags = [
                 "title": "Dev.Interdisciplinary.Music"
             },
             {
-                "title": "Moto.MotoDifficulty.MotoIntensity"
+                "title": "Moto.MotoDifficulty.MotoKratos"
             },
             {
                 "title": "Moto.MotoPhrase"
@@ -19458,7 +19458,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -19506,7 +19506,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -19557,7 +19557,7 @@ tags = [
                     "title": "Dev.Difficulty.RelativeDifficulty"
                 },
                 {
-                    "title": "Moto.MotoDifficulty.MotoIntensity"
+                    "title": "Moto.MotoDifficulty.MotoKratos"
                 },
                 {
                     "title": "Moto.MotoDifficulty.Overview"
@@ -19586,7 +19586,7 @@ tags = [
                 "title": "Dev.Difficulty.RelativeDifficulty"
             },
             {
-                "title": "Moto.MotoDifficulty.MotoIntensity"
+                "title": "Moto.MotoDifficulty.MotoKratos"
             },
             {
                 "title": "Moto.MotoDifficulty.Overview"
@@ -19720,10 +19720,10 @@ tags = [
             "lastUpdated": 1692978839595,
             "tags": [
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
-                    "title": "Moto.MotoDifficulty.MotoIntensity"
+                    "title": "Moto.MotoDifficulty.MotoKratos"
                 },
                 {
                     "title": "Moto.Physics.Force"
@@ -19743,10 +19743,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
-                "title": "Moto.MotoDifficulty.MotoIntensity"
+                "title": "Moto.MotoDifficulty.MotoKratos"
             },
             {
                 "title": "Moto.Physics.Force"
@@ -19772,7 +19772,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.BetaRisk"
@@ -19784,7 +19784,7 @@ tags = [
                     "title": "Dev.Difficulty.Complexity"
                 },
                 {
-                    "title": "Dev.Difficulty.Intensity"
+                    "title": "Dev.Difficulty.Kratos"
                 },
                 {
                     "title": "Dev.Difficulty.Risk"
@@ -19796,7 +19796,7 @@ tags = [
                     "title": "Land.LandDifficulty.LandComplexity"
                 },
                 {
-                    "title": "Land.LandDifficulty.LandIntensity"
+                    "title": "Land.LandDifficulty.LandKratos"
                 },
                 {
                     "title": "Land.LandDifficulty.LandRisk"
@@ -19811,7 +19811,7 @@ tags = [
                     "title": "Moto.MotoDifficulty.MotoComplexity"
                 },
                 {
-                    "title": "Moto.MotoDifficulty.MotoIntensity"
+                    "title": "Moto.MotoDifficulty.MotoKratos"
                 },
                 {
                     "title": "Moto.MotoDifficulty.MotoRisk"
@@ -19847,7 +19847,7 @@ tags = [
                     "color": "#cd74e6ff"
                 },
                 {
-                    "title": "Neuro.Difficulty.NeuroIntensity",
+                    "title": "Neuro.Difficulty.NeuroKratos",
                     "color": "#cd74e6ff"
                 },
                 {
@@ -19865,7 +19865,7 @@ tags = [
                     "title": "Via.Difficulty.ViaComplexity"
                 },
                 {
-                    "title": "Via.Difficulty.ViaIntensity"
+                    "title": "Via.Difficulty.ViaKratos"
                 },
                 {
                     "title": "Via.Difficulty.ViaRisk"
@@ -19894,7 +19894,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.BetaRisk"
@@ -19906,7 +19906,7 @@ tags = [
                 "title": "Dev.Difficulty.Complexity"
             },
             {
-                "title": "Dev.Difficulty.Intensity"
+                "title": "Dev.Difficulty.Kratos"
             },
             {
                 "title": "Dev.Difficulty.Risk"
@@ -19918,7 +19918,7 @@ tags = [
                 "title": "Land.LandDifficulty.LandComplexity"
             },
             {
-                "title": "Land.LandDifficulty.LandIntensity"
+                "title": "Land.LandDifficulty.LandKratos"
             },
             {
                 "title": "Land.LandDifficulty.LandRisk"
@@ -19933,7 +19933,7 @@ tags = [
                 "title": "Moto.MotoDifficulty.MotoComplexity"
             },
             {
-                "title": "Moto.MotoDifficulty.MotoIntensity"
+                "title": "Moto.MotoDifficulty.MotoKratos"
             },
             {
                 "title": "Moto.MotoDifficulty.MotoRisk"
@@ -19969,7 +19969,7 @@ tags = [
                 "color": "#cd74e6ff"
             },
             {
-                "title": "Neuro.Difficulty.NeuroIntensity",
+                "title": "Neuro.Difficulty.NeuroKratos",
                 "color": "#cd74e6ff"
             },
             {
@@ -19987,7 +19987,7 @@ tags = [
                 "title": "Via.Difficulty.ViaComplexity"
             },
             {
-                "title": "Via.Difficulty.ViaIntensity"
+                "title": "Via.Difficulty.ViaKratos"
             },
             {
                 "title": "Via.Difficulty.ViaRisk"
@@ -22138,7 +22138,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.BetaRisk"
@@ -22184,7 +22184,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.BetaRisk"
@@ -27213,7 +27213,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -27254,7 +27254,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -30773,7 +30773,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -30820,7 +30820,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -35722,7 +35722,7 @@ tags = [
                     "title": "Dev.Difficulty.Complexity"
                 },
                 {
-                    "title": "Dev.Difficulty.Intensity"
+                    "title": "Dev.Difficulty.Kratos"
                 },
                 {
                     "title": "Dev.Difficulty.Risk"
@@ -35754,7 +35754,7 @@ tags = [
                 "title": "Dev.Difficulty.Complexity"
             },
             {
-                "title": "Dev.Difficulty.Intensity"
+                "title": "Dev.Difficulty.Kratos"
             },
             {
                 "title": "Dev.Difficulty.Risk"
@@ -37540,7 +37540,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -37563,7 +37563,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -37650,7 +37650,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -37679,7 +37679,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -37711,7 +37711,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -37737,7 +37737,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -37766,7 +37766,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -37801,7 +37801,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -37839,7 +37839,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -37877,7 +37877,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -37918,7 +37918,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -37947,7 +37947,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -38457,7 +38457,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -38489,7 +38489,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -38671,7 +38671,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -38700,7 +38700,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -38732,7 +38732,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -38758,7 +38758,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -38830,7 +38830,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -38856,7 +38856,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -39230,7 +39230,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -39253,7 +39253,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -39279,7 +39279,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -39308,7 +39308,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -39628,7 +39628,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -39651,7 +39651,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -39732,7 +39732,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -39758,7 +39758,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"
@@ -44187,7 +44187,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaComplexity"
                 },
                 {
-                    "title": "Beta.BetaDifficulty.BetaIntensity"
+                    "title": "Beta.BetaDifficulty.BetaKratos"
                 },
                 {
                     "title": "Beta.BetaDifficulty.Overview"
@@ -44216,7 +44216,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaComplexity"
             },
             {
-                "title": "Beta.BetaDifficulty.BetaIntensity"
+                "title": "Beta.BetaDifficulty.BetaKratos"
             },
             {
                 "title": "Beta.BetaDifficulty.Overview"

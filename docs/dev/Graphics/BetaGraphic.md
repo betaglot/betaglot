@@ -18,7 +18,7 @@ EinsteinSpaghetti Timeline of instances
 
 Network of interacting elements. Network can extend to the opposite side of the piece if looking at a landmark, don't limit the instance by space, only by time
 
-Line width is BetaIntensity
+Line width is BetaKratos
 
 Nested along a via line
 
