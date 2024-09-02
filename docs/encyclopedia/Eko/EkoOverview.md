@@ -1,6 +1,6 @@
 # 🟩  <eko>Eko</eko>
 
-![EcoIcon](/Eco/Eko_Icon.png)
+![EkoIcon](/Eko/Eko_Icon.png)
 
 ## What is <eko>Eko</eko>?
 
