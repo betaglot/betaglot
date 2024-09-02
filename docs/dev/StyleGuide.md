@@ -320,7 +320,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 :::
 
-# 🟩 <eco>Eco</eco>
+# 🟩 <eco>Eko</eco>
 
 ```md
 
@@ -487,7 +487,7 @@ ArmSwing.SuperMoto = ArmMoto
 
 ### Moto.Purpose
 
-The purpose is usually affect other BetaElements
+The purpose is usually affect other BetaTaxons
 
 ### Moto.AnteMoto
 

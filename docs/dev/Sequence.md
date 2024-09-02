@@ -94,7 +94,7 @@ PythonDataType = List[]
 
 ```
 
-Standardize the way that Phrases of BetaElements are represented in code and graphically.
+Standardize the way that Phrases of BetaTaxons are represented in code and graphically.
 
 💜 Graphic
 
@@ -106,7 +106,7 @@ An ArmPhrase is a list of ArmMotos performed in Parallel (BoxCarry), Concurrentl
 
 ## Control Flow Statements
 
-Control flow is the codified version of [Decision Making](/reference/Neuro/Decision/Overview)
+Control flow is the codified version of [Decision Making](/encyclopedia/Neuro/Decision/Overview)
 
 - Decision
     - Conscious

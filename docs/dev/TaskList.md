@@ -90,7 +90,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 #### Header
 
 - Profile Picture
-    - Edit video into GIFs for each BetaElement's profile picture
+    - Edit video into GIFs for each BetaTaxon's profile picture
 
 #### BetaGraph
 

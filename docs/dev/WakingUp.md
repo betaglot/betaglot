@@ -1,5 +1,41 @@
 # Waking Up Community
 
+## Waking Up Mimicry
+
+WakingUpApp is composed of almost entirely NeuroBeta. The most frequent Moto is Sitting then next is EyeMoto
+
+Split into Prakitikos(Practice) and Theoria(Theory)
+
+Pratice is used to solve Problems
+
+Theoria is used to define the content of problems
+
+Home
+
+- Title
+- Daily PracticeSession
+- ThinCarouselDaily: ShortTheory
+- "Continue Listening"
+- "Latest on Waking Up"
+- Popular Sessions
+- Share
+- "A message from Sam"
+    - Audio from Sam Harris
+- Image of Clouds
+Explore
+- SearchBar
+- Practice, Theory, Life, Conversation, Q&A
+<!-- TopBar instead of Sidebar. The encyclopedia has  -->
+- FeaturedCarousel(5)
+Window()
+- Carousel("Guided Meditations")
+- Button(Podcast)
+- Con
+
+MyLibrary
+
+More
+
 ## Abstract
 
 <!-- What is the topic?

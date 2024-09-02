@@ -18,6 +18,48 @@ Use 'K' instead of 'C'
 
 - <https://en.wikipedia.org/wiki/Musical_system_of_ancient_Greece>
 
+- problem
+- type
+- place
+- program
+- center
+- base
+- chrome
+- polychrome
+- cycle
+- dynamic instead of intensity
+- macro micro
+- mega
+- pan
+- philobeta
+- static
+- morph
+- photo
+- neo
+- neologism
+- NeoBeta
+- grammatik
+- disk
+- atlas
+- encyclopedia
+    - reference section
+- acrobat
+- phobia
+- music
+- panic
+- semantics
+- klima is climate
+- pathos
+- ethos
+- giga
+- logic
+- phase
+- strategy
+- theme
+- zone
+- Melody
+- Harmony
+- Khronos
 - BetaGnosis
     - get to know the beta
     - I know what the beta is
@@ -40,7 +82,6 @@ Use 'K' instead of 'C'
         - A Betatekt's seed idea of a route is a Germ
         - Genes code proteins. If Beta is an assembly of proteins, then what are
         - Proteins are BetaMethods, Genes are BetaAttributes
-
 - Telos
     - Purpose
         - The purpose of the climbing

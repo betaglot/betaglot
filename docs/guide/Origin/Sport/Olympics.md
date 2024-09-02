@@ -90,12 +90,12 @@ Passing
 
 🔻<via>Via: </via>
 
-- [BranchDeflection](/reference/Moto/PlantMoto/BranchDeflection)
-- [HeadBob](/reference/Moto/HeadMoto/Overview)
-- [HandClose](/reference/Moto/HandMoto/Overview)
-    - [PunchClose](/reference/Moto/HandMoto/Overview)
-- [FootClose](/reference/Moto/FootMoto/Overview)
-    - [StompClose](/reference/Moto/FootMoto/Overview)
+- [BranchDeflection](/encyclopedia/Moto/PlantMoto/BranchDeflection)
+- [HeadBob](/encyclopedia/Moto/HeadMoto/Overview)
+- [HandClose](/encyclopedia/Moto/HandMoto/Overview)
+    - [PunchClose](/encyclopedia/Moto/HandMoto/Overview)
+- [FootClose](/encyclopedia/Moto/FootMoto/Overview)
+    - [StompClose](/encyclopedia/Moto/FootMoto/Overview)
 
 ## 🔷 BreakDance (BreakDanceBeta)
 
@@ -126,10 +126,10 @@ Passing
 🔻<via>Via: </via>
 
 - Paddle = Spade
-    - [SpadeScreef](/reference/Moto/SpadeMoto/SpadeScreef) is like taking a forward stroke or a draw stroke with a canoe paddle
-    - [SpadeGrip](/reference/Moto/SpadeMoto/SpadeGrip)
-        - [ShaftGrip](/reference/Moto/SpadeMoto/ShaftGrip)
-        - [HandleGrip](/reference/Moto/SpadeMoto/HandleGrip)
+    - [SpadeScreef](/encyclopedia/Moto/SpadeMoto/SpadeScreef) is like taking a forward stroke or a draw stroke with a canoe paddle
+    - [SpadeGrip](/encyclopedia/Moto/SpadeMoto/SpadeGrip)
+        - [ShaftGrip](/encyclopedia/Moto/SpadeMoto/ShaftGrip)
+        - [HandleGrip](/encyclopedia/Moto/SpadeMoto/HandleGrip)
 
 ## 🔷 Climbing (Klimbeta)
 
@@ -155,7 +155,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 - StockHandling
 - HayBale TreeBox  
-- [BoustroCover](/reference/Via/ViaTheorem/ViaCover/BoustroCover)
+- [BoustroCover](/encyclopedia/Via/ViaTheorem/ViaCover/BoustroCover)
 
 ## 🔷 Figure Skating (FigureSkatingBeta)
 
@@ -312,7 +312,7 @@ Enter the System
 
 - Lawn Mower uses Via
     - <https://www.wired.com/2012/08/optimal-lawn-mowing-patterns/>
-    - [BoustroCover](/reference/Via/ViaTheorem/ViaCover/BoustroCover)
+    - [BoustroCover](/encyclopedia/Via/ViaTheorem/ViaCover/BoustroCover)
 
 ## 🔷 LongJump (LongJumpBeta)
 
@@ -603,7 +603,7 @@ betaglot_activities = {
     - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing
 - Compulsory Elements
     - The superclass of Elements is Apparatus since most elements. Apparatus is an Econ.
-    - ElementGraph is not just Moto, nodes can be any of the BetaFactors. Econ branches down into neuro or moto
+    - ElementGraph is not just Moto, nodes can be any of the BetaParameters. Econ branches down into neuro or moto
 - CheerBeta see Dallas Cowboys Cheerleaders
 - (BetaQuotient)InsteadOf(BetaIndex,BETAMETRON)
 :::

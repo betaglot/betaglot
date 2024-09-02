@@ -51,7 +51,7 @@ Use the module colors along with their icons
 
 🔷<beta>Beta</beta>
 
-🟩<eco>Eco</eco>
+🟩<eco>Eko</eco>
 
 💜<neuro>Neuro</neuro>
 
