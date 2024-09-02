@@ -1,4 +1,12 @@
-# 🔷<beta>BetaVideo</beta>
+# 🔷<beta>BETAKINEMA</beta>
+
+Beta Cinema
+
+BetaPhoto
+
+BetaVideo
+
+BetaAnimation
 
 ## Upload a Video to Betaglot
 
