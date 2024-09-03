@@ -4,7 +4,11 @@ Split into Prakitikos(Practice) and Theoria(Theory)
 
 Pratice is used to solve Problems
 
+- Do what needs to be done?
+
 Theoria is used to define the content of problems
+
+- Know what can be done
 
 BETAGLOTS are people who apply the BETASYSTEMA to multiple sports
 

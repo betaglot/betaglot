@@ -1,4 +1,10 @@
-# 🔷🔷 BetaRisk
+# 🔷🔷 Probability
+
+The concept of Probability didn't exist in ancient greece.
+
+Chance, Risk, Likelihood, Odds
+
+Probability of Success
 
 FamiliarityBias
 
@@ -10,7 +16,7 @@ FamiliarityBias
 - Risk decreases when Climber is familiar with the Holds in a Route, especially when HiddenRouteSurface.
 - Risk decreases after a Climber repeatedly successfully performs a Movement.
 
-## Beta Risk Factors
+## Bayes Theorem
 
 ### Commitment
 
