@@ -176,13 +176,24 @@ function sidebarEncyclopedia() {
             },
             {
               text: '🔷 THEORIA', link: '/encyclopedia/Beta/BetaSystema/Theoria/Overview', collapsed: true, items: [
-                { text: '🔷 PARAMETER', link: '/encyclopedia/Beta/BetaSystema/Theoria/Parameter/Overview',  collapsed: true, items: [
-                  { text: '🔷 ', link: '/encyclopedia/Beta/BetaSystema/Theoria/Parameter/Overview' },
-                ] },
-                { text: '🔷 TAXA', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Overview', collapsed: true, items: [
-                  { text: '🔷 Attribute', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Overview' },
-                  { text: '🔷 Method', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Method/Overview' },
-                ] },
+                {
+                  text: '🔷 PARAMETER', link: '/encyclopedia/Beta/BetaSystema/Theoria/Parameter/Overview', collapsed: true, items: [
+                    { text: '🔷 ', link: '/encyclopedia/Beta/BetaSystema/Theoria/Parameter/Overview' },
+                  ]
+                },
+                {
+                  text: '🔷 TAXA', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Overview', collapsed: true, items: [
+                    {
+                      text: '🔷 ATTRIBUTE', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Overview', collapsed: true, items: [
+                        { text: '🔷 KRATOS', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Kratos' },
+                        { text: '🔷 MORPHOS', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Morphos' },
+                        { text: '🔷 PROBABILITY', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Probability' },
+                        { text: '🔷 TEKNIK', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Teknik' },
+                      ]
+                    },
+                    { text: '🔷 METHOD', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Method/Overview' },
+                  ]
+                },
               ]
             },
             {
@@ -197,12 +208,12 @@ function sidebarEncyclopedia() {
         { text: '🔷 BETAGRAPHY', link: '/encyclopedia/Beta/Betagraphy' },
         {
           text: '🔷 BETAMETRON', link: '/encyclopedia/Beta/BetaMetron/Overview', collapsed: true, items: [
-            { text: '🔷 KALONMETRON', link: '/encyclopedia/Beta/BetaMetron/BetaExecutionMetron' },
+            { text: '🔷 PRAKTIKMETRON', link: '/encyclopedia/Beta/BetaMetron/PraktikMetron' },
             {
-              text: '🔷 TEKNIKMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/Overview', collapsed: true, items: [
-                { text: '🔷 ComplexityMETRON', link: '/encyclopedia/Beta/BetaMetron/TekninkMetron/ComplexityMetron' },
-                { text: '🔷 RiskMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/RiskMetron' },
-                { text: '🔷 KratosMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/KratosMetron' }
+              text: '🔷 THEORIAMETRON', link: '/encyclopedia/Beta/BetaMetron/TheoriaMetron/Overview', collapsed: true, items: [
+                { text: '🔷 TEKNIKMETRON', link: '/encyclopedia/Beta/BetaMetron/TekninkMetron/ComplexityMetron' },
+                { text: '🔷 PROBABILTYMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/RiskMetron' },
+                { text: '🔷 KRATOSMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/KratosMetron' }
               ]
             }
           ]
@@ -221,12 +232,12 @@ function sidebarEncyclopedia() {
         {
           text: '🔷 BETASKHEMA', link: '/encyclopedia/Beta/BetaSkhema/Overview', collapsed: true, items: [
             {
-              text: '🔷 BetaAttribute', link: '/encyclopedia/Beta/BetaPython/Overview', collapsed: true, items: [
+              text: '🔷 Attribute', link: '/encyclopedia/Beta/BetaPython/Overview', collapsed: true, items: [
                 { text: '🔷 BetaRisk', link: '/encyclopedia/Beta/BetaTeknik/BetaRisk' }
               ]
             },
             {
-              text: '🔷 BetaMethod', link: '/encyclopedia/Beta/BetaMethod/Overview', collapsed: true, items: [
+              text: '🔷 Method', link: '/encyclopedia/Beta/BetaMethod/Overview', collapsed: true, items: [
                 { text: '🔷 BetaRisk', link: '/encyclopedia/Beta/BetaTekn/BetaRisk' }
               ]
             },
@@ -243,7 +254,7 @@ function sidebarEncyclopedia() {
     {
       text: '🟩 <eko>EKO</eko>', collapsed: true, link: '/encyclopedia/Eko/EkoOverview', items: [
         {
-          text: '🟩 Teknik', link: '/encyclopedia/Eko/Teknik', collapsed: true, items: [
+          text: '🟩 Theoria', link: '/encyclopedia/Eko/Theoria', collapsed: true, items: [
             { text: '🟩 EkoComplexity', link: '/encyclopedia/Eko/Teknik/EkoComplexity' },
             { text: '🟩 EkoKratos', link: '/encyclopedia/Teknik/EkoKratos' },
             { text: '🟩 EkoRisk', link: '/encyclopedia/Eko/Teknik/EkoRisk' },
