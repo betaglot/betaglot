@@ -1,4 +1,10 @@
-# 🛠 Graphics Overview
+# 🛠 Graphics Development
+
+::: tip
+
+This section is for Dev, not UX, ie. this section is about how to make the graphics and not BETAGRAPHY itself.
+
+:::
 
 All Diagrams are Graphics, but not all graphics are Diagrams. Graphics can be images, while diagrams must show how something functions.
 

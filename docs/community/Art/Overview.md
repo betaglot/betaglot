@@ -1,9 +1,9 @@
 
 # Art
 
-Art which represents Planting
+Art which represents Beta
 
-Art inspired by Planting
+Art inspired by Beta
 
 ![Alt text](/art/CellularDecomposition.jpg)
 

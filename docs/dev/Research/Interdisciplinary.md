@@ -1,10 +1,4 @@
-# 🛠 Academia
-
-::: tip
-
-Find fields which haven't yet been applied to Planting
-
-:::
+# 🛠 Interdisciplinary
 
 ## Computer Science
 
@@ -32,6 +26,20 @@ Computational Geometry
 
 #### 6 [Nutrition & Supplementation](https://www.hubermanlab.com/episode/dr-andy-galpin-optimal-nutrition-and-supplementation-for-fitness)
 
+## Design
+
+- Spacing between objects in an enclosed space
+- Easiest Via through obstacles
+- [DistanceEstimation](/encyclopedia/Neuro/Estimation/DistanceEstimation)
+
+### Landscape Architecture
+
+## Science
+
+### Biology
+
+- Dichotomous Tree for BETATAXON Identification
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
@@ -41,7 +49,31 @@ Computational Geometry
 ## DevState
 
 ```py
-`TagsToHeaders: True`
+`TagsToHeaders: False`
 ```
+
+<h2>PageTags</h2>
+
+- "Dev.Interdisciplinary"
+- "Dev.Interdisciplinary.Analogy"
+- "Dev.Interdisciplinary.BenderAvatar"
+- "Dev.Interdisciplinary.Biology"
+- "Dev.Interdisciplinary.Chemistry"
+- "Dev.Interdisciplinary.Chess"
+- "Dev.Interdisciplinary.Climbing"
+- "Dev.Interdisciplinary.Climbing.Udini"
+- "Dev.Interdisciplinary.Dance"
+- "Dev.Interdisciplinary.Gaming"
+- "Dev.Interdisciplinary.Geology"
+- "Dev.Interdisciplinary.Gymnastics"
+- "Dev.Interdisciplinary.Music"
+- "Dev.Interdisciplinary.Music.Rhythm"
+- "Dev.Interdisciplinary.Music.SongStructure"
+- "Dev.Interdisciplinary.Parkour"
+- "Dev.Interdisciplinary.Skateboarding"
+- "Dev.Interdisciplinary.Soccer"
+- "Dev.Interdisciplinary.WebDev"
+- "Dev.Interdisciplinary.WebDev.CSS.Flexbox"
+- "Dev.ResearchQuestions"
 
 :::

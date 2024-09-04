@@ -1,5 +1,6 @@
+# Cards
 
-# 🔷 <dev>Sequence</dev>
+Cards can be either Paper or VueComponent
 
 🔷: Sequence
 🟠: Phrase
@@ -175,17 +176,3 @@ Asyncronous
 All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "Phrase" instead of Algorithm to increase accessiblity to atheletes and other people who are averse to math. The purpose of Put(Plant) is not to convince people of the utility of mathematical **theory**, rather, it's to use math in **practice**.
 
 - ProbePhrase or Probe Algorithm
-
-::: details 🛠 <dev>&&&</dev>
-
-## DevNotes
-
-- Sequence of Events
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-:::

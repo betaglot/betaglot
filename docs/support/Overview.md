@@ -1,13 +1,6 @@
+# Support
 
-# 🛠 Contact
-
-::: tip Send an email to:
-
-```md
-christopheralduncan@gmail.com
-```
-
-:::
+## Contact
 
 ## Give Feedback
 
@@ -33,17 +26,3 @@ Which parts of of [Put(Plant)](/guide/introduction.html#what-is-putplant) are:
 
 - Typos
 - Conceptual Errors
-
-::: details 🛠 <dev>&&&</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: True`
-```
-
-:::

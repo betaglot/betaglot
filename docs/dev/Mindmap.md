@@ -13,3 +13,5 @@ Having a Mindmap which looks cool will be beneficial.
 D3 allows maximum customizations.
 
 Link Mindmap nodes to PutPlant pages.
+
+## Use Tinify to compress the image of Mindmap

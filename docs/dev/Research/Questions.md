@@ -1,4 +1,4 @@
-# 🛠 Research
+# 🛠 Research Questions
 
 ## Questions about Planting and Put(Plant)
 
