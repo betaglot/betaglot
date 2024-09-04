@@ -1,5 +1,14 @@
+# 🛠 <dev>Dev</dev>
 
-# 🛠 <dev>Research and Development</dev>
+## Root of all Beta
+
+BETAGLOT.org is the root for all the other Beta Websites. 
+
+Style Guide
+
+Lexikon
+
+
 
 :::
 

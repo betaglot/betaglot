@@ -7,3 +7,7 @@ School
 ## Skholar
 
 ## Skholarship
+
+## Test New Knowledge ASAP
+
+<https://youtube.com/shorts/-mGKg86dZ70?feature=shared>

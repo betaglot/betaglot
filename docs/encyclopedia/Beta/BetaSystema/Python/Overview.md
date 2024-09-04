@@ -1,4 +1,14 @@
-# 🔷 <beta>BetaPython</beta>
+# <dev>Python</dev>
+
+The color of Python is the same as 🛠<dev>Dev</dev>
+
+This is not BePython. Any part of representing code like Python is in Betagraphy
+
+## BetaPython is Backend ([Betagraphy](/encyclopedia/Betagraphy/Overview) is Frontend)
+
+BetaPython is not meant to be seen by users. Skilled Betatekts should have some understanding of the code.
+
+BetaPython implements the creations of BETAGRAPHY
 
 BetaPython is the Python package which is used to formally write BetaSystema.
 
@@ -13,6 +23,19 @@ BetaPython computes BetaMetron.
 BetaPython is used to implement Betagraphy, BetaSkhema and BetaSimulation
 
 BetaPython also stores data about Taxa by defining classes in python.
+
+## Hardware Analogy
+
+VisualCortex is larger than language areas.
+
+Does visual cortex use vectors like ai?
+
+Gpu is faster than Cpu
+
+What are the advantages of cpu?
+
+- energy cost
+-
 
 ## Philosophy
 
