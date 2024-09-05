@@ -2,9 +2,31 @@
 
 Support the project by selling stuff
 
+## Ellifritt Steel Structure
+
+Teaching Aid for EkoTaxa
+
+## Diorama
+
+## Panorama
+
+![AISC_SteelStructure](/art/AISC_SteelStructure.png)
+
+Vulcan Learning Hole
+
+What to use for a frame?
+
+## Fold out Panorama
+
+Six Panels
+
+Sit on the floor.
+
 ## Calendar
 
-Scantily clad Planters
+Each day is a Taxon
+
+Each week is a Type
 
 ## Playing Cards
 

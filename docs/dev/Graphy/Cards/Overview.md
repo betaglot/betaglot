@@ -4,7 +4,7 @@ Cards instead of Text. Graphics are always more polyglot than text.
 
 ## Drag and Drop into Slots
 
-Slots are like Function Parameters. There could be some logic where missing required slots throw an error and are highlighted, like form validation.
+Slots are like Function Types. There could be some logic where missing required slots throw an error and are highlighted, like form validation.
 
 How much of the card much be within the slot for it to pop into place (like self closing kitchen cabinets)?
 

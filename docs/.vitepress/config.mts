@@ -188,8 +188,8 @@ function sidebarEncyclopedia() {
             {
               text: '🔷 THEORIA', link: '/encyclopedia/Beta/BetaSystema/Theoria/Overview', collapsed: true, items: [
                 {
-                  text: '🔷 PARAMETER', link: '/encyclopedia/Beta/BetaSystema/Theoria/Parameter/Overview', collapsed: true, items: [
-                    { text: '🔷 ', link: '/encyclopedia/Beta/BetaSystema/Theoria/Parameter/Overview' },
+                  text: '🔷 TYPE', link: '/encyclopedia/Beta/BetaSystema/Theoria/Type/Overview', collapsed: true, items: [
+                    { text: '🔷 ', link: '/encyclopedia/Beta/BetaSystema/Theoria/Type/Overview' },
                   ]
                 },
                 {
@@ -204,7 +204,7 @@ function sidebarEncyclopedia() {
                         { text: '🔷 GEOMETRY', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Geometry' },
                         { text: '🔷 KRATOS', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Kratos' },
                         { text: '🔷 ONOMA', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Onoma' },
-                        { text: '🔷 PARAMETER', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Parameter' },
+                        { text: '🔷 TYPE', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Type' },
                         { text: '🔷 PROBABILITAS', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Probabilitas' },
                         { text: '🔷 SKHEMA', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Skhema' },
                         { text: '🔷 TEKNIK', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Teknik' },

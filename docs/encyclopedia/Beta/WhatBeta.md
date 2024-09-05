@@ -26,15 +26,15 @@ Betamax was a piece of hardware (similar to a VHS tape or cassete) which was use
 
 ## <beta>What is a Beta Taxon?</beta>
 
-BetaParameter
+BetaType
 
-### <moto>MotoParameter</moto>
+### <moto>MotoType</moto>
 
-### <eko>EcoParameter</eko>
+### <eko>EcoType</eko>
 
-### <via>ViaParameter</via>
+### <via>ViaType</via>
 
-### <neuro>NeuroParameter</neuro>
+### <neuro>NeuroType</neuro>
 
 ## <beta>What is a BetaInstance?</beta>
 

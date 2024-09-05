@@ -116,7 +116,7 @@ class SpadeSlam(Moto):
 
 A more accurate name for "variable" is "assignable" since many variables don't vary, they remain constant after being assigned a value
 
-Instantiate and EcoParameter with an empty string for Via
+Instantiate and EcoType with an empty string for Via
 
 ```py
 
@@ -459,7 +459,7 @@ UsePython code will be on github (where the programmers are), BetaPython is for 
 
 ## What is Computation?
 
-Define BetaParameter classes for BetaPython instead of UsePython. UsePython will change UI or state. BetaPython is implemented in humans, UsePython is implemented digitally.
+Define BetaType classes for BetaPython instead of UsePython. UsePython will change UI or state. BetaPython is implemented in humans, UsePython is implemented digitally.
 
 BetaPython only outputs information that is designed to be read by humans. UsePython outputs non human readable information like JSON.
 
@@ -609,7 +609,7 @@ Beta_Attributes = {
 
 ```
 
-### <eko>EcoParameter: Object</eko>
+### <eko>EcoType: Object</eko>
 
 ```py
 
@@ -620,7 +620,7 @@ Eco_Attributes = {
 
 ```
 
-### <moto>MotoParameter: Object</moto>
+### <moto>MotoType: Object</moto>
 
 ```py
 
@@ -630,7 +630,7 @@ Moto_Attributes = {
 
 ```
 
-### <via>ViaParameter: Object</via>
+### <via>ViaType: Object</via>
 
 ```py
 
@@ -640,7 +640,7 @@ Via_Attributes = {
 
 ```
 
-### <neuro>NeuroParameter: Object</neuro>
+### <neuro>NeuroType: Object</neuro>
 
 - An object in Awareness
 - An object of your Attention

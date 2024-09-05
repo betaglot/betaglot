@@ -18,6 +18,11 @@ Use 'K' instead of 'C'
 
 - <https://en.wikipedia.org/wiki/Musical_system_of_ancient_Greece>
 
+- hylos
+    - wood, forest,
+    - Hylobates: Gibbon
+    - Hylobeta: Forest Beta
+    - HyloEko
 - problem
 - type
 - place

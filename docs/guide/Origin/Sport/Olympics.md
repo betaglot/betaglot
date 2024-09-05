@@ -603,7 +603,7 @@ betaglot_activities = {
     - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing
 - Compulsory Elements
     - The superclass of Elements is Apparatus since most elements. Apparatus is an Econ.
-    - ElementGraph is not just Moto, nodes can be any of the BetaParameters. Econ branches down into neuro or moto
+    - ElementGraph is not just Moto, nodes can be any of the BetaTypes. Econ branches down into neuro or moto
 - CheerBeta see Dallas Cowboys Cheerleaders
 - (BetaQuotient)InsteadOf(BetaIndex,BETAMETRON)
 :::
