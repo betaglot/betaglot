@@ -502,7 +502,7 @@ Syntax: `Moto.AnteMoto`
 - How does this Moto interface with Eco?
 - Where in the Via is this Moto performed?
 
-### Moto.Eco
+### Moto.Eko
 
 Where in Eco is this Moto performed and on what EcoFactor. Put "the ground" if necessary. Nothing is too obvious in formal languages!
 
@@ -513,7 +513,7 @@ Where in Eco is this Moto performed and on what EcoFactor. Put "the ground" if n
 ### Moto.Error
 
 - Any errors in ControlFlow
-- MotoExecutionError
+- MotoPraktikError
 - Error which is caused by Eco
     - Soil Collapse
     - Wood breaking

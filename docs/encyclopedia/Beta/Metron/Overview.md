@@ -1,6 +1,12 @@
 # 🔷 <beta>METRON</beta>
 
-## TEKNIK
+## THEORIA
+
+## Differentiate(Hypothesis, Theory)
+
+Theoretical Score
+
+Score Relating to the Theory of a Beta
 
 Technical Score
 
@@ -14,7 +20,7 @@ What you did
     - Perform Moto
     - Set a route
 
-## KALON
+## PRAKTIK
 
 Beauty, Good
 
@@ -29,7 +35,7 @@ How well you did it
 
 ```py
 
-Metron = (TeknikMetron * KalosMetron)
+Metron = (TheoriaMetron * PraktikMetron)
 
 ```
 

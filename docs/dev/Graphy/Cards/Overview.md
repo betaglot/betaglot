@@ -1,5 +1,31 @@
 # Cards
 
+Cards instead of Text. Graphics are always more polyglot than text.
+
+## Drag and Drop into Slots
+
+Slots are like Function Parameters. There could be some logic where missing required slots throw an error and are highlighted, like form validation.
+
+How much of the card much be within the slot for it to pop into place (like self closing kitchen cabinets)?
+
+![SearchParty_Cards](/Beta/SearchParty_Cards.png)
+
+## Mimicry
+
+### Magic Cards
+
+### Pokemon Cards
+
+### SearchParty Animated Cards
+
+Sound effects of the cards moving.
+
+Cards overtop a map
+
+Cards animated moving over a diagram of something
+
+<https://www.youtube.com/watch?v=qw7xG1KGC_U>
+
 Cards can be either Paper or VueComponent
 
 🔷: Sequence

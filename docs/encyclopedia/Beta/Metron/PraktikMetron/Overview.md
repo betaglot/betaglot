@@ -35,11 +35,11 @@ Transition
 
 ::: tip
 
-If you're looking for BetaExecutionMETRON
+If you're looking for BetaPraktikMETRON
 
 :::
 
-BetaErrors only occur during the BetaExecution
+BetaErrors only occur during the BetaPraktik
 
 Perfect Beta can be poorly executed
 

@@ -186,7 +186,7 @@ function sidebarEncyclopedia() {
                     {
                       text: '🔷 ATTRIBUTE', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Overview', collapsed: true, items: [
                         { text: '🔷 KRATOS', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Kratos' },
-                        { text: '🔷 MORPHOS', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Morphos' },
+                        { text: '🔷 GEOMETRY', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Geometry' },
                         { text: '🔷 PROBABILITY', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Probability' },
                         { text: '🔷 TEKNIK', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Teknik' },
                       ]
@@ -198,9 +198,7 @@ function sidebarEncyclopedia() {
             },
             {
               text: '🔷 PYTHON', link: '/encyclopedia/Beta/BetaSystema/Python/Overview', collapsed: true, items: [
-                { text: '🔷 BETATAXON', link: '/encyclopedia/Beta/BetaTaxon' },
-                { text: '🔷 BetaMethod', link: '/encyclopedia/Beta/BetaMethod' },
-                { text: '🔷 BetaBlock', link: '/encyclopedia/Beta/BetaBlock' },
+            
               ]
             },
           ]
@@ -211,8 +209,8 @@ function sidebarEncyclopedia() {
             { text: '🔷 PRAKTIKMETRON', link: '/encyclopedia/Beta/BetaMetron/PraktikMetron' },
             {
               text: '🔷 THEORIAMETRON', link: '/encyclopedia/Beta/BetaMetron/TheoriaMetron/Overview', collapsed: true, items: [
-                { text: '🔷 TEKNIKMETRON', link: '/encyclopedia/Beta/BetaMetron/TekninkMetron/ComplexityMetron' },
-                { text: '🔷 PROBABILTYMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/RiskMetron' },
+                { text: '🔷 TEKNIKMETRON', link: '/encyclopedia/Beta/BetaMetron/TekninkMetron/TeknikMetron' },
+                { text: '🔷 PROBABILTYMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/ProbabilityMetron' },
                 { text: '🔷 KRATOSMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/KratosMetron' }
               ]
             }
@@ -220,9 +218,9 @@ function sidebarEncyclopedia() {
         },
         {
           text: '🔷 BETATEKNIK', link: '/encyclopedia/Beta/BetaTeknik/Overview', collapsed: true, items: [
-            { text: '🔷 BetaComplexity', link: '/encyclopedia/Beta/BetaTeknik/BetaComplexity' },
+            { text: '🔷 BetaTeknik', link: '/encyclopedia/Beta/BetaTeknik/BetaTeknik' },
             { text: '🔷 BetaKratos', link: '/encyclopedia/Beta/BetaTeknik/BetaKratos' },
-            { text: '🔷 BetaRisk', link: '/encyclopedia/Beta/BetaTeknik/BetaRisk' }
+            { text: '🔷 BetaProbability', link: '/encyclopedia/Beta/BetaTeknik/BetaProbability' }
           ]
         },
         {
@@ -233,17 +231,17 @@ function sidebarEncyclopedia() {
           text: '🔷 BETASKHEMA', link: '/encyclopedia/Beta/BetaSkhema/Overview', collapsed: true, items: [
             {
               text: '🔷 Attribute', link: '/encyclopedia/Beta/BetaPython/Overview', collapsed: true, items: [
-                { text: '🔷 BetaRisk', link: '/encyclopedia/Beta/BetaTeknik/BetaRisk' }
+                { text: '🔷 BetaProbability', link: '/encyclopedia/Beta/BetaTeknik/BetaProbability' }
               ]
             },
             {
               text: '🔷 Method', link: '/encyclopedia/Beta/BetaMethod/Overview', collapsed: true, items: [
-                { text: '🔷 BetaRisk', link: '/encyclopedia/Beta/BetaTekn/BetaRisk' }
+                { text: '🔷 BetaProbability', link: '/encyclopedia/Beta/BetaTekn/BetaProbability' }
               ]
             },
             {
               text: '🔷 BetaPython', link: '/encyclopedia/Beta/BetaPython/Overview', collapsed: true, items: [
-                { text: '🔷 BetaRisk', link: '/encyclopedia/Beta/BetaDifficulty/BetaRisk' }
+                { text: '🔷 BetaProbability', link: '/encyclopedia/Beta/BetaTheoria/BetaProbability' }
               ]
             },
           ]
@@ -254,10 +252,10 @@ function sidebarEncyclopedia() {
     {
       text: '🟩 <eko>EKO</eko>', collapsed: true, link: '/encyclopedia/Eko/EkoOverview', items: [
         {
-          text: '🟩 Theoria', link: '/encyclopedia/Eko/Theoria', collapsed: true, items: [
-            { text: '🟩 EkoComplexity', link: '/encyclopedia/Eko/Teknik/EkoComplexity' },
+          text: '🟩 Eko Theoria', link: '/encyclopedia/Eko/Theoria', collapsed: true, items: [
+            { text: '🟩 EkoTeknik', link: '/encyclopedia/Eko/Teknik/EkoTeknik' },
             { text: '🟩 EkoKratos', link: '/encyclopedia/Teknik/EkoKratos' },
-            { text: '🟩 EkoRisk', link: '/encyclopedia/Eko/Teknik/EkoRisk' },
+            { text: '🟩 EkoProbability', link: '/encyclopedia/Eko/Teknik/EkoProbability' },
           ]
         }
       ]
@@ -269,28 +267,28 @@ function sidebarEncyclopedia() {
         { text: '🟠 MotoDiagram', link: '/encyclopedia/Moto/MotoDiagram' },
         {
           text: '🟠 BetaPython', link: '/encyclopedia/Moto/PlantMoto/Overview', collapsed: true, items: [
-            { text: '🟠 MotoClass', link: '/encyclopedia/Moto/MotoClass' },
+            { text: '🟠 MotoClass', link: '/encyclopedia/Moto/MotoTaxon' },
             { text: '🟠 MotoMethod', link: '/encyclopedia/Moto/MotoMethod' },
             { text: '🟠 MotoBlock', link: '/encyclopedia/Moto/MotoBlock' },
           ]
         },
         {
           text: '🟠 MotoScore', link: '/encyclopedia/Moto/MotoScore/Overview', collapsed: true, items: [
-            { text: '🟠 MotoExecutionMetron', link: '/encyclopedia/Moto/MotoScore/MotoExecutionMetron' },
+            { text: '🟠 MotoPraktikMetron', link: '/encyclopedia/Moto/MotoScore/MotoPraktikMetron' },
             {
-              text: '🟠 MotoTeknikMetron', link: '/encyclopedia/Moto/MotoScore/MotoTeknikMetron/Overview', collapsed: true, items: [
-                { text: '🟠 MotoComplexityScore', link: '/encyclopedia/Moto/MotoScore/MotoTeknikMetron/MotoComplexityMetron' },
-                { text: '🟠 MotoRiskScore', link: '/encyclopedia/Moto/MotoScore/MotoTeknikMetron/MotoRiskMetron' },
-                { text: '🟠 MotoKratosScore', link: '/encyclopedia/Moto/MotoScore/MotoTeknikMetron/MotoKratosMetron' }
+              text: '🟠 MotoTheoriaMetron', link: '/encyclopedia/Moto/MotoTheoriaMetron/Overview', collapsed: true, items: [
+                { text: '🟠 MotoTeknikScore', link: '/encyclopedia/Moto/MotoTheoriaMetron/MotoTeknikMetron' },
+                { text: '🟠 MotoProbabilityScore', link: '/encyclopedia/Moto/MotoTheoriaMetron/MotoProbabilityMetron' },
+                { text: '🟠 MotoKratosScore', link: '/encyclopedia/Moto/MotoTheoriaMetron/MotoKratosMetron' }
               ]
             }
           ]
         },
         {
-          text: '🟠 MotoTeknik', link: '/encyclopedia/Moto/MotoTeknik/Overview', collapsed: true, items: [
-            { text: '🟠 MotoComplexity', link: '/encyclopedia/Moto/MotoTeknik/MotoComplexity' },
-            { text: '🟠 MotoKratos', link: '/encyclopedia/Moto/MotoTeknik/MotoKratos' },
-            { text: '🟠 MotoRisk', link: '/encyclopedia/Moto/MotoTeknik/MotoRisk' }
+          text: '🟠 MotoTheoria', link: '/encyclopedia/Moto/MotoTheoria/Overview', collapsed: true, items: [
+            { text: '🟠 MotoTeknik', link: '/encyclopedia/Moto/MotoTheoria/MotoTeknik' },
+            { text: '🟠 MotoKratos', link: '/encyclopedia/Moto/MotoTheoria/MotoKratos' },
+            { text: '🟠 MotoProbability', link: '/encyclopedia/Moto/MotoTheoria/MotoProbability' }
           ]
         },
         {
@@ -351,7 +349,7 @@ function sidebarEncyclopedia() {
     // #Neuro
     {
       text: '💜 <neuro>Neuro</neuro>', link: '/encyclopedia/Neuro/NeuroOverview', collapsed: true, items: [
-        { text: '🔷 Neuro Difficulty', link: '/encyclopedia/Neuro/NeuroTeknik' },
+        { text: '🔷 Neuro Theoria', link: '/encyclopedia/Neuro/NeuroTeknik' },
         {
           text: '💜 Arousal', link: '/encyclopedia/Neuro/Arousal/Overview', collapsed: true, items: [
           ]
