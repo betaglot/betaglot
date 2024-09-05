@@ -198,7 +198,7 @@ function sidebarEncyclopedia() {
             },
             {
               text: '🔷 PYTHON', link: '/encyclopedia/Beta/BetaSystema/Python/Overview', collapsed: true, items: [
-            
+
               ]
             },
           ]
@@ -349,105 +349,109 @@ function sidebarEncyclopedia() {
     // #Neuro
     {
       text: '💜 <neuro>Neuro</neuro>', link: '/encyclopedia/Neuro/NeuroOverview', collapsed: true, items: [
-        { text: '🔷 Neuro Theoria', link: '/encyclopedia/Neuro/NeuroTeknik' },
         {
-          text: '💜 Arousal', link: '/encyclopedia/Neuro/Arousal/Overview', collapsed: true, items: [
-          ]
-        },
-        {
-          text: '💜 Attention', link: '/encyclopedia/Neuro/Attention/Overview', collapsed: true, items: [
-          ]
-        },
-        {
-          text: '💜 Audio', link: '/encyclopedia/Neuro/Audio/Overview', collapsed: true, items: [
+          text: '🔷 Neuro Theoria', link: '/encyclopedia/Neuro/NeuroTheoria/Overview', collapsed: true, items: [
             {
-              text: '💜 Music', link: '/encyclopedia/Neuro/Audio/Music/Overview', collapsed: true, items: [
-                { text: '💜 Playlists', link: '/encyclopedia/Neuro/Audio/Music/Overview' },
+              text: '💜 Arousal', link: '/encyclopedia/Neuro/NeuroTheoriaArousal/Overview', collapsed: true, items: [
               ]
             },
-            { text: '💜 BranchBreakSound', link: '/encyclopedia/Neuro/Audio/BranchBreakSound' },
-            { text: '💜 LogBreakSound', link: '/encyclopedia/Neuro/Audio/LogBreakSound' },
-            { text: '💜 SlashSound', link: '/encyclopedia/Neuro/Audio/SlashSound' },
-            { text: '💜 SpadeSound', link: '/encyclopedia/Neuro/Audio/SpadeSound' },
-            { text: '💜 SoilSound', link: '/encyclopedia/Neuro/Audio/SoilSound' },
+            {
+              text: '💜 Attention', link: '/encyclopedia/Neuro/NeuroTheoriaAttention/Overview', collapsed: true, items: [
+              ]
+            },
+            {
+              text: '💜 Audio', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/Overview', collapsed: true, items: [
+                {
+                  text: '💜 Music', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/Music/Overview', collapsed: true, items: [
+                    { text: '💜 Playlists', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/Music/Overview' },
+                  ]
+                },
+                { text: '💜 BranchBreakSound', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/BranchBreakSound' },
+                { text: '💜 LogBreakSound', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/LogBreakSound' },
+                { text: '💜 SlashSound', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/SlashSound' },
+                { text: '💜 SpadeSound', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/SpadeSound' },
+                { text: '💜 SoilSound', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/SoilSound' },
+              ]
+            },
+            {
+              text: '💜 Awareness', link: '/encyclopedia/Neuro/NeuroTheoriaAwareness/Overview', collapsed: true, items: [
+              ]
+            },
+            {
+              text: '💜 Counting', link: '/encyclopedia/Neuro/NeuroTheoriaCounting/Overview', collapsed: true, items: [
+              ]
+            },
+            {
+              text: '💜 Decision', collapsed: true, items: [
+                { text: '💜 GoOrNoGo', link: '/encyclopedia/Neuro/NeuroTheoriaDecision/GoOrNoGo' },
+                { text: '💜 MicrositeSelection', link: '/encyclopedia/Neuro/NeuroTheoriaDecision/MicrositeSelection' },
+              ]
+            },
+            {
+              text: '💜 Emotion', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Overview', collapsed: true, items: [
+                { text: '💜 Anger', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Anger' },
+                { text: '💜 Disgust', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Disgust' },
+                { text: '💜 Fear', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Fear' },
+                { text: '💜 Joy', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Joy' },
+                { text: '💜 Sadness', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Sadness' },
+              ]
+            },
+            {
+              text: '💜 Energy', link: '/encyclopedia/Neuro/NeuroTheoriaEnergy/Overview', collapsed: true, items: [
+              ]
+            },
+            {
+              text: '💜 Estimation', collapsed: true, items: [
+                { text: '💜 AreaEstimation', link: '/encyclopedia/Neuro/NeuroTheoriaEstimation/AreaEstimation' },
+                { text: '💜 BagCoverEstimation', link: '/encyclopedia/Neuro/NeuroTheoriaEstimation/BagCoverEstimation' },
+                { text: '💜 DistanceEstimation', link: '/encyclopedia/Neuro/NeuroTheoriaEstimation/DistanceEstimation' },
+                { text: '💜 TimeEstimation', link: '/encyclopedia/Neuro/NeuroTheoriaEstimation/TimeEstimation' },
+              ]
+            },
+            {
+              text: '💜 Event', link: '/encyclopedia/Neuro/NeuroTheoriaEvent/Overview', collapsed: true, items: [
+              ]
+            },
+            {
+              text: '💜 Homeostasis', link: '/encyclopedia/Neuro/NeuroTheoriaHomeostasis/Overview', collapsed: true, items: [
+              ]
+            },
+            {
+              text: '💜 Memory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/Overview', collapsed: true, items: [
+                { text: '💜 WorkingMemory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/WorkingMemory' },
+                { text: '💜 ShortTermMemory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/ShortTermMemory' },
+                { text: '💜 LongTermMemory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/LongTermMemory' },
+                { text: '💜 NumberMemory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/NumberMemory' },
+                { text: '💜 ViaMemory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/ViaMemory' },
+              ]
+            },
+            {
+              text: '💜 Mindfulness', link: '/encyclopedia/Neuro/NeuroTheoriaMindfulness/Overview', collapsed: true, items: [
+              ]
+            },
+            {
+              text: '💜 Muscle', link: '/encyclopedia/Neuro/NeuroTheoriaMuscle/Overview', collapsed: true, items: [
+              ]
+            },
+            { text: '💜 Proprioception', link: '/encyclopedia/Neuro/NeuroTheoriaProprioception/Overview' },
+            { text: '💜 Resilience', link: '/encyclopedia/Neuro/NeuroTheoriaResilience/Overview' },
+            {
+              text: '💜 SpatialCognition', link: '/encyclopedia/Neuro/NeuroTheoriaSpatialCognition/Overview', collapsed: true, items: [
+              ]
+            },
+            {
+              text: '💜 Time', link: '/encyclopedia/Neuro/NeuroTheoriaTime/Overview', collapsed: true, items: [
+                { text: '💜 BagUpTime', link: '/encyclopedia/Neuro/NeuroTheoriaTime/BagUpTime' },
+                { text: '💜 DailySchedule', link: '/encyclopedia/Neuro/NeuroTheoriaTime/DailySchedule' },
+                { text: '💜 MotoTiming', link: '/encyclopedia/Neuro/NeuroTheoriaTime/MotoTiming' },
+                { text: '💜 Planning', link: '/encyclopedia/Neuro/NeuroTheoriaTime/Planning' },
+                { text: '💜 Timer', link: '/encyclopedia/Neuro/NeuroTheoriaTime/Timer' },
+              ]
+            },
+            { text: '💜 Thermoception', link: '/encyclopedia/Neuro/NeuroTheoriaThermoception' },
           ]
         },
-        {
-          text: '💜 Awareness', link: '/encyclopedia/Neuro/Awareness/Overview', collapsed: true, items: [
-          ]
-        },
-        {
-          text: '💜 Counting', link: '/encyclopedia/Neuro/Counting/Overview', collapsed: true, items: [
-          ]
-        },
-        {
-          text: '💜 Decision', collapsed: true, items: [
-            { text: '💜 GoOrNoGo', link: '/encyclopedia/Neuro/Decision/GoOrNoGo' },
-            { text: '💜 MicrositeSelection', link: '/encyclopedia/Neuro/Decision/MicrositeSelection' },
-          ]
-        },
-        {
-          text: '💜 Emotion', link: '/encyclopedia/Neuro/Emotion/Overview', collapsed: true, items: [
-            { text: '💜 Anger', link: '/encyclopedia/Neuro/Emotion/Anger' },
-            { text: '💜 Disgust', link: '/encyclopedia/Neuro/Emotion/Disgust' },
-            { text: '💜 Fear', link: '/encyclopedia/Neuro/Emotion/Fear' },
-            { text: '💜 Joy', link: '/encyclopedia/Neuro/Emotion/Joy' },
-            { text: '💜 Sadness', link: '/encyclopedia/Neuro/Emotion/Sadness' },
-          ]
-        },
-        {
-          text: '💜 Energy', link: '/encyclopedia/Neuro/Energy/Overview', collapsed: true, items: [
-          ]
-        },
-        {
-          text: '💜 Estimation', collapsed: true, items: [
-            { text: '💜 AreaEstimation', link: '/encyclopedia/Neuro/Estimation/AreaEstimation' },
-            { text: '💜 BagCoverEstimation', link: '/encyclopedia/Neuro/Estimation/BagCoverEstimation' },
-            { text: '💜 DistanceEstimation', link: '/encyclopedia/Neuro/Estimation/DistanceEstimation' },
-            { text: '💜 TimeEstimation', link: '/encyclopedia/Neuro/Estimation/TimeEstimation' },
-          ]
-        },
-        {
-          text: '💜 Event', link: '/encyclopedia/Neuro/Event/Overview', collapsed: true, items: [
-          ]
-        },
-        {
-          text: '💜 Homeostasis', link: '/encyclopedia/Neuro/Homeostasis/Overview', collapsed: true, items: [
-          ]
-        },
-        {
-          text: '💜 Memory', link: '/encyclopedia/Neuro/Memory/Overview', collapsed: true, items: [
-            { text: '💜 WorkingMemory', link: '/encyclopedia/Neuro/Memory/WorkingMemory' },
-            { text: '💜 ShortTermMemory', link: '/encyclopedia/Neuro/Memory/ShortTermMemory' },
-            { text: '💜 LongTermMemory', link: '/encyclopedia/Neuro/Memory/LongTermMemory' },
-            { text: '💜 NumberMemory', link: '/encyclopedia/Neuro/Memory/NumberMemory' },
-            { text: '💜 ViaMemory', link: '/encyclopedia/Neuro/Memory/ViaMemory' },
-          ]
-        },
-        {
-          text: '💜 Mindfulness', link: '/encyclopedia/Neuro/Mindfulness/Overview', collapsed: true, items: [
-          ]
-        },
-        {
-          text: '💜 Muscle', link: '/encyclopedia/Neuro/Muscle/Overview', collapsed: true, items: [
-          ]
-        },
-        { text: '💜 Proprioception', link: '/encyclopedia/Neuro/Proprioception/Overview' },
-        { text: '💜 Resilience', link: '/encyclopedia/Neuro/Resilience/Overview' },
-        {
-          text: '💜 SpatialCognition', link: '/encyclopedia/Neuro/SpatialCognition/Overview', collapsed: true, items: [
-          ]
-        },
-        {
-          text: '💜 Time', link: '/encyclopedia/Neuro/Time/Overview', collapsed: true, items: [
-            { text: '💜 BagUpTime', link: '/encyclopedia/Neuro/Time/BagUpTime' },
-            { text: '💜 DailySchedule', link: '/encyclopedia/Neuro/Time/DailySchedule' },
-            { text: '💜 MotoTiming', link: '/encyclopedia/Neuro/Time/MotoTiming' },
-            { text: '💜 Planning', link: '/encyclopedia/Neuro/Time/Planning' },
-            { text: '💜 Timer', link: '/encyclopedia/Neuro/Time/Timer' },
-          ]
-        },
-        { text: '💜 Thermoception', link: '/encyclopedia/Neuro/Thermoception' },
+
       ]
     },
   ]

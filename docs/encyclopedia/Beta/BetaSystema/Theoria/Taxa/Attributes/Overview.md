@@ -1,4 +1,4 @@
-# 🔷<beta>TheoriaMetron</beta>
+# 🔷<beta>Theoria</beta>
 
 How much do you need know how to do?, How much power is required?,
 

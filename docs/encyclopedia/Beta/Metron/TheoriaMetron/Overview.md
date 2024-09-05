@@ -1,21 +1,21 @@
 
-# 🔷 <beta>Beta DifficultyMETRON</beta>
+# 🔷 <beta>BETATHEORIAMETRON</beta>
 
-Is there a maximum DifficultyMETRON
+Is there a maximum TheoriaMetron
 
 ```py
 
-BetaDifficultyMETRON = (MotoDifficultyMETRON + EcoDifficultyMETRON + ViaDifficultyMETRON + NeuroDifficultyMETRON)
+BetaTheoriaMetron = (MotoTheoriaMetron + EcoTheoriaMetron + ViaTheoriaMetron + NeuroTheoriaMetron)
 
 ```
 
-## MotoDifficultyMETRON
+## MotoTheoriaMetron
 
-## EcoDifficultyMETRON
+## EcoTheoriaMetron
 
-## ViaDifficultyMETRON
+## ViaTheoriaMetron
 
-## NeuroDifficultyMETRON
+## NeuroTheoriaMetron
 
 ::: details 🛠 <dev>&&&</dev>
 
@@ -31,21 +31,21 @@ BetaDifficultyMETRON = (MotoDifficultyMETRON + EcoDifficultyMETRON + ViaDifficul
 
 <h2>PageTags</h2>
 
-- "Beta.BetaDifficulty.BetaComplexity"
-- "Beta.BetaDifficulty.BetaKratos"
-- "Beta.BetaDifficulty.BetaRisk"
-- "Beta.BetaDifficulty.Overview"
-- "Beta.Difficulty.DifficultyMETRON"
-- "Beta.Difficulty.DifficultyMETRON.TotalDifficulty"
-- "Beta.Difficulty.DifficultyMETRONChart"
-- "Dev.Difficulty.Complexity"
-- "Dev.Difficulty.DifficultyChart"
-- "Dev.Difficulty.DifficultyComparison"
-- "Dev.Difficulty.Fraction"
-- "Dev.Difficulty.Fraction.2"
-- "Dev.Difficulty.Fraction.3"
-- "Dev.Difficulty.Fraction.5"
-- "Dev.Difficulty.Kratos"
-- "Dev.Difficulty.RelativeDifficulty"
-- "Dev.Difficulty.Risk"
+- "Beta.BetaTheoria.BetaComplexity"
+- "Beta.BetaTheoria.BetaKratos"
+- "Beta.BetaTheoria.BetaRisk"
+- "Beta.BetaTheoria.Overview"
+- "Beta.Theoria.TheoriaMetron"
+- "Beta.Theoria.TheoriaMetron.TotalTheoria"
+- "Beta.Theoria.TheoriaMetronChart"
+- "Dev.Theoria.Complexity"
+- "Dev.Theoria.TheoriaChart"
+- "Dev.Theoria.TheoriaComparison"
+- "Dev.Theoria.Fraction"
+- "Dev.Theoria.Fraction.2"
+- "Dev.Theoria.Fraction.3"
+- "Dev.Theoria.Fraction.5"
+- "Dev.Theoria.Kratos"
+- "Dev.Theoria.RelativeTheoria"
+- "Dev.Theoria.Risk"
 :::
