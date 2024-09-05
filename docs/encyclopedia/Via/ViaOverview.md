@@ -177,7 +177,7 @@ Directions
 
 <h2>PageTags</h2>
 
-## ViaProbability
+## ViaProbabilitas
 
 ## ViaComposition
 

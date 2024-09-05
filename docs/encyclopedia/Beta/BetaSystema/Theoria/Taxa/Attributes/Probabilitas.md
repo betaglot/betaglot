@@ -1,10 +1,10 @@
-# 🔷🔷 Probability
+# 🔷 PROBABILITAS
 
-The concept of Probability didn't exist in ancient greece.
+The concept of Probabilitas didn't exist in ancient greece.
 
 Chance, Risk, Likelihood, Odds
 
-Probability of Success
+Probabilitas of Success
 
 FamiliarityBias
 

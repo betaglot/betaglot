@@ -1,4 +1,4 @@
-# 🔷 BetaPraktikos
+# 🔷 BetaPraktik
 
 > action rather than thought or ideas
 

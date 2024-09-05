@@ -169,9 +169,20 @@ function sidebarEncyclopedia() {
           text: '🔷 SYSTEMA', link: '/encyclopedia/Beta/BetaSystema/Overview', collapsed: true, items: [
             {
               text: '🔷 PRAKTIK', link: '/encyclopedia/Beta/BetaSystema/Praktik/Overview', collapsed: true, items: [
-                { text: '🔷 BETATAXON', link: '/encyclopedia/Beta/BetaTaxon' },
-                { text: '🔷 BetaMethod', link: '/encyclopedia/Beta/BetaMethod' },
-                { text: '🔷 BetaBlock', link: '/encyclopedia/Beta/BetaBlock' },
+                { text: '🔷 AskBeta', link: '/encyclopedia/Beta/BetaSystema/Praktik/AskBeta' },
+                { text: '🔷 BetaAdapt', link: '/encyclopedia/Beta/BetaSystema/Praktik/BetaAdapt' },
+                { text: '🔷 BetaExperiment', link: '/encyclopedia/Beta/BetaSystema/Praktik/BetaExperiment' },
+                { text: '🔷 BetaGnosis', link: '/encyclopedia/Beta/BetaSystema/Praktik/BetaGnosis' },
+                { text: '🔷 BetaIdea', link: '/encyclopedia/Beta/BetaSystema/Praktik/BetaIdea' },
+                { text: '🔷 BetaParse', link: '/encyclopedia/Beta/BetaSystema/Praktik/BetaParse' },
+                { text: '🔷 BetaSkope', link: '/encyclopedia/Beta/BetaSystema/Praktik/BetaSkope' },
+                { text: '🔷 GetBeta', link: '/encyclopedia/Beta/BetaSystema/Praktik/GetBeta' },
+                { text: '🔷 GiveBeta', link: '/encyclopedia/Beta/BetaSystema/Praktik/GiveBeta' },
+                { text: '🔷 LinkBeta', link: '/encyclopedia/Beta/BetaSystema/Praktik/LinkBeta' },
+                { text: '🔷 MimeBeta', link: '/encyclopedia/Beta/BetaSystema/Praktik/MimeBeta' },
+                { text: '🔷 PerformBeta', link: '/encyclopedia/Beta/BetaSystema/Praktik/PerformBeta' },
+                { text: '🔷 SpeakBeta', link: '/encyclopedia/Beta/BetaSystema/Praktik/SpeakBeta' },
+                { text: '🔷 SprayBeta', link: '/encyclopedia/Beta/BetaSystema/Praktik/SprayBeta' },
               ]
             },
             {
@@ -184,21 +195,24 @@ function sidebarEncyclopedia() {
                 {
                   text: '🔷 TAXA', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Overview', collapsed: true, items: [
                     {
-                      text: '🔷 ATTRIBUTE', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Overview', collapsed: true, items: [
-                        { text: '🔷 KRATOS', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Kratos' },
-                        { text: '🔷 GEOMETRY', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Geometry' },
-                        { text: '🔷 PROBABILITY', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Probability' },
-                        { text: '🔷 TEKNIK', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attribute/Teknik' },
+                      text: '🔷 ATTRIBUTE', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Overview', collapsed: true, items: [
+                        { text: '🔷 ANALOGY', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Analogy' },
+                        { text: '🔷 ANATOMY', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Anatomy' },
+                        { text: '🔷 ARITHMOS', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Arithmos' },
+                        { text: '🔷 CRUX', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Crux' },
+                        { text: '🔷 ERROR', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Error' },
+                        { text: '🔷 GEOMETRY', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Geometry' },
+                        { text: '🔷 KRATOS', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Kratos' },
+                        { text: '🔷 ONOMA', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Onoma' },
+                        { text: '🔷 PARAMETER', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Parameter' },
+                        { text: '🔷 PROBABILITAS', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Probabilitas' },
+                        { text: '🔷 SKHEMA', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Skhema' },
+                        { text: '🔷 TEKNIK', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Attributes/Teknik' },
                       ]
                     },
-                    { text: '🔷 METHOD', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Method/Overview' },
+                    { text: '🔷 METHOD', link: '/encyclopedia/Beta/BetaSystema/Theoria/Taxa/Methods/Overview' },
                   ]
                 },
-              ]
-            },
-            {
-              text: '🔷 PYTHON', link: '/encyclopedia/Beta/BetaSystema/Python/Overview', collapsed: true, items: [
-
               ]
             },
           ]
@@ -210,7 +224,7 @@ function sidebarEncyclopedia() {
             {
               text: '🔷 THEORIAMETRON', link: '/encyclopedia/Beta/BetaMetron/TheoriaMetron/Overview', collapsed: true, items: [
                 { text: '🔷 TEKNIKMETRON', link: '/encyclopedia/Beta/BetaMetron/TekninkMetron/TeknikMetron' },
-                { text: '🔷 PROBABILTYMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/ProbabilityMetron' },
+                { text: '🔷 PROBABILTYMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/ProbabilitasMetron' },
                 { text: '🔷 KRATOSMETRON', link: '/encyclopedia/Beta/BetaMetron/TeknikMetron/KratosMetron' }
               ]
             }
@@ -220,7 +234,7 @@ function sidebarEncyclopedia() {
           text: '🔷 BETATEKNIK', link: '/encyclopedia/Beta/BetaTeknik/Overview', collapsed: true, items: [
             { text: '🔷 BetaTeknik', link: '/encyclopedia/Beta/BetaTeknik/BetaTeknik' },
             { text: '🔷 BetaKratos', link: '/encyclopedia/Beta/BetaTeknik/BetaKratos' },
-            { text: '🔷 BetaProbability', link: '/encyclopedia/Beta/BetaTeknik/BetaProbability' }
+            { text: '🔷 BetaProbabilitas', link: '/encyclopedia/Beta/BetaTeknik/BetaProbabilitas' }
           ]
         },
         {
@@ -231,17 +245,17 @@ function sidebarEncyclopedia() {
           text: '🔷 BETASKHEMA', link: '/encyclopedia/Beta/BetaSkhema/Overview', collapsed: true, items: [
             {
               text: '🔷 Attribute', link: '/encyclopedia/Beta/BetaPython/Overview', collapsed: true, items: [
-                { text: '🔷 BetaProbability', link: '/encyclopedia/Beta/BetaTeknik/BetaProbability' }
+                { text: '🔷 BetaProbabilitas', link: '/encyclopedia/Beta/BetaTeknik/BetaProbabilitas' }
               ]
             },
             {
               text: '🔷 Method', link: '/encyclopedia/Beta/BetaMethod/Overview', collapsed: true, items: [
-                { text: '🔷 BetaProbability', link: '/encyclopedia/Beta/BetaTekn/BetaProbability' }
+                { text: '🔷 BetaProbabilitas', link: '/encyclopedia/Beta/BetaTekn/BetaProbabilitas' }
               ]
             },
             {
               text: '🔷 BetaPython', link: '/encyclopedia/Beta/BetaPython/Overview', collapsed: true, items: [
-                { text: '🔷 BetaProbability', link: '/encyclopedia/Beta/BetaTheoria/BetaProbability' }
+                { text: '🔷 BetaProbabilitas', link: '/encyclopedia/Beta/BetaTheoria/BetaProbabilitas' }
               ]
             },
           ]
@@ -255,14 +269,14 @@ function sidebarEncyclopedia() {
           text: '🟩 Eko Theoria', link: '/encyclopedia/Eko/Theoria', collapsed: true, items: [
             { text: '🟩 EkoTeknik', link: '/encyclopedia/Eko/Teknik/EkoTeknik' },
             { text: '🟩 EkoKratos', link: '/encyclopedia/Teknik/EkoKratos' },
-            { text: '🟩 EkoProbability', link: '/encyclopedia/Eko/Teknik/EkoProbability' },
+            { text: '🟩 EkoProbabilitas', link: '/encyclopedia/Eko/Teknik/EkoProbabilitas' },
           ]
         }
       ]
     },
     //#Moto
     {
-      text: '🟠 <Moto>Moto</Moto>', link: '/encyclopedia/Moto/MotoOverview', collapsed: true, items: [
+      text: '🟠 <Moto>MOTO</Moto>', link: '/encyclopedia/Moto/MotoOverview', collapsed: true, items: [
         { text: '🟠 MotoExamples', link: '/encyclopedia/Moto/MotoExamples' },
         { text: '🟠 MotoDiagram', link: '/encyclopedia/Moto/MotoDiagram' },
         {
@@ -278,7 +292,7 @@ function sidebarEncyclopedia() {
             {
               text: '🟠 MotoTheoriaMetron', link: '/encyclopedia/Moto/MotoTheoriaMetron/Overview', collapsed: true, items: [
                 { text: '🟠 MotoTeknikScore', link: '/encyclopedia/Moto/MotoTheoriaMetron/MotoTeknikMetron' },
-                { text: '🟠 MotoProbabilityScore', link: '/encyclopedia/Moto/MotoTheoriaMetron/MotoProbabilityMetron' },
+                { text: '🟠 MotoProbabilitasScore', link: '/encyclopedia/Moto/MotoTheoriaMetron/MotoProbabilitasMetron' },
                 { text: '🟠 MotoKratosScore', link: '/encyclopedia/Moto/MotoTheoriaMetron/MotoKratosMetron' }
               ]
             }
@@ -288,7 +302,7 @@ function sidebarEncyclopedia() {
           text: '🟠 MotoTheoria', link: '/encyclopedia/Moto/MotoTheoria/Overview', collapsed: true, items: [
             { text: '🟠 MotoTeknik', link: '/encyclopedia/Moto/MotoTheoria/MotoTeknik' },
             { text: '🟠 MotoKratos', link: '/encyclopedia/Moto/MotoTheoria/MotoKratos' },
-            { text: '🟠 MotoProbability', link: '/encyclopedia/Moto/MotoTheoria/MotoProbability' }
+            { text: '🟠 MotoProbabilitas', link: '/encyclopedia/Moto/MotoTheoria/MotoProbabilitas' }
           ]
         },
         {
@@ -299,7 +313,7 @@ function sidebarEncyclopedia() {
     },
     // #Via
     {
-      text: '🔻 <via>Via</via>', link: '/encyclopedia/Via/ViaOverview', collapsed: true, items: [
+      text: '🔻 <via>VIA</via>', link: '/encyclopedia/Via/ViaOverview', collapsed: true, items: [
         { text: '🔷 Via Sequence', link: '/encyclopedia/Via/ViaSequence/Overview' },
         { text: '🔷 ViaTeknik', link: '/encyclopedia/Via/ViaTeknik' },
         {
@@ -348,107 +362,108 @@ function sidebarEncyclopedia() {
     },
     // #Neuro
     {
-      text: '💜 <neuro>Neuro</neuro>', link: '/encyclopedia/Neuro/NeuroOverview', collapsed: true, items: [
+      text: '💜 <neuro>NEURO</neuro>', link: '/encyclopedia/Neuro/NeuroOverview', collapsed: true, items: [
         {
-          text: '🔷 Neuro Theoria', link: '/encyclopedia/Neuro/NeuroTheoria/Overview', collapsed: true, items: [
+          text: '🔷 Neuro Theoria', link: '/encyclopedia/Neuro/NeuroTheoria//Overview', collapsed: true, items: [
             {
-              text: '💜 Arousal', link: '/encyclopedia/Neuro/NeuroTheoriaArousal/Overview', collapsed: true, items: [
+              text: '💜 Arousal', link: '/encyclopedia/Neuro/NeuroTheoria/Arousal/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '💜 Attention', link: '/encyclopedia/Neuro/NeuroTheoriaAttention/Overview', collapsed: true, items: [
+              text: '💜 Attention', link: '/encyclopedia/Neuro/NeuroTheoria/Attention/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '💜 Audio', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/Overview', collapsed: true, items: [
+              text: '💜 Audio', link: '/encyclopedia/Neuro/NeuroTheoria/Audio/Overview', collapsed: true, items: [
                 {
-                  text: '💜 Music', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/Music/Overview', collapsed: true, items: [
-                    { text: '💜 Playlists', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/Music/Overview' },
+                  text: '💜 Music', link: '/encyclopedia/Neuro/NeuroTheoria/Audio/Music/Overview', collapsed: true, items: [
+                    { text: '💜 Playlists', link: '/encyclopedia/Neuro/NeuroTheoria/Audio/Music/Overview' },
                   ]
                 },
-                { text: '💜 BranchBreakSound', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/BranchBreakSound' },
-                { text: '💜 LogBreakSound', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/LogBreakSound' },
-                { text: '💜 SlashSound', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/SlashSound' },
-                { text: '💜 SpadeSound', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/SpadeSound' },
-                { text: '💜 SoilSound', link: '/encyclopedia/Neuro/NeuroTheoriaAudio/SoilSound' },
+                { text: '💜 BranchBreakSound', link: '/encyclopedia/Neuro/NeuroTheoria/Audio/BranchBreakSound' },
+                { text: '💜 LogBreakSound', link: '/encyclopedia/Neuro/NeuroTheoria/Audio/LogBreakSound' },
+                { text: '💜 SlashSound', link: '/encyclopedia/Neuro/NeuroTheoria/Audio/SlashSound' },
+                { text: '💜 SpadeSound', link: '/encyclopedia/Neuro/NeuroTheoria/Audio/SpadeSound' },
+                { text: '💜 SoilSound', link: '/encyclopedia/Neuro/NeuroTheoria/Audio/SoilSound' },
               ]
             },
             {
-              text: '💜 Awareness', link: '/encyclopedia/Neuro/NeuroTheoriaAwareness/Overview', collapsed: true, items: [
+              text: '💜 Awareness', link: '/encyclopedia/Neuro/NeuroTheoria/Awareness/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '💜 Counting', link: '/encyclopedia/Neuro/NeuroTheoriaCounting/Overview', collapsed: true, items: [
+              text: '💜 Counting', link: '/encyclopedia/Neuro/NeuroTheoria/Counting/Overview', collapsed: true, items: [
               ]
             },
             {
               text: '💜 Decision', collapsed: true, items: [
-                { text: '💜 GoOrNoGo', link: '/encyclopedia/Neuro/NeuroTheoriaDecision/GoOrNoGo' },
-                { text: '💜 MicrositeSelection', link: '/encyclopedia/Neuro/NeuroTheoriaDecision/MicrositeSelection' },
+                { text: '💜 GoOrNoGo', link: '/encyclopedia/Neuro/NeuroTheoria/Decision/GoOrNoGo' },
+                { text: '💜 MicrositeSelection', link: '/encyclopedia/Neuro/NeuroTheoria/Decision/MicrositeSelection' },
               ]
             },
             {
-              text: '💜 Emotion', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Overview', collapsed: true, items: [
-                { text: '💜 Anger', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Anger' },
-                { text: '💜 Disgust', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Disgust' },
-                { text: '💜 Fear', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Fear' },
-                { text: '💜 Joy', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Joy' },
-                { text: '💜 Sadness', link: '/encyclopedia/Neuro/NeuroTheoriaEmotion/Sadness' },
+              text: '💜 Emotion', link: '/encyclopedia/Neuro/NeuroTheoria/Emotion/Overview', collapsed: true, items: [
+                { text: '💜 Anger', link: '/encyclopedia/Neuro/NeuroTheoria/Emotion/Anger' },
+                { text: '💜 Disgust', link: '/encyclopedia/Neuro/NeuroTheoria/Emotion/Disgust' },
+                { text: '💜 Fear', link: '/encyclopedia/Neuro/NeuroTheoria/Emotion/Fear' },
+                { text: '💜 Joy', link: '/encyclopedia/Neuro/NeuroTheoria/Emotion/Joy' },
+                { text: '💜 Sadness', link: '/encyclopedia/Neuro/NeuroTheoria/Emotion/Sadness' },
               ]
             },
             {
-              text: '💜 Energy', link: '/encyclopedia/Neuro/NeuroTheoriaEnergy/Overview', collapsed: true, items: [
+              text: '💜 Energy', link: '/encyclopedia/Neuro/NeuroTheoria/Energy/Overview', collapsed: true, items: [
               ]
             },
             {
               text: '💜 Estimation', collapsed: true, items: [
-                { text: '💜 AreaEstimation', link: '/encyclopedia/Neuro/NeuroTheoriaEstimation/AreaEstimation' },
-                { text: '💜 BagCoverEstimation', link: '/encyclopedia/Neuro/NeuroTheoriaEstimation/BagCoverEstimation' },
-                { text: '💜 DistanceEstimation', link: '/encyclopedia/Neuro/NeuroTheoriaEstimation/DistanceEstimation' },
-                { text: '💜 TimeEstimation', link: '/encyclopedia/Neuro/NeuroTheoriaEstimation/TimeEstimation' },
+                { text: '💜 AreaEstimation', link: '/encyclopedia/Neuro/NeuroTheoria/Estimation/AreaEstimation' },
+                { text: '💜 BagCoverEstimation', link: '/encyclopedia/Neuro/NeuroTheoria/Estimation/BagCoverEstimation' },
+                { text: '💜 DistanceEstimation', link: '/encyclopedia/Neuro/NeuroTheoria/Estimation/DistanceEstimation' },
+                { text: '💜 TimeEstimation', link: '/encyclopedia/Neuro/NeuroTheoria/Estimation/TimeEstimation' },
               ]
             },
             {
-              text: '💜 Event', link: '/encyclopedia/Neuro/NeuroTheoriaEvent/Overview', collapsed: true, items: [
+              text: '💜 Event', link: '/encyclopedia/Neuro/NeuroTheoria/Event/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '💜 Homeostasis', link: '/encyclopedia/Neuro/NeuroTheoriaHomeostasis/Overview', collapsed: true, items: [
+              text: '💜 Homeostasis', link: '/encyclopedia/Neuro/NeuroTheoria/Homeostasis/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '💜 Memory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/Overview', collapsed: true, items: [
-                { text: '💜 WorkingMemory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/WorkingMemory' },
-                { text: '💜 ShortTermMemory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/ShortTermMemory' },
-                { text: '💜 LongTermMemory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/LongTermMemory' },
-                { text: '💜 NumberMemory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/NumberMemory' },
-                { text: '💜 ViaMemory', link: '/encyclopedia/Neuro/NeuroTheoriaMemory/ViaMemory' },
+              text: '💜 Memory', link: '/encyclopedia/Neuro/NeuroTheoria/Memory/Overview', collapsed: true, items: [
+                { text: '💜 WorkingMemory', link: '/encyclopedia/Neuro/NeuroTheoria/Memory/WorkingMemory' },
+                { text: '💜 ShortTermMemory', link: '/encyclopedia/Neuro/NeuroTheoria/Memory/ShortTermMemory' },
+                { text: '💜 LongTermMemory', link: '/encyclopedia/Neuro/NeuroTheoria/Memory/LongTermMemory' },
+                { text: '💜 NumberMemory', link: '/encyclopedia/Neuro/NeuroTheoria/Memory/NumberMemory' },
+                { text: '💜 ViaMemory', link: '/encyclopedia/Neuro/NeuroTheoria/Memory/ViaMemory' },
               ]
             },
             {
-              text: '💜 Mindfulness', link: '/encyclopedia/Neuro/NeuroTheoriaMindfulness/Overview', collapsed: true, items: [
+              text: '💜 Mindfulness', link: '/encyclopedia/Neuro/NeuroTheoria/Mindfulness/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '💜 Muscle', link: '/encyclopedia/Neuro/NeuroTheoriaMuscle/Overview', collapsed: true, items: [
+              text: '💜 Muscle', link: '/encyclopedia/Neuro/NeuroTheoria/Muscle/Overview', collapsed: true, items: [
               ]
             },
-            { text: '💜 Proprioception', link: '/encyclopedia/Neuro/NeuroTheoriaProprioception/Overview' },
-            { text: '💜 Resilience', link: '/encyclopedia/Neuro/NeuroTheoriaResilience/Overview' },
+            { text: '💜 Probability', link: '/encyclopedia/Neuro/NeuroTheoria/Probability/Overview' },
+            { text: '💜 Proprioception', link: '/encyclopedia/Neuro/NeuroTheoria/Proprioception/Overview' },
+            { text: '💜 Resilience', link: '/encyclopedia/Neuro/NeuroTheoria/Resilience/Overview' },
             {
-              text: '💜 SpatialCognition', link: '/encyclopedia/Neuro/NeuroTheoriaSpatialCognition/Overview', collapsed: true, items: [
+              text: '💜 SpatialCognition', link: '/encyclopedia/Neuro/NeuroTheoria/SpatialCognition/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '💜 Time', link: '/encyclopedia/Neuro/NeuroTheoriaTime/Overview', collapsed: true, items: [
-                { text: '💜 BagUpTime', link: '/encyclopedia/Neuro/NeuroTheoriaTime/BagUpTime' },
-                { text: '💜 DailySchedule', link: '/encyclopedia/Neuro/NeuroTheoriaTime/DailySchedule' },
-                { text: '💜 MotoTiming', link: '/encyclopedia/Neuro/NeuroTheoriaTime/MotoTiming' },
-                { text: '💜 Planning', link: '/encyclopedia/Neuro/NeuroTheoriaTime/Planning' },
-                { text: '💜 Timer', link: '/encyclopedia/Neuro/NeuroTheoriaTime/Timer' },
+              text: '💜 Time', link: '/encyclopedia/Neuro/NeuroTheoria/Time/Overview', collapsed: true, items: [
+                { text: '💜 BagUpTime', link: '/encyclopedia/Neuro/NeuroTheoria/Time/BagUpTime' },
+                { text: '💜 DailySchedule', link: '/encyclopedia/Neuro/NeuroTheoria/Time/DailySchedule' },
+                { text: '💜 MotoTiming', link: '/encyclopedia/Neuro/NeuroTheoria/Time/MotoTiming' },
+                { text: '💜 Planning', link: '/encyclopedia/Neuro/NeuroTheoria/Time/Planning' },
+                { text: '💜 Timer', link: '/encyclopedia/Neuro/NeuroTheoria/Time/Timer' },
               ]
             },
-            { text: '💜 Thermoception', link: '/encyclopedia/Neuro/NeuroTheoriaThermoception' },
+            { text: '💜 Thermoception', link: '/encyclopedia/Neuro/NeuroTheoria/Thermoception' },
           ]
         },
 

@@ -1,4 +1,4 @@
-# 🔷🔷 Kratos
+# 🔷 KRATOS
 
 ## Kratos = (Geometry + Via)
 
