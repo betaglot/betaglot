@@ -56,6 +56,8 @@ Write an abstract to be posted along with phone screenshots of putplant.ca -->
 
 ### Non Dual Awareness
 
+Duality or apparent difference between
+
 You are the beta
 
 #### Flow State

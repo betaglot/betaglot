@@ -144,6 +144,14 @@ Directions
 
 ## DevNotes
 
+- Via is Time
+    - There is no matter in Via because it is abstract
+    - Newton is a kilogram meter per second, per second
+    - Time is Via. Time can be imaginary position is not
+    - Moto and Via join on meter
+    - Moto directly interacts with Eco with Force.
+    - There should be minimal grip acceleration
+    - TooLate
 - Request cache move
 - SquirrelCache -> PieceCache
 - Via layer

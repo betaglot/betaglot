@@ -1,14 +1,8 @@
 # 🔷<beta>BETASYSTEMA</beta>
 
-Split into Prakitikos(Practice) and Theoria(Theory)
+Combinatorial system
 
-Pratice is used to solve Problems
-
-- Do what needs to be done?
-
-Theoria is used to define the content of problems
-
-- Know what can be done
+Split into Praktik(Practice) and Theoria(Theory)
 
 BETAGLOTS are people who apply the BETASYSTEMA to multiple sports
 

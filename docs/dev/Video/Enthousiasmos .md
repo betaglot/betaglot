@@ -14,9 +14,37 @@ Stop motion circumvents sex. Beta Videos can easily become sexualized.
 
 Abstracted into StopMotion
 
+## Ultimate Purpose
+
+Animation of Beta is a powerful tool for learning Moto and Via.
+
+Center of Mass for ViaPath
+
+## SOMA is the Figure
+
+Soma means 'Body'
+
+Simplify goniogram joint label to dozen instead of 360
+
+- Child sized
+
+- Adult Sized
+
+- Tall Adult Sized
+
+Sections can be removed for Paralympic. The Teknik of Paralymics is almost totally unexplored. Except for the guy at Allez Up.
+
+## Framerate
+
+Frames per second
+
 ## BetaInstance = BetaFrame = VideoFrame = PythonDataFrame
 
-## BETAGLOT much have an imaginary headquarters
+Each photo is a captures a single BetaFrame
+
+One BetaFrame for each second. Duplicate if necessary
+
+## BETAGLOT must have an imaginary headquarters
 
 Genius Loci
 
@@ -34,23 +62,11 @@ Use actual and imagined ancient greek architecture
 
 - Parthenon
 
-## Anthromoton
-
-- Child sized
-
-- Adult Sized
-
-- Tall Adult Sized
-
-Sections can be removed for Paralympic. The Teknik of Paralymics is almost totally unexplored. Except for the guy at Allez Up.
-
-## Panmoton
-
-Chimp
-
-## Hylobate Moton
-
 ## Mimicry
+
+### Youtube
+
+<https://www.youtube.com/watch?v=17Nzv8V0tYQ&ab_channel=Aquamarine02>
 
 ### LAIKA
 
@@ -74,13 +90,8 @@ Laika films are the closest to
 
 - Wallace and Gromit
 
-### School of Life
-
-### LEGO
-
-- Lego Movie
-
-## Ultimate Purpose
+- Robin Robin
+    - <https://www.youtube.com/watch?v=jZvQzkFcKEM&ab_channel=WIRED>
 
 ## Recreate Famous Beta
 
@@ -103,9 +114,3 @@ MountMoto
 ### Lighting
 
 Light Color
-
-## Arkhetypon 
-
-Archetype
-
-Simplify goniogram joint label to dozen instead of 360

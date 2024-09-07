@@ -10,6 +10,10 @@ Uncanny
 
 ## CurseOfKNowledge
 
+## Interview yourself film with GoPro
+
+CurseOfKnowledge can apply to yourself. Do I really understand Betaglot as well as I did at each moment of insight? Memory degrades, humblingly, even when it's about the thing that you've spend your adult life working on
+
 ### Too many greek names
 
 The purpose of using greek is to make Betaglot polyglot. Remember that most people haven't studied etymology.
