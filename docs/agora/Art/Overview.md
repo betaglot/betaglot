@@ -1,4 +1,3 @@
-
 # Art
 
 Art which represents Beta

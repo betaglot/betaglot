@@ -118,9 +118,13 @@ Joker: Rock under cream
 
 ## Stickers
 
+## Jewelry
+
 ## Sculpture
 
 ### Wire Automaton
+
+Brass speedlines strip sculpture will at least double materials cost
 
 You are your while team but not concurrently instead sequentially
 

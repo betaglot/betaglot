@@ -150,3 +150,15 @@ Most Epic BC day, Most shitty Ontario day
 #### NovicePlanterPrize
 
 #### ExperiencedPlanterPrize
+
+## Advertising Ideas
+
+### Using a Spade in non planting context
+
+shows only where planting overlaps with contex. StartWith Easy.StartWithKnowns
+
+Planting spade gardening
+
+Remove weed is the same as remove tree
+
+Spade hiking

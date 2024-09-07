@@ -18,6 +18,75 @@ Use 'K' instead of 'C'
 
 - <https://en.wikipedia.org/wiki/Musical_system_of_ancient_Greece>
 
+- Hero
+- metaphor
+- auto: self
+- synchronization
+- parallelos
+- enigma
+- icon
+- optikos
+- kryptos: hidden
+- lithos
+- polos: axis of rotation
+- horizontal
+- phenomenon
+- plastic
+- rhythm
+- meme
+- talent
+- alphabeta letters
+- pause
+- myth
+- rhetoric
+- sophia
+- academy
+- meander
+- labyrinth
+- drastic
+- drama
+- protocol
+- topos
+- prism
+- spiral
+- tactics
+- catapult
+- dilemma
+- archos: leader in synergy
+- hierarchy
+- authentic
+- ontobeta be the beta
+- axiom
+- mēkhane: tool machine
+- eureka
+- heuristic
+- botany
+- polymer
+- prototype
+- archive
+- ballistic
+- panorama
+- paradox
+- oxymoron
+- onomatopoeia
+- nomad
+- kritikos: judge critic
+- skeleton
+- muscle
+- sympathy
+- empathy
+- physika
+- pseudo
+- amnesia
+- emphasis
+- anomalos
+- stereo
+- mentor
+- mnemonikos
+- dendron
+- analysis
+- synthesis of multiple betas
+- skeptic
 - hylos
     - wood, forest,
     - Hylobates: Gibbon

@@ -32,7 +32,7 @@ export default defineConfig({
       '/tutorial/': sidebarTutorial(),
       '/encyclopedia/': sidebarEncyclopedia(),
       '/dev/': sidebarDevelopment(),
-      '/app/': sidebarApp()
+      '/agora/': sidebarAgora(),
     },
     nav: nav(),
   },
@@ -52,7 +52,7 @@ function nav() {
     },
     {
       text: 'Learn',
-      link: '/tutorial/TutorialOverview',
+      link: '/tutorial/Overview',
       activeMatch: '/tutorial/'
     },
     {
@@ -61,9 +61,9 @@ function nav() {
       activeMatch: '/encyclopedia/'
     },
     {
-      text: '🔷',
-      link: '/app/Overview',
-      activeMatch: '/app/'
+      text: '👥 AGORA',
+      link: '/agora/Overview',
+      activeMatch: '/agora/'
     },
     {
       text: '🛠',
@@ -73,6 +73,19 @@ function nav() {
   ]
 }
 
+
+function sidebarAgora() {
+  return [
+    { text: 'Art', link: '/agora/Art/Overview'},
+    { text: 'Contribute', link: '/agora/Contribute'},
+    { text: 'Events', link: '/agora/Events'},
+    { text: 'Mentor', link: '/agora/Mentor'},
+    { text: 'Merch', link: '/agora/Merch'},
+    { text: 'Podcast', link: '/agora/Podcast'},
+    { text: 'Trivia', link: '/agora/Trivia'},
+    { text: 'WakingUp', link: '/agora/WakingUp'},
+  ]
+}
 
 function sidebarGuide() {
   return [
@@ -89,10 +102,10 @@ function sidebarGuide() {
         },
         {
           text: 'Sport', link: '/guide/Origin/Sport/Overview', collapsed: false, items: [
-            { text: 'Climbing', link: '/guide/Origin/Climbing' },
-            { text: 'CodeOfPoints', link: '/guide/Origin/CodeOfPoints' },
-            { text: 'Olympics', link: '/guide/Origin/Olympics' },
-            { text: 'TreePlanting', link: '/guide/Origin/TreePlanting' },
+            { text: 'Climbing', link: '/guide/Origin/Sport/Climbing' },
+            { text: 'CodeOfPoints', link: '/guide/Origin/Sport/CodeOfPoints' },
+            { text: 'Olympics', link: '/guide/Origin/Sport/Olympics' },
+            { text: 'TreePlanting', link: '/guide/Origin/Sport/TreePlanting' },
           ]
         },
         {
@@ -114,47 +127,55 @@ function sidebarGuide() {
 function sidebarDevelopment() {
   return [
     { text: '<dev>Dev Overview</dev>', link: '/dev/DevOverview' },
-    { text: '<dev>🔷 Betaglot</dev>', link: '/dev/Betaglot' },
-    { text: '<dev>Contact</dev>', link: '/dev/Contact' },
-    { text: '<dev>Academia</dev>', link: '/dev/Academia' },
-    { text: '<dev>Art</dev>', link: '/dev/art/Overview' },
-    { text: '<dev>👩‍💻 BetaPython</dev>', link: '/dev/BetaPython' },
-    { text: '<dev>Contribute</dev>', link: '/dev/Contribute' },
-    { text: '<dev>Downloads</dev>', link: '/dev/Downloads' },
     { text: '<dev>DX</dev>', link: '/dev/DX' },
-    { text: '<dev>ElementGraph</dev>', link: '/dev/ElementsGraph' },
-    { text: '<dev>Cinematography</dev>', link: '/dev/Cinematography' },
-    { text: '<dev>FireBeta</dev>', link: '/FireBeta/FireBeta' },
-    { text: '<dev>GoPro</dev>', link: '/dev/GoPro' },
     {
-      text: '<dev>Graphics</dev>', collapsed: true, items: [
-        { text: '<dev>Overview</dev>', link: '/dev/Graphics/Overview' },
-        { text: '<beta>Beta Graphics</beta>', link: '/dev/Graphics/BetaGraphic' },
-        { text: '<eko>EcoGraphics</eko>', link: '/dev/Graphics/EcoGraphic' },
-        { text: '<moto>Moto Graphics</moto>', link: '/dev/Graphics/MotoGraphic' },
-        { text: 'Neuro Graphics', link: '/dev/Graphics/NeuroGraphic' },
-        { text: 'Via Graphics', link: '/dev/Graphics/ViaGraphic' },
-        { text: 'UX Graphics', link: '/dev/Graphics/UXGraphic' },
-        { text: '<dev>DX Graphics</dev>', link: '/dev/Graphics/DXGraphic' },
+      text: '<dev>Graphic</dev>', link: '/dev/Graphic/Overview', collapsed: true, items: [
+        { text: '<dev>Cards</dev>', link: '/dev/Graphic/Cards/Overview' },
+        { text: '<beta>Beta Graphics</beta>', link: '/dev/Graphic/BetaGraphic' },
+        { text: '<eko>EcoGraphics</eko>', link: '/dev/Graphic/EcoGraphic' },
+        { text: '<moto>Moto Graphics</moto>', link: '/dev/Graphic/MotoGraphic' },
+        { text: '<via>Via Graphics</via>', link: '/dev/Graphic/ViaGraphic' },
+        { text: '<neuro>Neuro Graphics</neuro>', link: '/dev/Graphic/NeuroGraphic' },
+        { text: 'UX Graphics', link: '/dev/Graphic/UXGraphic' },
+        { text: '<dev>DX Graphics</dev>', link: '/dev/Graphic/DXGraphic' },
       ]
     },
     { text: '<dev>Mindmap</dev>', link: '/dev/Mindmap' },
-    { text: '<dev>Offline</dev>', link: '/dev/Offline' },
-    { text: '<dev>Open Source</dev>', link: '/dev/OpenSource' },
-    { text: '<dev>Podcast</dev>', link: '/dev/Podcast' },
-    { text: '<dev>Pylanter</dev>', link: '/dev/Pylanter' },
-    { text: '<dev>Research Questions</dev>', link: '/dev/ResearchQuestions' },
+    { text: '<dev>Pitfalls</dev>', link: '/dev/Pitfalls' },
+    {
+      text: '<dev>Python</dev>', link: '/dev/Python/Overview', collapsed: true, items: [
+        { text: '<dev>Game</dev>', link: '/dev/Python/Game/Overview' },
+        { text: '<dev>AI</dev>', link: '/dev/Python/AI' },
+        { text: '<dev>OpenSource</dev>', link: '/dev/Python/OpenSource' },
+        { text: '<dev>Tagging</dev>', link: '/dev/Python/Tagging' },
+      ]
+    },
+    {
+      text: '<dev>Research</dev>', link: '/dev/Research/Overview', collapsed: true, items: [
+        { text: '<dev>Affordance</dev>', link: '/dev/Research/Affordance' },
+        { text: '<dev>Interdisciplinary</dev>', link: '/dev/Research/Interdisciplinary' },
+        { text: '<dev>Questions</dev>', link: '/dev/Research/Questions' },
+      ]
+    },
     { text: '<dev>Roadmap</dev>', link: '/dev/Roadmap' },
-    { text: '<dev>Sequence</dev>', link: '/dev/Sequence' },
-    { text: '<dev>SocialMedia</dev>', link: '/dev/SocialMedia' },
-    { text: '<dev>Storytelling</dev>', link: '/dev/Storytelling' },
-    { text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide' },
-    { text: '<dev>Tagging</dev>', link: '/dev/Tagging' },
+    { text: '<dev>Story</dev>', link: '/dev/Story' },
+    {
+      text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide/Overview', collapsed: true, items: [
+        { text: '<dev>Etymology</dev>', link: '/dev/StyleGuide/Etymology' },
+        { text: '<dev>ClassicStyle</dev>', link: '/dev/StyleGuide/ClassicStyle' },
+
+      ]
+    },
     { text: '<dev>TaskList</dev>', link: '/dev/TaskList' },
-    { text: '<dev>ToDo</dev>', link: '/dev/ToDo' },
-    { text: '<dev>Tools</dev>', link: '/dev/Tools' },
+    {
+      text: '<dev>Video</dev>', link: '/dev/Video/Overview', collapsed: true, items: [
+        { text: '<dev>Cinematography</dev>', link: '/dev/Video/Cinematography' },
+        { text: '<dev>Enthousiasmos</dev>', link: '/dev/Video/Enthousiasmos' },
+        { text: '<dev>GoPro</dev>', link: '/dev/Video/GoPro' },
+
+      ]
+    },
     { text: '<dev>UX</dev>', link: '/dev/UX' },
-    { text: '<dev>AfternoonTask</dev>', link: '/dev/AfternoonTask' },
   ]
 }
 
@@ -474,7 +495,7 @@ function sidebarEncyclopedia() {
 
 function sidebarTutorial() {
   return [
-    { text: 'Tutorial Overview', link: '/tutorial/TutorialOverview' },
+    { text: 'Tutorial Overview', link: '/tutorial/Overview' },
     { text: 'Lesson Plans', link: '/tutorial/LessonPlans' },
     { text: 'Video Tutorials Overview', link: '/tutorial/VideoTutorialsOverview' },
     { text: 'Labelling', link: '/tutorial/Test_LabelDiagram' },
@@ -492,18 +513,3 @@ function sidebarExamples() {
   ]
 }
 
-function sidebarApp() {
-  return [
-    {
-      text: 'App', link: '/app/Overview', collapsed: false, items: [
-        { text: 'BetaCard', link: '/app/BetaCard' },
-        { text: 'BetaDataAnalysis', link: '/app/BetaDataAnalysis' },
-        { text: 'BetaEditor', link: '/app/BetaEditor' },
-        { text: 'BetaGraph', link: '/app/BetaGraph' },
-        { text: 'BetaParser', link: '/app/BetaParser' },
-        { text: 'BetaStringer', link: '/app/BetaStringer' },
-        { text: 'BetaTranscriber', link: '/app/BetaTranscriber' },
-      ]
-    },
-  ]
-}

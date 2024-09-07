@@ -18,6 +18,15 @@
 
 Model of Habitat 64
 
+
+## Bauhaus
+
+Kandinsky
+
+Form Implies Function
+
+Simple Geometric Shapes
+
 ## Choreography
 
 ## Music Composition

@@ -1,4 +1,6 @@
-# BETAANALOGY
+# BETANALOGY
+
+![BetaSports_Tree](/Beta/BetaSports_Tree.png)
 
 ## How much of their SKHEMA is overlapping? SYNSKHEMA shared schema
 
@@ -21,13 +23,13 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |            <moto>ClimbingShoe</moto> | <moto>PlantingBoot</moto>         |
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
-|         <moto>RockOver Moto</moto> = | = <moto>RockOver Moto</moto>     |
+|         <moto>RockOver Moto</moto> = | = <moto>RockOver Moto</moto>      |
 |              <via>ViaFinding</via> = | = <via>ViaFinding</via>           |
 |                <via>One Pitch</via>  | <via>One CoverLoop </via>         |
 |                  <moto>Fall</moto> = | = <moto>Fall</moto>               |
 | <via>Anchor, Belay Station</via>     | <via>Cache</via>                  |
-|              <via>Approach</via>     | <via>Walk In</via>               |
-|                     <eko>Crag</eko>  | <eko>Block</eko>                 |
+|              <via>Approach</via>     | <via>Walk In</via>                |
+|                     <eko>Crag</eko>  | <eko>Block</eko>                  |
 
 ## How is it useful to relate Climbing to Planting?
 
@@ -36,4 +38,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 - Many Planters are also Climbers and share many attributes.
     - Resilience, Ruggedness, Physically Fit
 - You will get better at one by learning the other.
-:::
+
+## BetaExchange
+
+Exchange Beta with atheletes or coaches of other BetaSports

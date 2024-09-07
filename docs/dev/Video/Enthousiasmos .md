@@ -103,3 +103,9 @@ MountMoto
 ### Lighting
 
 Light Color
+
+## Arkhetypon 
+
+Archetype
+
+Simplify goniogram joint label to dozen instead of 360
