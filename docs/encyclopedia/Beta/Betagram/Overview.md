@@ -1,10 +1,11 @@
-# 🔷<beta>BETAGRAPHY</beta>
+# 🔷<beta>BETAGRAM</beta>
 
 ::: details Etymology(Betagraphy)
 Inspired by "Choreography" and "Cartography"
 
-Beta + (graphein = Greek("draw"))
+Beta + gram = (graphein = Greek("draw"))
 
+"Betagram" instead of "Betagraph" to reduce confusion with graph theory
 :::
 
 AlsoKnownAs(BetaComposition)
@@ -40,6 +41,8 @@ Startband finish tags
 Loops
 
 ### BetaBlock
+
+Outlining, Chunking, Blocking
 
 When a name is used in a code block, it is resolved using the nearest enclosing scope. The set of all such scopes visible to a code block is called the block’s environment.
 

@@ -1,5 +1,7 @@
 # Etymology
 
+[EtymologyNerd](https://www.etymologynerd.com/infographics.html)
+
 Try to keep all Neologism Greek instead of Latin, since Greek is more Polyglot than Latin because lots of Latin came from greek
 
 ::: danger
@@ -18,6 +20,7 @@ Use 'K' instead of 'C'
 
 - <https://en.wikipedia.org/wiki/Musical_system_of_ancient_Greece>
 
+- -oid
 - Hero
 - metaphor
 - auto: self

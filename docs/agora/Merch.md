@@ -112,6 +112,18 @@ Joker: Rock under cream
 - Moto, Via, Eco, Neuro, Beta
 - Betaglot Logo
 
+Replicate a poster as a WebPage to make it more interactive by adding video
+
+### BetaSkhema Poster
+
+Highlight of attention on each element of BetaSkhema. Metadata. Concepts are not experienced, only conceptualizing is experienced. BetaElements are concepts. BetaImage within the center of a BetaInstance is closer to reality than lists, icon or words.
+
+PostIt over the details like a kids book. Make a poster that can be interacted with. Like an advent calendar which reveals the details of an element
+
+A poster is merely the frame for a dozen fold outs.
+
+Sell handmade paper crafts instead of printable posters. It's a lot more difficult to replicate a paper craft than a poster.
+
 ## Video
 
 ## Tools
@@ -120,7 +132,13 @@ Joker: Rock under cream
 
 ## Jewelry
 
+## Flipbook
+
+Paper GIF
+
 ## Sculpture
+
+### Calder with posing Athletes instead of leaves
 
 ### Wire Automaton
 

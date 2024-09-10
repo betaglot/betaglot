@@ -1,4 +1,8 @@
-# <dev>Python</dev>
+# <dev>BetaPython</dev>
+
+## BetaPython is a Python Package
+
+BetaPython.py should be implemented in Rust...eventually
 
 The color of Python is the same as 🛠<dev>Dev</dev>
 

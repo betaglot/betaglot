@@ -13,3 +13,11 @@
 Betaglot is also related to "polyglot", which means that you can speak more than one language. A betaglot can speak the language of both tree planting and of climbing. Beta can be applied to any solo sport, that is, any sport where you're not directly competing against anyone, such as gymnastics, archery, whitewater kayaking, break dancing and more.
 
 The greatest power of being a Betaglot is that you systematically translate your atheletic ability into money.
+
+## The users of Betaglot are Athletes
+
+Firefighters, planters, climbers, Olympians are all at least partially Athletes. Betaglot is for atheletes.
+
+## Why?
+
+A system to gain a deeper understanding of the sport

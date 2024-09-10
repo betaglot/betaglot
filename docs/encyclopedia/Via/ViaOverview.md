@@ -123,18 +123,45 @@ PieceCover > AreaCover > ViaCurve > ViaPoint
 
 Directions
 
+### Relative to Anchor
+
+#### Anchor = Actor
+
+Stage Right, Stage Left
+
+#### Anchor = Audience
+
+House Right, House Right
+
+Upstage, DownStage(closest to Audience)
+
+#### Anchor = Flow of Water
+
+River Right, River Left
+
+#### Anchor = Cache
+
+Front of Piece, Back of Piece
+
+#### Anchor = Gravity
+
+Up, Down
+
+### Stage Directions
+
 ### Preposition
 
 ```py
 [
     'Above', 'Across', 'Along', 'At',
     'Behind', 'Below', 'Beside', 'Between',
+    'Downstream'
     'From',
     'In', 'Into',
     'Near',
     'On', 'Onto', 'Over',
     'Through', 'To',
-    'Until', 'Up',
+    'Until', 'Up', 'Upstream'
     'While',
 ]
 

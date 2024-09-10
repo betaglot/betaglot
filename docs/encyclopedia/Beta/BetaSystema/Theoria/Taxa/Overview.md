@@ -29,3 +29,7 @@ Can be called BetaTaxon, or just Taxon
 ```
 
 a scientifically classified group or entity : a taxonomic unit (such as a genus or order) of any rank
+
+## Class Diagrams
+
+<https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/>

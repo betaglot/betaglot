@@ -1,6 +1,8 @@
 
 # 💜 <neuro>Awareness</neuro>
 
+Awareness is not busy
+
 ## Differences between Awareness and Attention
 
 ## Equanimity from Selflessness

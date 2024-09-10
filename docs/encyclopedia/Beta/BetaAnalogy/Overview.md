@@ -4,6 +4,10 @@
 
 ## How much of their SKHEMA is overlapping? SYNSKHEMA shared schema
 
+## Systematic analogy
+
+Up or down or across the system
+
 ## Analogy between Climbing and Planting
 
 This each line are analog pairs. The equal signs = denotes where Climbing and Planting are exactly the same.
@@ -42,3 +46,5 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 ## BetaExchange
 
 Exchange Beta with atheletes or coaches of other BetaSports
+
+## what the Tai Chi of climbing?

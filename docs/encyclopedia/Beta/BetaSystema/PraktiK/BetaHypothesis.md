@@ -1,4 +1,4 @@
-# 🔷 BetaIdea
+# 🔷 BetaHypothesis
 
 - Ideate
 - Guess

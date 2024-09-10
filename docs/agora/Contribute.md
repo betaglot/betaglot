@@ -10,6 +10,10 @@ Philanthropy
 
 ## How you can contribute
 
+### "Who am I" Quiz
+
+"Who am I" quiz to identify tasks that you're well suited to contribute to
+
 ::: tip Sponsor
 If you just want to sponsor BETAGLOT
 :::
