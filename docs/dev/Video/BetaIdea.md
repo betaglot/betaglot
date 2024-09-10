@@ -56,15 +56,15 @@ Use actual and imagined ancient greek architecture
 
 Half Scale
 
-- 🟠<moto>AdultSomaHeight</moto>: 0.8 m
-- 🟩<eco>WallHeight</eco>: 2.4 m (should be easy to find in Montreal)
+- 🟠<moto>AdultAthleteHeight</moto>: 0.8 m
+- 🟩<eko>WallHeight</eko>: 2.4 m (should be easy to find in Montreal)
 -
 
 Colors are the same as BETAGLOT theme.
 
 ### 🔷<beta>BETA</beta>
 
-### 🟩<eco>EKO</eco>
+### 🟩<eko>EKO</eko>
 
 For tall routes use two walls which leapfrog
 
@@ -72,7 +72,7 @@ Tnuts?
 
 #### Holds made of Clay
 
-Holds should be cast so they are rigid to support Soma and so they can be reused
+Holds should be cast so they are rigid to support Athlete and so they can be reused
 
 Not plasticine
 
@@ -92,9 +92,7 @@ To see through Ekons
 
 ### 🟠<moto>MOTO</moto>
 
-#### SOMA is the Figure
-
-Soma means 'Body'
+#### ATHLETE is the Figure
 
 Simplify goniogram joint label to dozen instead of 360
 
@@ -108,7 +106,7 @@ Sections can be removed for Paralympic. The Teknik of Paralymics is almost total
 
 ##### Wooden
 
-Soma is bolt tnut and matthais wandel wooden jigs
+Athlete is bolt tnut and matthais wandel wooden jigs
 
 #### ScapulaMoto is required
 
@@ -150,7 +148,7 @@ Thought Bubble
 
 ### LAIKA
 
-Laika films characters are the closest to Soma
+Laika films characters are the closest to Athlete
 
 <https://www.laika.com/our-films/kubo>
 

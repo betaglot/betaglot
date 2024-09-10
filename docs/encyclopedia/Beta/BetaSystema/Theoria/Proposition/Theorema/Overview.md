@@ -1,4 +1,8 @@
-# Theorem
+# THEOREMA
+
+<!-- This page explains what a theorem is. The actual list of theorems are within each BetaType Section in the Encyclopedia -->
+
+> demonstrable proposition in science or mathematics
 
 ## Proof
 
@@ -16,6 +20,6 @@ Use other resources to explain Kinematics. Explaining physics is beyond the curr
 
 ### 🔻<via></via>
 
-### 🟩<eco></eco>
+### 🟩<eko></eko>
 
 ### 💜<neuro></neuro>

@@ -1,4 +1,6 @@
-# Problema
+# PROBLEMA
+
+<!-- This page explains what a problem is. The actual list of problems are within each BetaType Section in the Encyclopedia -->
 
 > a task, that which is proposed, a question
 
@@ -10,6 +12,6 @@ Like the ones in Euclid's Elements
 
 ### 🟠<moto></moto> How to get your feet back on the wall?
 
-### 🟩<eco></eco> How to
+### 🟩<eko></eko> How to
 
 ### 🔻<via></via> How to estimate the distance between ViaSurfaces
