@@ -298,7 +298,9 @@ function sidebarEncyclopedia() {
     //#Moto
     {
       text: '🟠 <Moto>MOTO</Moto>', link: '/encyclopedia/Moto/MotoOverview', collapsed: true, items: [
-        { text: '🟠 MotoExamples', link: '/encyclopedia/Moto/MotoExamples' },
+        { text: '🟠 MotoExample', link: '/encyclopedia/Moto/MotoExample/Overview', collapsed: true, items: [
+          {text: 'Profile Example', link: '/encyclopedia/Moto/MotoExample/Example_Moto_Profile'}
+        ] },
         { text: '🟠 MotoDiagram', link: '/encyclopedia/Moto/MotoDiagram' },
         {
           text: '🟠 BetaPython', link: '/encyclopedia/Moto/PlantMoto/Overview', collapsed: true, items: [

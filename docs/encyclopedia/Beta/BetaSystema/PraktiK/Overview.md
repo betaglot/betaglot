@@ -7,3 +7,10 @@ Actually doing something, instead of merely thinking of doing that thing
 Solve Problems
 
 Session
+
+## Sequence Methods
+
+SliceBeta
+
+JoinBeta
+

@@ -2,6 +2,8 @@
 
 AlsoKnownAs(BetaComposition)
 
+Plan can record Future or Past Beta
+
 ## BETAPLAN = (BETAGRAM + BetaCode)
 
 "What's your Beta?" refers to spoken **or** drawn **or** written Beta.

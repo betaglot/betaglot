@@ -6,13 +6,15 @@
 
 Labanotation
 
-BeneshCode
+BeneshNotation
 
-MusicalCode
+MusicalNotation
 
 PlayDiagrams
 
 Climbing Topo
+
+Python Code
 
 ## BetaCode uses Python Syntax combined with Scratch and XML
 

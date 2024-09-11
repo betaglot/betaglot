@@ -8,6 +8,8 @@ Do Not SprayBeta.
 
 ## Definition of SprayBeta
 
+- Spoiling the puzzle of Beta.
+
 - Unsolicited GiveBeta.
 
 - GiveBeta without AskBeta.

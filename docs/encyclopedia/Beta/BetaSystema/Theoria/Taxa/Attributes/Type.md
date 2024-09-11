@@ -1,3 +1,3 @@
 # BETATYPES
 
-What is the difference between Skhema and Types?
+> the BetaType that this Taxon belongs to
