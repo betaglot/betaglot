@@ -2,8 +2,6 @@
 
 <!-- This page explains what a theorem is. The actual list of theorems are within each BetaType Section in the Encyclopedia -->
 
-> demonstrable proposition in science or mathematics
-
 ## Proof
 
 A theorem is the mathematical statement and the proof is the method by which you can verify the truth of the theorem.

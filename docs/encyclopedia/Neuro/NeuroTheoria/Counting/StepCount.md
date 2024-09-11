@@ -30,7 +30,7 @@ Answer 3
 
 -
 
-## BetaGraph
+## Betagram
 
 Graph which represents how this element is related to other elements in Put(Plant).
 🛠 The Element Relationships Chart is still [under development](/dev/ElementsGraph)

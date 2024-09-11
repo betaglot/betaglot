@@ -1,11 +1,21 @@
 # POSTULATES
 
-## 1:
+## Postulate 1
 
-## 2: 
+To draw a straight line from any point to any point.
 
-## 3:
+## Postulate 2
 
-## 4:
+To produce a finite straight line continuously in a straight line.
 
-## 5:
+## Postulate 3
+
+To describe a circle with any center and radius.
+
+## Postulate 4
+
+That all right angles equal one another.
+
+## Postulate 5
+
+That, if a straight line falling on two straight lines makes the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, meet on that side on which are the angles less than the two right angles.

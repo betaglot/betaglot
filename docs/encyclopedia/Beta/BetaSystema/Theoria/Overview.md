@@ -2,12 +2,21 @@
 
 Based on Euclids Elements:
 
+- Axioma
+
 - Definitions 🐍<py>ClassDefinitions</py>
     - Taxa 🐍<py>Class</py>
     - BetaType
-- Propositions
+- Axioma
+- Statements
+    - Postulates
     - Problema
     - Theoria
+    - Hypothesis
+
+Definitions have no proofs.
+
+All Propositions must be proved
 
 ## Differentiate(Via, Moto)
 

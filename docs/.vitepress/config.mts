@@ -131,7 +131,7 @@ function sidebarDevelopment() {
     {
       text: '<dev>Graphic</dev>', link: '/dev/Graphic/Overview', collapsed: true, items: [
         { text: '<dev>Cards</dev>', link: '/dev/Graphic/Cards/Overview' },
-        { text: '<beta>Beta Graphics</beta>', link: '/dev/Graphic/BetaGraphic' },
+        { text: '<beta>Beta Graphics</beta>', link: '/dev/Graphic/Betagramic' },
         { text: '<eko>EcoGraphics</eko>', link: '/dev/Graphic/EcoGraphic' },
         { text: '<moto>Moto Graphics</moto>', link: '/dev/Graphic/MotoGraphic' },
         { text: '<via>Via Graphics</via>', link: '/dev/Graphic/ViaGraphic' },

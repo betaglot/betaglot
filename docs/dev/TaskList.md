@@ -92,7 +92,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 - Profile Picture
     - Edit video into GIFs for each BetaTaxon's profile picture
 
-#### BetaGraph
+#### Betagram
 
 - Add Data
 

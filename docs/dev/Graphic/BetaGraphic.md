@@ -5,7 +5,7 @@
 
 <https://tactical-board.com/uk/rugby>
 
-## BetaDiagram is a subset of BetaGraphic
+## BetaDiagram is a subset of Betagramic
 
 How is Risk visualized?
 Percentage?
@@ -68,7 +68,7 @@ No images of humans at a computer. It doesn't even need to be technical, just an
 ## DevNotes
 
 - ScaleBar
-- Have a BetaGraphic of your piece with recommended ViaCurve ViaPath.
+- Have a Betagramic of your piece with recommended ViaCurve ViaPath.
 - Arrow of Attention is Violet
 - AttentionLoop
     - Eco, then Neuro, then Moto, then Via, then back to Eco.

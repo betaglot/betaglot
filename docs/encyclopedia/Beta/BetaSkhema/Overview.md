@@ -1,6 +1,8 @@
 # 🔷<beta>BETASKHEMA: EVERYTHING IS CONNECTED</beta>
 
-BetaSkhema is a graphic representation of Taxa relationships, the relationships themselves are defined in BetaPython
+BetaSkhema is not abstract, BetaSkhema is a graphic representation of Taxa relationships. The relationships themselves are defined as an Attribute of each Taxon.
+
+BetaSkhema is not necessary for the existence of BetaSystema.
 
 BetaSkhema can be used to represent new relationships between Taxa, the new relationships are only added to BetaSystem by updating BetaPython
 
