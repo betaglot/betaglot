@@ -1,4 +1,4 @@
-# 🔷 BetaPraktik
+# 🔷 BETAPRAKTIK
 
 > action rather than thought or ideas
 
@@ -13,4 +13,3 @@ Session
 SliceBeta
 
 JoinBeta
-

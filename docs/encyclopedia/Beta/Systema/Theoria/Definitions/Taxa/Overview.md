@@ -8,7 +8,7 @@ The Science of Classification
 
 "A Taxon of Beta"
 
-::: Etymology
+::: info Etymology
 
 taxis + -nomia
 

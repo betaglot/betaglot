@@ -1,12 +1,15 @@
-# SKHOLE
+# Learn how to be a BETAGLOT
 
-School
+::: tip You will learn
 
-<https://www.merriam-webster.com/wordplay/get-schooled-on-the-origins-of-school-twice>
+- How to 
+- How to write Beta
+- How to 
+- How to
+- How to 
+- How to
 
-## Skholar
-
-## Skholarship
+:::
 
 ## Test New Knowledge ASAP
 

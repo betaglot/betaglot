@@ -1,5 +1,5 @@
 
-# 🛠 UX: User Experience of Put(Plant)
+# 🛠 UX: User Experience of BETAGLOT
 
 ## Hardware
 

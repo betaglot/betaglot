@@ -190,8 +190,13 @@ Use 'K' instead of 'C'
 - Choreography
 - BETAGON  
     - Agon = Contest, Gathering, Conflict, Trial
-- Betatect
+- Betatekt
     - Beta + (tekton = weave, build, fabricate)
 - Kriterion
     - Criterion
     - BETAMETRON
+
+
+## Beta- Prefix
+
+Names that are Greek, **which are not used in English** like Systema, Skhema don't need a Beta prefix

@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "BETAGLOT"
-  text: "EVERYTHING\nIS\nCONNECTED"
+  text: "Be BETA, Be Kind"
   image: /Betaglot_Logo.png
   tagline: ""
   actions:

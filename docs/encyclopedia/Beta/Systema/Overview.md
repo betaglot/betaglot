@@ -1,5 +1,9 @@
 # 🔷<beta>BETASYSTEMA</beta>
 
+## Based on Euclid's Elements
+
+> "You never can make a lawyer if you do not understand what demonstrate means; and I left my situation in Springfield, went home to my father's house, and stayed there till I could give any proposition in the six books of Euclid at sight" - Abraham Lincoln
+
 Combinatorial system
 
 DeclarativeLanguage
