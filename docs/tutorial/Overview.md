@@ -2,11 +2,11 @@
 
 ::: tip You will learn
 
-- How to 
-- How to write Beta
-- How to 
 - How to
-- How to 
+- How to write Beta
+- How to
+- How to
+- How to
 - How to
 
 :::

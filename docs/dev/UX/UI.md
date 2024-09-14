@@ -2,10 +2,10 @@
 
 ## Mimicry and Amimicry
 
-https://react.dev/
+<https://react.dev/>
 
-https://vuejs.org/
+<https://vuejs.org/>
 
-https://www.python.org/
+<https://www.python.org/>
 
-https://www.typescriptlang.org/
+<https://www.typescriptlang.org/>
