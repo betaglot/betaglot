@@ -1,5 +1,9 @@
 # 🔷<beta>PLAN</beta>
 
+Plan is a Graphical Representation of BetaComposition
+
+Improvisation is a composition
+
 AlsoKnownAs(BetaComposition)
 
 Plan can record Future or Past Beta

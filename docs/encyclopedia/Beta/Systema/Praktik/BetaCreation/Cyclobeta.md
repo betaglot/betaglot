@@ -1,4 +1,4 @@
-# 🔷 BetaCyclo
+# 🔷 Cyclobeta
 
 This should be a Chart
 

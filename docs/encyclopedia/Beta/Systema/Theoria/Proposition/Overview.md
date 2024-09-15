@@ -157,3 +157,12 @@ Knowledge of Geometry is assumed.
     - Physik.Mechanics
 
 - Book5 is Beta requires BetaTypes(Neuro, Eko, Via, Moto)
+
+## Pose
+
+- Propose
+- Proposal
+- Proposition
+- Propositional
+
+### Synonym(Propose)
