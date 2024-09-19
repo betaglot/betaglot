@@ -46,7 +46,7 @@ Road, Path, Route, through, using, composed of
 
 :::
 
-## <via>What are Via Factors?</via>
+## <via>What are Via Types?</via>
 
 ```py
 🔻
@@ -200,7 +200,7 @@ Up, Down
 
 - Via is Superimposed onto Eco.
 - `IsPlanted(Eco{})`
-    - Look to see if an EcoFactor is planted
+    - Look to see if an EkoType is planted
 
 ## Update your Via
 
@@ -219,7 +219,7 @@ Up, Down
 Eco is decomposed by composing a Via
 
 - Compose ViaCurves, ViaSpaces and ViaPoints together to Cover Land
-- Fit the ViaFactors together
+- Fit the ViaTypes together
 - ViaCurves within ViaSpaces
     - Walking through a Space between Trees.
     - EcoSpace is everywhere, ViaSpace are only the Spaces which are not obstructed.

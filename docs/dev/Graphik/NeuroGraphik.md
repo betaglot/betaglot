@@ -1,4 +1,4 @@
-# 🛠 Neuro Graphics
+# 🛠 Neuro Graphiks
 
 ::: details 🛠 <dev>&&&</dev>
 
@@ -16,6 +16,5 @@
 
 - "Dev.NeuroDiagram.NeuroTimeline"
 - "Neuro.NeuroCard"
-
 
 :::

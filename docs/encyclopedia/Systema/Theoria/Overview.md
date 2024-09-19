@@ -1,4 +1,4 @@
-# THEORIA
+# 🔷<beta>THEORIA</beta>
 
 Based on Euclids Elements:
 

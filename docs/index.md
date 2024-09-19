@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "BETAGLOT"
-  text: "Be BETA, Be Kind"
+  text: "Be the Beta"
   image: /Betaglot_Logo.png
   tagline: ""
   actions:

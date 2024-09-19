@@ -28,7 +28,7 @@ Synergy Via
 
 SynergyVia instead of team cover
 
-Via is the only beta factor shared by team
+Via is the only BetaType shared by team
 
 ### Synergy.Error.Neuro 💜<neuro></neuro>
 

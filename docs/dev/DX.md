@@ -184,13 +184,13 @@ Plantbeta a beta script. Put(Plant) creates the Attributes of HandMove, like how
 
 - To put it simply, coding lets you create a program, while scripting lets you control a program that was created with coding
 
-EcoFactor
+EkoType
 
-ViaFactor
+ViaType
 
-MotoFactor
+MotoType
 
-NeuroFactor
+NeuroType
 
 All Elements are objects
 

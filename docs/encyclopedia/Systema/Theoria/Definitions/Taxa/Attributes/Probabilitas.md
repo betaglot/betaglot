@@ -18,6 +18,10 @@ FamiliarityBias
 - Risk decreases when Climber is familiar with the Holds in a Route, especially when HiddenRouteSurface.
 - Risk decreases after a Climber repeatedly successfully performs a Movement.
 
+## Accuracy
+
+### Precision
+
 ## Bayes Theorem
 
 ### Commitment
@@ -43,7 +47,7 @@ Quote
 
 > “Absolute commitment”
 
-### Environment
+### EKO
 
 Wind
 

@@ -42,17 +42,17 @@ Graph which represents how this element is related to other elements in Put(Plan
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<neuro>NeuroTypes</neuro>
 
-## Related 🟠<moto>MotoFactors</moto>
-
--
-
-## Related 🟩<eko>EcoFactors</eko>
+## Related 🟠<moto>MotoTypes</moto>
 
 -
 
-## Related 🔻<via>ViaFactors</via>
+## Related 🟩<eko>EkoTypes</eko>
+
+-
+
+## Related 🔻<via>ViaTypes</via>
 
 -
 
@@ -62,7 +62,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 ## See also:
 
-Links to other related NeuroFactors.
+Links to other related NeuroTypes.
 ::: details External References
 
 - One

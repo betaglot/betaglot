@@ -51,13 +51,13 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 🟩<eko>EcoFactors</eko>
+## Related 🟩<eko>EkoTypes</eko>
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<neuro>NeuroTypes</neuro>
 
-## Related 🟠<moto>MotoFactors</moto>
+## Related 🟠<moto>MotoTypes</moto>
 
 -
 
@@ -65,9 +65,9 @@ Answer 3
 
 - Use Media donated by Planters.
 
-## Related <via>ViaFactors</via>
+## Related <via>ViaTypes</via>
 
-Links to other related ViaFactors.
+Links to other related ViaTypes.
 ::: details External References
 
 - One

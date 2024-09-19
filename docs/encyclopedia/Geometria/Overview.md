@@ -1,4 +1,4 @@
-# GEOMETRY
+# GEOMETRIA
 
 - Shape
 - Form

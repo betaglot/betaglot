@@ -1,4 +1,4 @@
-# 🛠 <moto>Moto Graphics</moto>
+# 🛠 <moto>Moto Graphiks</moto>
 
 ## <moto>MotoCard</moto>
 
@@ -19,7 +19,6 @@ Mirror images for ambidextrous planter
 ```py
 `TagsToHeaders: False`
 ```
-
 
 <h2>PageTags</h2>
 

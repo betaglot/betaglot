@@ -7,9 +7,9 @@
 
 > Violet Heart
 
-## What is a Neuro Factor?
+## What is the Neuro Type?
 
-The most fundamental Neuro Factor is **curiosity**.
+The most fundamental Neuro Type is **curiosity**.
 
 Short for Neuroscience
 
@@ -37,9 +37,9 @@ Short for Neuroscience
 
 :::
 
-## Neuro Factors
+## Neuro Types
 
-Neuro Factors are prefixed by a 💜 violet heart icon
+Neuro Types are prefixed by a 💜 violet heart icon
 
 ```py
 💜

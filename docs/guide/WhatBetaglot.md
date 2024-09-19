@@ -1,6 +1,4 @@
-# <beta>EVERYTHING IS CONNECTED</beta>
-
-🔷<beta>What is Betaglot?</beta>
+# 🔷 <beta>Be the Beta</beta> 🔷
 
 ## What does <beta>Betaglot</beta> mean?
 

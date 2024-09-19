@@ -117,7 +117,7 @@ Heterogeneous Plantations, ie not just trees to slow the advance of fire.
 
 It would be better for the earth if planting was more difficult.
 
-Train planters so the difficulty is mitigated by people learning a Factor instead of making something
+Train planters so the difficulty is mitigated by people learning a Type instead of making something
 
 ### Africa
 

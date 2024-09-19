@@ -108,7 +108,7 @@ There is a miscommunication happening if:
 
 - Everything is an Object, like Python
 
-Each BetaFactor is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
+Each BetaType is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
 
 Eco doesn't have any problems or theorems
 
@@ -142,5 +142,5 @@ Via Theorem, Via Solution
 
 Via just gives the options, Beta is required to Solve, since solution requires Moto. Beta occurs when more than module is required in 1stPersonPoint of view. Planter's perspective.
 
-Neuro that just thinks about NeuroFactors
+Neuro that just thinks about NeuroTypes
 :::

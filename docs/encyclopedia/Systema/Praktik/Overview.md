@@ -1,4 +1,4 @@
-# 🔷 BETAPRAKTIK
+# 🔷<beta>PRAKTIK</beta>
 
 > action rather than thought or ideas
 

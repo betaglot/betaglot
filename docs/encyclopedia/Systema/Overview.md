@@ -1,4 +1,4 @@
-# 🔷<beta>BETASYSTEMA</beta>
+# 🔷<beta>SYSTEMA</beta>
 
 ## Based on Euclid's Elements
 

@@ -1,4 +1,10 @@
+---
+aside: False
+---
+
 # ENCYCLOPEDIA
+
+Everything is Beta
 
 ## [![Beta](/Beta/Beta_Icon.png)](/encyclopedia/Beta/WhatBeta)
 

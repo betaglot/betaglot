@@ -47,17 +47,17 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<neuro>NeuroTypes</neuro>
 
-## Related 🟠<moto>MotoFactors</moto>
-
--
-
-## Related 🟩<eko>EcoFactors</eko>
+## Related 🟠<moto>MotoTypes</moto>
 
 -
 
-## Related 🔻<via>ViaFactors</via>
+## Related 🟩<eko>EkoTypes</eko>
+
+-
+
+## Related 🔻<via>ViaTypes</via>
 
 -
 
@@ -67,7 +67,7 @@ Answer 3
 
 ## See also:
 
-Links to other related NeuroFactors.
+Links to other related NeuroTypes.
 
 ::: details External References
 

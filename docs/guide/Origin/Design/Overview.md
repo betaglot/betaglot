@@ -18,7 +18,6 @@
 
 Model of Habitat 64
 
-
 ## Bauhaus
 
 Kandinsky

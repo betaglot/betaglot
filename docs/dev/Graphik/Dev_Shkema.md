@@ -97,7 +97,7 @@ Removes Value Addition // [!code --]
 
 ### Outcome > Output
 
-False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The ViaFactor(PotentialMicrosite, FlagSite) gives the EcoFactor(Stump) value
+False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The ViaType(PotentialMicrosite, FlagSite) gives the EkoType(Stump) value
 
 Theorem the name of an object, while Problem is the object's values and methods.
 
@@ -107,7 +107,7 @@ The value exchange of woven fiber neighbors is the tension force holding each ot
 
 Subsystems give each other value.
 
-The ViaFactor(GoodMicrosite, FlagSite) gives the EcoFactor(Stump) value. The stump gives Via value by providing PotentialMicrosite.
+The ViaType(GoodMicrosite, FlagSite) gives the EkoType(Stump) value. The stump gives Via value by providing PotentialMicrosite.
 
 The exchange doesn't need to be mutually beneficial. Both ValueAddition or (ValueAddition + ValueSubtraction).
 
@@ -124,9 +124,9 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 ---
 
-### MotoFactorValue
+### MotoTypeValue
 
-::: tip MotoFactorValue Addition
+::: tip MotoTypeValue Addition
 
 ---
 
@@ -187,7 +187,7 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 :::
 
-::: danger MotoFactorValue Subtraction
+::: danger MotoTypeValue Subtraction
 
 ---
 
@@ -257,9 +257,9 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### ViaFactorValue
+### ViaTypeValue
 
-::: tip ViaFactorValue Addition
+::: tip ViaTypeValue Addition
 
 ---
 
@@ -299,7 +299,7 @@ MotoSelection.MotoEvaluation
 
 :::
 
-::: danger ViaFactorValue Subtraction
+::: danger ViaTypeValue Subtraction
 
 ---
 
@@ -333,9 +333,9 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### EcoFactorValue
+### EcoTypeValue
 
-::: tip EcoFactorValue Addition
+::: tip EcoTypeValue Addition
 
 ---
 
@@ -373,7 +373,7 @@ MotoSelection.MotoEvaluation
 
 :::
 
-::: danger EcoFactorValue Subtraction
+::: danger EcoTypeValue Subtraction
 
 ---
 
@@ -407,9 +407,9 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### NeuroFactorValue
+### NeuroTypeValue
 
-::: tip NeuroFactorValue Addition
+::: tip NeuroTypeValue Addition
 
 ---
 
@@ -441,7 +441,7 @@ MotoSelection.MotoEvaluation
 
 :::
 
-::: danger NeuroFactorValue Subtraction
+::: danger NeuroTypeValue Subtraction
 
 ---
 
@@ -544,13 +544,13 @@ MotoState
 - BetaSequence
 - Staves
 
-Arc the same shape as factors
+Arc the same shape as BetaTypes
 
 ViaTime
 
-The shape of the arc is the same shape as the factors' icons. Moto is parabolic, Via is absolute, Neuro has a Cusp, Eco is square
+The shape of the arc is the same shape as the Types' icons. Moto is parabolic, Via is absolute, Neuro has a Cusp, Eco is square
 
-There are no BetaArcs, only BetaFactorArcs
+There are no BetaArcs, only BetaTypeArcs
 
 ---
 

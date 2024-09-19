@@ -39,19 +39,19 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<neuro>NeuroTypes</neuro>
 
-## Related 🟠<moto>MotoFactors</moto>
+## Related 🟠<moto>MotoTypes</moto>
 
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Moto/MotoOverview).
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Moto/MotoOverview).
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Moto/MotoOverview).
+- Description of how this <neuro>NeuroType </neuro>relates to a particular [<moto>MotoType</moto>](/encyclopedia/Moto/MotoOverview).
+- Description of how this <neuro>NeuroType </neuro>relates to a particular [<moto>MotoType</moto>](/encyclopedia/Moto/MotoOverview).
+- Description of how this <neuro>NeuroType </neuro>relates to a particular [<moto>MotoType</moto>](/encyclopedia/Moto/MotoOverview).
 
-## Related 🟩<eko>EcoFactors</eko>
+## Related 🟩<eko>EkoTypes</eko>
 
 -
 
-## Related 🔻<via>ViaFactors</via>
+## Related 🔻<via>ViaTypes</via>
 
 -
 
@@ -61,7 +61,7 @@ Answer 3
 
 ## See also:
 
-Links to other related NeuroFactors.
+Links to other related NeuroTypes.
 
 ::: details External References
 
