@@ -10,6 +10,11 @@
   color: inherit;
 }
 
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
 .title {
 
   color: #6a9955;

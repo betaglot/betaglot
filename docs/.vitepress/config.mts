@@ -38,6 +38,7 @@ export default defineConfig({
   },
 })
 
+//#nav
 function nav() {
   return [
     {
@@ -51,7 +52,7 @@ function nav() {
       activeMatch: '/examples/'
     },
     {
-      text: 'Learn',
+      text: 'Akademeia',
       link: '/tutorial/Overview',
       activeMatch: '/tutorial/'
     },
@@ -127,6 +128,7 @@ function sidebarGuide() {
 function sidebarDevelopment() {
   return [
     { text: '<dev>Dev Overview</dev>', link: '/dev/DevOverview' },
+    { text: '<dev>BetaMale</dev>', link: '/dev/BetaMale' },
     { text: '<dev>DX</dev>', link: '/dev/DX' },
     {
       text: '<dev>Graphik</dev>', link: '/dev/Graphik/Overview', collapsed: true, items: [

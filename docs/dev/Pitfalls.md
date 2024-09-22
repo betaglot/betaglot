@@ -8,6 +8,37 @@ Near Enemy
 
 Uncanny
 
+## $$$ Money will surely fuck up anything that relies upon it
+
+BETAGLOT is not designed to feed families.
+
+::: danger
+
+Don't lose touch reality. Money will always necessary, keep it a necessity not a luxury.
+
+:::
+
+### Volunteer Only
+
+### NonProfit
+
+### Free
+
+- Prizes
+
+#### Free Entry
+
+### Non Monetary Value
+
+- Art
+- Experiences (Memories)
+- Food
+- Social
+- Exercise
+    - Muscle
+    - Mental Health
+    - Homeostasis
+
 ## CurseOfKNowledge
 
 ## Interview yourself film with GoPro

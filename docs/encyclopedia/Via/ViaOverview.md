@@ -171,6 +171,8 @@ Up, Down
 
 ## DevNotes
 
+- Moving in a crowd is Via
+- Via is Trajectory
 - Via is Time
     - There is no matter in Via because it is abstract
     - Newton is a kilogram meter per second, per second

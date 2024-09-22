@@ -1,5 +1,11 @@
 # Learn how to be a BETAGLOT
 
+The Grove where Plato thought
+
+Platonic Shapes
+
+Grove = Plantbeta
+
 ::: tip You will learn
 
 - How to
