@@ -1,42 +1,47 @@
+import mermaid from 'mermaid';
 import { defineConfig } from 'vitepress'
+import { withMermaid } from "vitepress-plugin-mermaid";
 
 // https://vitepress.dev/encyclopedia/site-config
-export default defineConfig({
-  title: "BETAGLOT",
-  description: "Be the Beta",
-  lastUpdated: true,
-  ignoreDeadLinks: true,
-  cleanUrls: true,
-  appearance: 'dark',
-  head: [
-    ["link", { rel: "apple-touch-icon", href: "/Betaglot_Logo.png" }],
-    ["link", { rel: "icon", type: "image/png", href: "/Betaglot_Logo.png" }]
-  ],
-  themeConfig: {
-    siteTitle: "BETAGLOT",
-    outline: [2, 4],
-    logo: '/Betaglot_Logo.png',
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/betaglot/betaglot' }
+export default withMermaid(
+  defineConfig({
+    title: "BETAGLOT",
+    description: "Be the Beta",
+    lastUpdated: true,
+    ignoreDeadLinks: true,
+    cleanUrls: true,
+    appearance: 'dark',
+    head: [
+      ["link", { rel: "apple-touch-icon", href: "/Betaglot_Logo.png" }],
+      ["link", { rel: "icon", type: "image/png", href: "/Betaglot_Logo.png" }]
     ],
-    // footer: {
-    //   message: "Library released under <a style='text-decoration:underline;' href='https://github.com/betaglot/betaglot/blob/main/LICENSE'>MIT License</a>.",
-    //   copyright: `Copyright © 2024–${new Date().getUTCFullYear()} Christopher Duncan`
-    // },
-    search: {
-      provider: 'local'
+    themeConfig: {
+      siteTitle: "BETAGLOT",
+      outline: [2, 4],
+      logo: '/Betaglot_Logo.png',
+      socialLinks: [
+        { icon: 'github', link: 'https://github.com/betaglot/betaglot' }
+      ],
+      // footer: {
+      //   message: "Library released under <a style='text-decoration:underline;' href='https://github.com/betaglot/betaglot/blob/main/LICENSE'>MIT License</a>.",
+      //   copyright: `Copyright © 2024–${new Date().getUTCFullYear()} Christopher Duncan`
+      // },
+      search: {
+        provider: 'local'
+      },
+      sidebar: {
+        '/guide/': sidebarGuide(),
+        '/examples/': sidebarExamples(),
+        '/tutorial/': sidebarTutorial(),
+        '/encyclopedia/': sidebarEncyclopedia(),
+        '/dev/': sidebarDevelopment(),
+        '/agora/': sidebarAgora(),
+      },
+      nav: nav(),
     },
-    sidebar: {
-      '/guide/': sidebarGuide(),
-      '/examples/': sidebarExamples(),
-      '/tutorial/': sidebarTutorial(),
-      '/encyclopedia/': sidebarEncyclopedia(),
-      '/dev/': sidebarDevelopment(),
-      '/agora/': sidebarAgora(),
-    },
-    nav: nav(),
-  },
-})
+  })
+)
+
 
 //#nav
 function nav() {
@@ -134,6 +139,7 @@ function sidebarDevelopment() {
       text: '<dev>Graphik</dev>', link: '/dev/Graphik/Overview', collapsed: true, items: [
         { text: '<dev>Cards</dev>', link: '/dev/Graphik/Cards/Overview' },
         { text: '<beta>Beta Graphiks</beta>', link: '/dev/Graphik/BetaGraphik' },
+        { text: '<beta>Dev_Shkema</beta>', link: '/dev/Graphik/Dev_Shkema' },
         { text: '<eko>EcoGraphiks</eko>', link: '/dev/Graphik/EcoGraphik' },
         { text: '<moto>Moto Graphiks</moto>', link: '/dev/Graphik/MotoGraphik' },
         { text: '<via>Via Graphiks</via>', link: '/dev/Graphik/ViaGraphik' },
@@ -177,7 +183,11 @@ function sidebarDevelopment() {
 
       ]
     },
-    { text: '<dev>UX</dev>', link: '/dev/UX' },
+    {
+      text: '<dev>UX</dev>', link: '/dev/UX/Overview', collapsed: true, items: [
+        { text: 'UserFlowChart', link: '/dev/UX/UserFlowChart' }
+      ]
+    },
   ]
 }
 
