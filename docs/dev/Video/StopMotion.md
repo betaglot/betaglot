@@ -1,4 +1,4 @@
-# BetaIdea: Stop Motion Animated Beta
+# Stop Motion Animated Beta
 
 > possessed by gods
 
@@ -31,24 +31,6 @@ Frames per second
 Each photo is a captures a single BetaFrame
 
 One BetaFrame for each second. Duplicate if necessary
-
-## BETAGLOT must have an imaginary headquarters
-
-Genius Loci
-
-Roman Room
-
-Map
-
-Olympus
-
-Each Agon has an area
-
-Like the Columns in perspective used by female graphic designer to teach history
-
-Use actual and imagined ancient greek architecture
-
-- Parthenon
 
 ## Representing each BetaType
 

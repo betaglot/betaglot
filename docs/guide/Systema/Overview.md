@@ -1,5 +1,15 @@
 # 🔷<beta>SYSTEMA</beta>
 
+Systema is in the Guide
+
+> Systema's structure is repeated in each BetaType. The "Systema" section doesn't contain the content, it shows how everything is related to each other.
+
+Each BetaType is structured into Praktik and Theoria
+
+Encyclopedia is only Theoria
+
+There is no practice in books
+
 ## Based on Euclid's Elements
 
 Eukleídes
@@ -9,8 +19,6 @@ Eukleídes
 Combinatorial system
 
 DeclarativeLanguage
-
-Split into Praktik(Practice) and Theoria(Theory)
 
 BETAGLOTS are people who apply the BETASYSTEMA to multiple sports
 
@@ -28,11 +36,13 @@ The terms "Taxon" is used instead of "Object", since abstract objects are diffic
 
 ## Differentiate(Theoria, Praktik)
 
+> theory refers to the construction of theories and the explicit knowledge derived from them, while practice involves the understanding and implementation of practical knowledge in real-world situations
+
 "Theory" is consistently misunderstood and misused. How to point this out without judgement? In the Ivory Tower is the last place that BETAGLOTs need to be.  
 
 Knowing how to solve a problem isn't the same as actually solving the problem. Knowing how to draw an equilateral triangle doesn't result in an actual triangle on paper. You must put the knowledge into practice.
 
-You can't have Practice in the encyclopedia. Practice only exists in the Tutorial Section.
+You can't have Practice in the encyclopedia. Practice only exists in the Akademeia Section.
 
 > When we try to think our way out of bad situations to avoid getting hurt, we become engaged in trying to think of a solution instead of acting on one
 
@@ -45,3 +55,7 @@ It seems like there is a bias towards action instead of theory, like theory is s
 The Theory of Gravitation is not useless, The Theory of Natural Selection is not useless. Architecture doesn't exist without  
 
 ## Theoria Propositions are declared in Praktik BETAGRAMS
+
+Call a Proposition
+
+Propose a Proposition

@@ -18,4 +18,4 @@ Minimal Gear
 🟩<eko>Planting</eko>
 🔻<via>Via dominant</via>
     - Archery
-💜<neuro>Drawing</neuro>
+💜<neuro>Dance</neuro>

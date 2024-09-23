@@ -1,6 +1,16 @@
 # Learn how to be a BETAGLOT
 
-The Grove where Plato thought
+What is the difference between Guide and Akademeia?
+
+## Learn the Theory, how to Practice the Theory and actually Practice if possible
+
+"How to practice" is Theory, not Practice
+
+You can have many practices which you don't know how to do.
+
+## Etymology(Akademeia)
+
+The Grove where Plato taught
 
 Platonic Shapes
 
