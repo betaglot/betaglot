@@ -1,5 +1,35 @@
 # 💜 <neuro>Spatial Cognition</neuro>
 
+> Mental representations of the environment or the objects within it and the mental transformation of the representations
+
+## Navigation Cognition and Object Cognition
+
+[Newcombe, N. S. (2024). Spatial Cognition. In M. C. Frank & A. Majid (Eds.), Open Encyclopedia of Cognitive Science. MIT Press.](https://doi.org/10.21428/e2759450.f1b0237e)
+
+> Object-focused cognition involves representing the shape and structure of objects and anticipating their appearance after physical or mental transformation, such as rotation, cutting, or folding. Object-focused thinking is closely related to tool invention and tool use and is likely more specific to humans than is navigation
+
+> Navigation involves finding the way around the world to gather food and drink, find social partners, avoid dangers, and return home and is prerequisite to survival for all mobile organisms. To find the way requires the representation of the relative locations of environmental features (allocentric framework) and self-motion (inertial navigation) internally and within that framework
+
+- Navigation-relevant cognition is the thinking necessary for finding the way in the world.
+
+- Allocentric frameworks are the landmarks that provide external reference points for encoding location.
+
+- Inertial navigation involves tracking where one is by encoding distance and direction from bodily cues.
+
+- Object-focused cognition is the representation of the shape and structure of objects and the ability to manipulate and transform these representations in a variety of ways, such as rotating or folding.
+
+- Cognitive maps are representations of an array of objects in an environment using a common framework and allowing for charting detours and shortcuts.
+
+- Mental rotation is imagining turning an object in three-dimensional space.
+
+- Visual imagery is imagining something that has been perceived, in its absence.
+
+- Spatial imagery is imagining objects moving or oneself moving in an environment.
+
+- Cognitive graphs are representations of an array of objects in an environment in which local relations are represented as distances and directions if experienced, but there is no common framework allowing for inferences.
+
+- Embodied cognition is the theory that thinking does not involve representations but instead involves interior perception-action linkages.
+
 ## Ontario Curriculum
 
 [Grade 5: Geometric and Spatial Reasoning](https://www.dcp.edu.gov.on.ca/en/curriculum/elementary-mathematics/grades/g5-math/strand-e/e1)
@@ -22,34 +52,76 @@ Einstein Spaghetti
 
 > What is the fastest way there?
 
->
-
 ## 🐍<py>Spatial Python</py>
 
 How to use Spatial Cognition to enhance your ability to think about Python
 
-How to use the Spatial 
+How to use the Spatial
 
 ## Spatialize
 
 > Add spatial cognition to visual information which currently doesn't contain spatial cognition. Added directly or as a metaphoral mnemonic device such as Method of Loci
 
+## Characters who Use Spatial Cognition
+
+### DrStrange
+
+Timestone
+
+Creating Energy Shapes
+
+### Sherlock
+
+#### Mind Palace
+
+MethodOfLoci
+
+Blackmailer
+
+#### Mental Knowledge Graph
+
+<iframe class="youtube-video" src="https://www.youtube.com/embed/0FSKTndbwVo" title="The hound of baskervilles  mind palace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Blackmailer](https://www.youtube.com/watch?v=d5MRE-9lzrU&ab_channel=Scripz)
+
+### Mental Rehearsal
+
+> Predicting the future while developing a plan
+
+FightScenes
+
 ## Spatial Mnemonic
 
 ### MethodOfLoci
 
-AlsoKnownAs(MindPalace)
+#### [BigThink: Derren Brown teaches the method of loci](https://www.youtube.com/watch?v=xsqzzW3Yl28&ab_channel=BigThink)
 
-#### Sherlock 
+#### [McGill: An Ancient Memory Technique Still Puzzles Scientists](https://www.mcgill.ca/oss/article/critical-thinking-history/ancient-memory-technique-still-puzzles-scientists)
 
-<iframe class="youtube-video" src="https://www.youtube.com/embed/0FSKTndbwVo" title="The hound of baskervilles  mind palace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### [VeryWellHealth: Using the Method of Loci for Memorization](https://www.verywellhealth.com/will-the-method-of-loci-mnemonic-improve-your-memory-98411)
 
-Blackmailer
+#### [VOX: How I memorized an entire chapter from “Moby Dick”](https://www.youtube.com/watch?v=mh9B5UJbbRg&ab_channel=Vox)
 
+<iframe class="youtube-video" src="https://www.youtube.com/embed/mh9B5UJbbRg" title="How I memorized an entire chapter from “Moby Dick”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## How does Space relate to Beta and to each BetaType?
 
+### 🔷<beta>Beta Space</beta>
 
-:::
+BetaCode Sequence from Top
+
+Indentation
+
+- Nested
+- CodeBlock
+
+### 🟠<moto>Moto Space</moto>
+
+### 🔻<via>Via Space</via>
+
+### 🟩<eko>Eko Space</eko>
+
+### 💜<neuro>Neuro Space</neuro>
 
 ## Spatial Practice
 
@@ -68,10 +140,6 @@ Blackmailer
 ## Spatial Shape
 
 ## Spatial Pattern
-
-## Spatial Moto
-
-##
 
 ## 💜<neuro>Cognitive Map</neuro>
 
@@ -133,7 +201,6 @@ Wayfinding
 
 When to slow down
 
-
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
@@ -143,7 +210,7 @@ When to slow down
 
 ## DevNotes
 
-- 
+-
 
 ## DevState
 

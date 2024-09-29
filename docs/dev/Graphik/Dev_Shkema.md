@@ -1,7 +1,5 @@
 # 🛠 SKHEMA
 
-
-
 ## D3
 
 Write a python script to convert the config into a json that D3 treemap can use. So you don't have to worry about updating both

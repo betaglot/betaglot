@@ -1,5 +1,9 @@
 # POSTULATES
 
+> suggest or **assume** the existence, fact, or truth of (something) as a basis for reasoning, discussion, or belief
+
+> assumption: something that you accept as true without question or proof
+
 ## Postulate 1
 
 To draw a straight line from any point to any point.

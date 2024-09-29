@@ -4,6 +4,17 @@
 
 > a task, that which is proposed, a question
 
+## Givens
+
+All problems start with Givens
+
+- "Given this condition"
+- "Given this set of objects"
+- "**Given these constraints**"
+    - "Without using..."
+    - "Only using..."
+- "Given these tools"
+
 ## Construction Problema
 
 Like the ones in Euclid's Elements

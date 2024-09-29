@@ -12,6 +12,10 @@ Via is a an abstract concept.
 
 Taxa
 
+Direction
+
+Length
+
 ## Postulates
 
 ## Axioms
@@ -20,9 +24,13 @@ Taxa
 
 ### Theorems
 
-Knowing how to solve a pproblem isn't the same as actually solving the problem
+> Knowing how to solve a pproblem isn't the same as actually solving the problem
+
+- Types of Cover
 
 ### Problems
+
+- Cover a given area
 
 ## What are the units of Via?
 
@@ -80,5 +88,3 @@ Cover
 ## Checkpoint
 
 ## Path of Least Resistance
-
-##

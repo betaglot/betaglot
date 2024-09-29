@@ -16,7 +16,9 @@ hero:
       link: /examples/ExamplesOverview
 
 features:
-  - title: Last Updated
-    details: Sep 2, 2024
+  - title: "Last Updated:"
+    details: September 29, 2024
+  - title: Under Development
+    details: This website is like a Sketchbook for what Betaglot will become
 ---
 
