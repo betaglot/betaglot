@@ -1,12 +1,40 @@
 # Proposition
 
-> Statemental logic studies the ways statements can interact with each other.
+## Definition(**Proposition**)
 
-[Internet Encyclopedia of Philosophy](https://iep.utm.edu/propositional-logic-sentential-logic/)
+> an offer or suggestion
 
-A proposition is a statement which can be either true or false.
+> an idea or opinion
+
+> a statement or problem that must be solved or proved to be **either** true or not true.
+
+### Definition(Proof)
+
+> a fact or piece of information that shows that something exists or is true
+
+> A mathematical proof is a deductive argument for a mathematical statement, showing that the stated assumptions logically guarantee the conclusion
+
+New objects can be introduced to prove a statement
+
+### Derivations of **Proposition**
 
 ## Differentiate(Problema, Theorema)
+
+### Definition(Problem)
+
+> Given some set of initial objects, a problem shows how to do something (say, how to find, to draw, to set out) and then demonstrates that what has been done is satisfactory
+
+#### Definition(Solve)
+
+> 
+
+### Definition(Theorem)
+
+> Given some set of inital objects, a theorem asserts some property that is true of these objects
+
+> a formal statement that can be shown to be true by logic
+
+> a general proposition not self-evident but proved by a chain of reasoning; a truth established by means of accepted truths
 
 ### Similarities
 
@@ -175,6 +203,10 @@ Knowledge of Geometry is assumed.
 
 From the french dictionary [Le Robert](https://dictionnaire.lerobert.com/definition/proposition)
 
+### Quotes
+
+> What do you propose we do?
+
 ### verb + proposition
 
 - accepter + proposition
@@ -201,8 +233,10 @@ From the french dictionary [Le Robert](https://dictionnaire.lerobert.com/definit
     - formulate a proposition
 - lancer + proposition
     - throw out a proposition
+    - "let me throw out an idea"
 - présenter + proposition
     - present a proposition
+    - "present your beta to the class"
 - recevoir + proposition
     - receive a proposition
 - refuser + proposition

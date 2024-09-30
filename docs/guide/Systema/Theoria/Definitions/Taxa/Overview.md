@@ -33,3 +33,7 @@ a scientifically classified group or entity : a taxonomic unit (such as a genus 
 ## Class Diagrams
 
 <https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/>
+
+There are no duplicate taxa
+
+## Object Oriented Programming

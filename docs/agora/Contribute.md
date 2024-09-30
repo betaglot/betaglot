@@ -1,5 +1,7 @@
 # 🛠 Start Contributing to BETAGLOT: Your First Steps
 
+Someone who will fight for kindness
+
 ## PhilaBeta
 
 Become a Betaphile
@@ -17,6 +19,12 @@ Philanthropy
 ::: tip Sponsor
 If you just want to sponsor BETAGLOT
 :::
+
+### Give money
+
+<https://www.zeffy.com/>
+
+Patreon
 
 ### Give Feedback
 

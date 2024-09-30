@@ -186,6 +186,8 @@ Use 'K' instead of 'C'
 - peri
 - exo
 - Anti
+- Myriad
+- Emphasis
 - Prologue
 - Choreography
 - BETAGON  

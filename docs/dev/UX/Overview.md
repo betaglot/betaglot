@@ -1,6 +1,8 @@
 
 # 🛠 UX: User Experience of BETAGLOT
 
+## The Website being a building leverages Spatial sense
+
 ## Hardware
 
 ### GoPro

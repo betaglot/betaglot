@@ -14,6 +14,8 @@ Wouldn't it be nice to know what you've forgotten. If you could take a test to f
 
 Percentages
 
+## Learning Path is BetaOdyssey
+
 ## Tutorials
 
 ## VideoGame
@@ -120,3 +122,21 @@ Have an Experienced Planter plant with novicePlanter as a practical demonstratio
 Active recall while planting
 
 Recall what you learned during the morning truck ride
+
+## Constraints Led Approach
+
+- Rule
+- Problem
+
+[The Constraints-Led Approach: Principles for Sports Coaching and Practice Design](https://www.google.ca/books/edition/The_Constraints_Led_Approach/PceHDwAAQBAJ?hl=en&gbpv=0)
+By Ian Renshaw, Keith Davids, Daniel Newcombe, Will Roberts · 2019
+
+[Coaching](https://drowningintheshallow.wordpress.com/2016/03/14/what-is-a-constraints-led-approach/?utm_content=link10&utm_campaign=articles_id_0&utm_medium=articles_post&utm_source=%5Bsite%5D)
+
+### Implicit
+
+Students learn by solving problems instead of being explicitly taught
+
+### AlsoKnownAs(Ecological Approach)
+
+Udo Neumann

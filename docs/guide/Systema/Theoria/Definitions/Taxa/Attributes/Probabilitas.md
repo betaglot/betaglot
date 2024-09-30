@@ -35,17 +35,19 @@ Definition(Commitment)
 - Absolute
 - Binary
 
-Quote
+Netflix translated commit to engage in the rugby series
 
-> “Committing
+#### Quote(Commitment)
 
-> “All or nothing”
+> Committing
 
-> “There is no backing out of this”
+> All or nothing
 
-> “Go or no go”
+> There is no backing out of this
 
-> “Absolute commitment”
+> Go or no go
+
+> Absolute commitment
 
 ### EKO
 

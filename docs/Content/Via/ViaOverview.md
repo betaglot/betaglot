@@ -109,11 +109,55 @@ Also Known As "Land Management"
 
 > the use of a particular path or direction for something to travel or be placed
 
-## "Cover" instead of "Fill"
+## Linguistics of Via
 
-FillPlant
+### Preposition
 
-"Cover" is a verb, "Fill" is a noun.
+```py
+{
+    'Above':[], 
+    'Across': [], 
+    'Along': [], 
+    'At': [],
+    'Behind': [], 
+    'Below': [], 
+    'Beside': [], 
+    'Between': [],
+    'Downstream'
+    'From': [],
+    'In': [], 
+    'Into': ['Lean into', 'reach into'],
+    'Near': ['go near'],
+    'On': ['stand on that'], 
+    'Onto': ['jump onto'], 
+    'Over': ['over there'],
+    'Through': ['through this chimney'], 
+    'To': ['to the top'],
+    'Until': ['until the wall angle changes'], 
+    'Up': ['reach up'], 
+    'Upstream': [],
+    'While': [],
+}
+
+
+## Via Questions
+
+> Where are you going?
+
+> How do you get there?
+
+> Can I skip that part?
+
+> Can this be bypassed?
+
+> Via what route?
+
+> How are you supposed to get across?
+
+> Which way are you gonna use to get up there
+
+- detour
+- navigation
 
 ## Via Scope
 
@@ -121,7 +165,18 @@ PieceCover > AreaCover > ViaCurve > ViaPoint
 
 ## Direction
 
-Directions
+Lean into is a direction which can to attained by many alternative Motons
+
+From a point
+
+### Directions is a Sequence
+
+GoogleMaps
+
+Directions contains path and direction
+
+Directions signs 
+
 
 ### Relative to Anchor
 
@@ -149,21 +204,16 @@ Up, Down
 
 ### Stage Directions
 
-### Preposition
 
-```py
-[
-    'Above', 'Across', 'Along', 'At',
-    'Behind', 'Below', 'Beside', 'Between',
-    'Downstream'
-    'From',
-    'In', 'Into',
-    'Near',
-    'On', 'Onto', 'Over',
-    'Through', 'To',
-    'Until', 'Up', 'Upstream'
-    'While',
-]
+## Displacement
+
+( Displacement != Distance )
+
+## Position
+
+### Absolute Position
+
+### Relative Position
 
 ```
 

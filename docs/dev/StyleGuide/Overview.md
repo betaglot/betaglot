@@ -36,11 +36,60 @@ It doesn't matter if it's always totally true, the canadian stereotype is believ
     - EcoHome Hero Image
 - Cold, Winter
 
+### Canadians
+
+### Chris Hadfield
+
+Physics
+
+### Mitchell Hooper
+
+Lift Heavy
+be Kind
+
+Kinesiology
+
 ### Ryan Reynolds
 
 Break fourth wall like reynolds
 
 In what movies besides Deadpool does he break the fourth wall?
+
+### Ottawa
+
+::: tip
+
+Use NAG and NAC for yourself during development, they don't **need** to make it into the final product
+
+:::
+
+#### NAG
+
+BETAGLOT uses National Art Gallery of Canada for Theoria
+
+Plane abstracts Wall and Ground
+
+It's al about the surface anyway
+
+DawesHelicopter
+
+If betaglot was a painting, what would it look like?
+
+##### Walls are Climbing Walls
+
+"Where to put slab?" = Answer(Outside)
+
+Make the top
+
+Both sides of the walls are climbable, vary the slope angles between the four
+
+Tetrad
+
+#### NAC
+
+BETAGLOT uses National Arts Centre for Praktik
+
+#### National Climbing Centre in Ottawa
 
 </via>
 

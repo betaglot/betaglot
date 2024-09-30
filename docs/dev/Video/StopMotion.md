@@ -14,6 +14,10 @@ Stop motion circumvents sex. Beta Videos can easily become sexualized.
 
 Abstracted into StopMotion
 
+## What is StopMotion
+
+[Vox: How stop motion animation began](https://www.youtube.com/watch?v=80CKTOjjZFQ&list=WL&index=2&ab_channel=Vox)
+
 ## Ultimate Purpose
 
 Animation of Beta is a powerful tool for learning Moto and Via.
@@ -21,6 +25,14 @@ Animation of Beta is a powerful tool for learning Moto and Via.
 Center of Mass for ViaPath
 
 Claymation allows total control of Beta and is very easy to delegate. Some people dream of doing claymations as a profession, let them. Find them as students in School or Private Company. Any city in Canada or a country that you would want to visit often
+
+## 🐍<py>How can Python be used in StopMotion</py>
+
+MoviePy
+
+FrameRate
+
+Make Gifs
 
 ## Framerate
 

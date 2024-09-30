@@ -1,4 +1,4 @@
-# Put(Plant) Podcast
+# Podcast
 
 ## Theory
 
@@ -13,3 +13,5 @@ Like a Waking Up guided meditation
 What to think about
 
 Stretches of silence, then reminding planters to come back to the present
+
+## Neil Degrasse tyson would understand Betaglot

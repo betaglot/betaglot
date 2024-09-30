@@ -210,7 +210,8 @@ When to slow down
 
 ## DevNotes
 
--
+- <https://efa.unisa.edu.au/index.php/2024/03/08/spatial-reasoning/>
+- <https://uttallab.northwestern.edu/about/>
 
 ## DevState
 

@@ -14,8 +14,14 @@ Combined Metron from mulitple BetaSports
 
 Minimal Gear
 
-🟠<moto>Climbing</moto>
-🟩<eko>Planting</eko>
-🔻<via>Via dominant</via>
-    - Archery
-💜<neuro>Dance</neuro>
+#### 🟠<moto>Climbing</moto>
+
+#### 🟩<eko>Planting</eko>
+
+#### 🔻<via>Via dominant</via>
+
+- Archery
+
+#### 💜<neuro>Dance</neuro>
+
+- Dance is neuro since it relies on hearing and music and time which are all only ever existing in neurvous system

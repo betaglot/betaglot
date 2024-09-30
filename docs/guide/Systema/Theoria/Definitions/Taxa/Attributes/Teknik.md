@@ -23,3 +23,11 @@ Size of Knowledge Graph
 Wisdom
 
 Multiple things at once is Complexity and Risk
+
+## Teknik Magnitude = SkhemaEdgeCount
+
+Teknik magnitude is seen by the number of edges in a graph, not necessarily nodeCount
+
+The HeaderImage of Teknik overview is a Graph
+
+See Wolfram Euclid for graphs of dependencies. All dependencies are represented by at least 

@@ -120,6 +120,8 @@ GoPro
 
 ### 6: Take the closest step
 
+David Whyte Start Close In poem and commentary
+
 ### 7: Oliver Burkeman
 
 Pouring Water

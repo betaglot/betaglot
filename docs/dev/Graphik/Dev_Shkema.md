@@ -1,5 +1,9 @@
 # 🛠 SKHEMA
 
+## Mermaid.js
+
+Output mermaid with Python
+
 ## D3
 
 Write a python script to convert the config into a json that D3 treemap can use. So you don't have to worry about updating both
@@ -532,6 +536,19 @@ MotoState
 ---
 
 ## Hierarchy
+
+
+Derivatives != variation
+
+Derivative is a subclass
+
+Variation is a sibling class 
+
+### 🐍<py>Method Resolution Order</py>
+
+what's the mro of this thought, reaction, mental process? The base class is in your childhood
+
+https://docs.python.org/3/library/stdtypes.html#class.__mro__
 
 ---
 

@@ -4,6 +4,8 @@
 
 ## Mimicry
 
+BetaCode extends ScratchCode
+
 Labanotation
 
 BeneshNotation
@@ -41,3 +43,12 @@ A BetaBlock's environment.
 LocalEco: PocketHold
 
 GlobalEco: OverhangWall
+
+## Calling
+
+Eko taxa methods can call other BetaTypes
+
+## Execution Sequence
+
+
+Phase can refer to any stage, step, element of a **Sequence**

@@ -27,7 +27,15 @@ Fluid Moto
 
 Transition
 
+### Flow
+
+- Control Flow which isn't flowing is PraktikMetron low
+
+- Low score if you're not flowing
+
 ## Aesthetics
+
+PraktikMetron: Afterbang from Skiing
 
 ## Deduction
 

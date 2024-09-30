@@ -4,9 +4,11 @@
 
 Beta can be Aesthetic and Functional; Aesthetic and not Functional; Not Aesthetic, but Functional.
 
-## Beta's Purpose
+## BetaPurpose
 
 Why does your Beta exist?
+
+The Beta's purpose determines the values of taxa attributes 
 
 ### AestheticBeta
 
