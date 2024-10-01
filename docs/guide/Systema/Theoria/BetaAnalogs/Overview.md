@@ -20,7 +20,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |               <neuro>Neuro</neuro> = | = <neuro>Neuro</neuro>            |
 |                      <eko>Wall</eko> | <eko>Land</eko>                   |
 |              <eko>Wall Section</eko> | <eko>Area</eko>                   |
-|          <via>ContactSurface</via> = | = <via>ContactSurface</via>       |
+|          <via>Contact</via> = | = <via>Contact</via>       |
 |                      <via>Hold</via> | <via>Microsite</via>              |
 |                    <eko>Volume</eko> | <eko>Mound, Trench</eko>          |
 |                 <eko>WallAngle</eko> | <eko>SlopeAngle</eko>             |

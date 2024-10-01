@@ -101,14 +101,9 @@ There is a miscommunication happening if:
 
 ## DevNotes
 
+- BetaSports don't contain Antagonists, therefore all allow Kindness between participants
 - You don't need Beta to be a TreePlanter. Beta is just a Wrapper for communication. It's an API, an Interface between you and your coworkers.
 - Use Code snippets to write abbreviated names to insert Tags or ElementName
-
-## Independent Modules
-
-- Eco is not required for Attention
-- BodyBend does not require Via
-- Some Neuro only uses NeuroConcepts, like Emotional Regulation. If a function uses more than one module then it is Beta.
 
 ## DevState
 

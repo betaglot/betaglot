@@ -27,7 +27,7 @@ Like the ones in Euclid's Elements
 
 ### 🟩<eko></eko> How to
 
-### 🔻<via></via> How to estimate the distance between ViaSurfaces
+### 🔻<via></via> How to estimate the distance between ViaContacts
 
 ## Components of a Problema
 

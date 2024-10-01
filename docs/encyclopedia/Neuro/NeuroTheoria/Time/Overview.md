@@ -1,71 +1,22 @@
-
 # 💜 <neuro>Time</neuro>
 
-![NeuroIcon](/Neuro/Neuro_Icon.png)
+Change
 
-## Element Problem
+## Integration
 
--
+Calculus
 
-## Element Theorem
+Rate of Change
 
--
+## Via.Time
 
-## Questions about the Element
+Velocity is Displacement over Time
 
-::: details Questions 1
+## Moto.Time
 
-Answer 1
-:::
-::: details Questions 2
+Power is Force over time
 
-Answer 2
-:::
-::: details Questions 3
-
-Answer 3
-:::
-
-## Element Attributes
-
--
-
-## BetaWeb
-
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
-
-## Related 💜<neuro>NeuroTypes</neuro>
-
-## Related 🟠<moto>MotoTypes</moto>
-
--
-
-## Related 🟩<eko>EkoTypes</eko>
-
--
-
-## Related 🔻<via>ViaTypes</via>
-
--
-
-## Examples
-
-- Use Media donated by Planters.
-
-## See also:
-
-Links to other related NeuroTypes.
-::: details External References
-
-- One
-- Two
-- Three
-:::
+## Eko.Time
 
 <!-- =================================================== -->
 <!-- =================================================== -->

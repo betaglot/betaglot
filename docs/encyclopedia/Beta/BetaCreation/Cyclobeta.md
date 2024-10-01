@@ -28,7 +28,7 @@ This should be a Chart
 
 Usually performed before starting to climb. <via>Route</via> reading also occurs while a Climber is on the <via>Route</via>.
 
-Where are all the ViaSurfaces?
+Where are all the ViaContacts?
 
 What is the ViaSpace?
 

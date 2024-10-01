@@ -485,7 +485,7 @@ MotoSelection.MotoEvaluation
 #### RelativeValue
 
 - TallPersonBeta
-    - "That ContactSurface isn't useful for me"
+    - "That Contact isn't useful for me"
     - TeamPlant
 
 #### ViaValue

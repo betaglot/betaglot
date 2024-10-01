@@ -310,7 +310,7 @@ tags = {
         "Via.ViaDiagram.Overview",
         "Via.ViaDiagram.ViaDirectedLine",
         "Via.ViaDiagram.ViaNotDirectedLine",
-        "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight",
+        "Via.ViaDiagram.ViaContact.ViaContactHighlight",
         "Via.ViaDiagram.ViaTimeline"
     ],
     "dev/Graphics/UXGraphic.md": [],
@@ -1881,10 +1881,10 @@ tags = {
         "Via.ViaSequence.ViaSequenceVariation",
         "Via.ViaSequence.ViaShapePhrase.ViaShapeOverlap",
         "Via.ViaSequence.ViaSpacePhrase.ViaSpaceOverlap",
-        "Via.ViaSequence.ViaSurfacePhrase",
-        "Via.ViaSequence.ViaSurfacePhrase.AnteViaSurface",
-        "Via.ViaSequence.ViaSurfacePhrase.CurrentViaSurface",
-        "Via.ViaSequence.ViaSurfacePhrase.PostViaSurface"
+        "Via.ViaSequence.ViaContactPhrase",
+        "Via.ViaSequence.ViaContactPhrase.AnteViaContact",
+        "Via.ViaSequence.ViaContactPhrase.CurrentViaContact",
+        "Via.ViaSequence.ViaContactPhrase.PostViaContact"
     ],
     "Via/ViaSpace/ElasticSpacing.md": [],
     "Via/ViaSpace/MaximumSpacing.md": [],
@@ -1907,19 +1907,19 @@ tags = {
         "Via.Spacing.SlopedSpacing"
     ],
     "Via/ViaSpace/SpacingOnSlope.md": [],
-    "Via/ViaSurface/Overview.md": [
-        "Via.ViaGeometry.ViaSurface.LogSurface",
-        "Via.ViaGeometry.ViaSurface.Overview",
-        "Via.ViaGeometry.ViaSurface.RockSurface",
-        "Via.ViaGeometry.ViaSurface.Texture",
-        "Via.ViaGeometry.ViaSurface.WetSurface",
-        "Via.ViaGeometry.ViaSurface.Overview",
-        "Via.ViaGeometry.ViaSurface.ViaHiddenSurface",
-        "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity",
-        "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
-        "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize",
-        "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceTexture",
-        "Via.ViaGeometry.ViaSurface.ViaSurfaceShape"
+    "Via/ViaContact/Overview.md": [
+        "Via.ViaGeometry.ViaContact.LogContact",
+        "Via.ViaGeometry.ViaContact.Overview",
+        "Via.ViaGeometry.ViaContact.RockContact",
+        "Via.ViaGeometry.ViaContact.Texture",
+        "Via.ViaGeometry.ViaContact.WetContact",
+        "Via.ViaGeometry.ViaContact.Overview",
+        "Via.ViaGeometry.ViaContact.ViaHiddenContact",
+        "Via.ViaGeometry.ViaContact.ViaContactDensity",
+        "Via.ViaGeometry.ViaContact.ViaContactLine",
+        "Via.ViaGeometry.ViaContact.ViaContactAttributes.ViaContactSize",
+        "Via.ViaGeometry.ViaContact.ViaContactAttributes.ViaContactTexture",
+        "Via.ViaGeometry.ViaContact.ViaContactShape"
     ],
     "Via/TeamPlant/BouncingCover.md": [],
     "Via/TeamPlant/CrossingCover.md": [],
@@ -1942,7 +1942,7 @@ tags = {
         "Tests.Overview",
         "Tests.Recall.Recall.RecallBetaDiagram",
         "Tests.ViaDecomposition",
-        "Tests.ViaSurfaceHighlight",
+        "Tests.ViaContactHighlight",
         "Tests.Senario",
         "Tests.Sequencing"
     ]

@@ -42,12 +42,12 @@ Theoretical Units
 
 VIONS
 
-🛠<dev>Surface needs to be split into 3D and 2D. Shape and form</dev>
+🛠<dev>Contact needs to be split into 3D and 2D. Shape and form</dev>
 
 Geometry
 
 Line: Curve
-Shape: Surface
+Shape: Contact
 Form: Place
 Space: Space
 
@@ -67,7 +67,7 @@ Cover
 
 ## ViaCurve
 
-## ViaSurface
+## ViaContact
 
 ## ViaSpace
 

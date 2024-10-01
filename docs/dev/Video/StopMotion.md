@@ -117,7 +117,7 @@ CloseUp of FootMoto with orange shoe made of Clay.
 ### 🔻<via>VIA</via>
 
 - Ribbon, Wire
-- Red Masking tape to highlight ViaSurface
+- Red Masking tape to highlight ViaContact
 
 ### 💜<neuro>NEURO</neuro>
 

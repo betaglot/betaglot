@@ -1,6 +1,10 @@
-# Panbeta
+# BetaActivities
 
 ![BetaSports_Tree](/Beta/BetaSports_Tree.png)
+
+## What is a 🔷<beta>BetaSport</beta>
+
+- BetaSports don't contain Antagonists, therefore all allow Kindness between participants
 
 ## 🔷 Archery (ArcheryBeta)
 
@@ -151,6 +155,8 @@ Klimbeta
 
 Send Planting bags full of merch and printed information to Chris Sharma in Spain
 
+## 🔷Cooking (CookBeta)
+
 ## 🔷 Diving (DiveBeta)
 
 ### BetaAnalogy
@@ -218,7 +224,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 - AskAlex
 - What BetaModule is the mat?
-- A collar has lots of ViaSurfaces.
+- A collar has lots of ViaContacts.
 - Opponent is Eco
 
 ### BetaAnalogy
@@ -370,6 +376,8 @@ Enter the System
 
 🔻<via>Via: </via>
 
+## 🔷 Painting (PaintBeta)
+
 ## 🔷 Pole Vault (PoleVaultBeta)
 
 ### BetaAnalogy
@@ -426,6 +434,8 @@ Whip and rotate
 What is the name if the scooters' shaft?
 
 🔻<via>Via: </via>
+
+## 🔷 Sculpture (SculptBeta)
 
 ## 🔷 ShotPut (ShotPutBeta)
 

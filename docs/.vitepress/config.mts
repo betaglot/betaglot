@@ -196,65 +196,119 @@ function sidebarEncyclopedia() {
   return [
     { text: '<strong>ENCYCLOPEDIA</strong>', link: '/encyclopedia/Overview' },
     // #Beta
+    // {
+    //   text: '🔷 <beta>SYSTEMA</beta>', link: '/encyclopedia/Systema/Overview', collapsed: true, items: [
+    //     {
+    //       text: '🔷 PRAKTIK', link: '/encyclopedia/Systema/Praktik/Overview', collapsed: true, items: [
+    //         {
+    //           text: '🔷 BetaPlan', link: '/encyclopedia/Systema/Praktik/BetaPlan/Overview', collapsed: true, items: [
+    //             { text: '🔷 BetaPlan', link: '/encyclopedia/Systema/Praktik/BetaPlan/Betagram' },
+    //             { text: '🔷 BetaPlan', link: '/encyclopedia/Systema/Praktik/BetaPlan/BetaCode' },
+    //           ]
+    //         },
+    //         { text: '🔷 BetaCycle', link: '/encyclopedia/Systema/Praktik/BetaCycle' },
+    //         { text: '🔷 PerformBeta', link: '/encyclopedia/Systema/Praktik/PerformBeta' },
+    //         { text: '🔷 SpeakBeta', link: '/encyclopedia/Systema/Praktik/SpeakBeta' },
+    //         { text: '🔷 SprayBeta', link: '/encyclopedia/Systema/Praktik/SprayBeta' },
+
+    //       ]
+    //     },
+    //     {
+    //       text: '🔷 THEORIA', link: '/encyclopedia/Systema/Theoria/Overview', collapsed: true, items: [
+    //         {
+    //           text: '🔷 TYPE', link: '/encyclopedia/Systema/Theoria/Definitions/Type/Overview', collapsed: true, items: [
+    //             { text: '🔷 ', link: '/encyclopedia/Systema/Theoria/Definitions/Type/Overview' },
+    //           ]
+    //         },
+    //         {
+    //           text: '🔷 TAXA', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Overview', collapsed: true, items: [
+    //             {
+    //               text: '🔷 ATTRIBUTES', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Overview', collapsed: true, items: [
+    //                 { text: '🔷 ANALOGY', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Analogy' },
+    //                 { text: '🔷 ANATOMY', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Anatomy' },
+    //                 { text: '🔷 CRUX', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Crux' },
+    //                 { text: '🔷 ERROR', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Error' },
+    //                 { text: '🔷 GEOMETRY', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Geometry' },
+    //                 { text: '🔷 KRATOS', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Kratos' },
+    //                 { text: '🔷 PROBABILITAS', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Probabilitas' },
+    //                 { text: '🔷 SKHEMA', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Skhema' },
+    //                 { text: '🔷 STATISTICS', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Arithmos' },
+    //                 { text: '🔷 TEKNIK', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Teknik' },
+    //                 { text: '🔷 TYPE', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Type' },
+    //               ]
+    //             },
+    //             { text: '🔷 METHODS', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Methods/Overview' },
+    //           ]
+    //         },
+    //       ]
+    //     },
+
+    //     {
+    //       text: '🔷 METRON', link: '/encyclopedia/Systema/Metron/Overview', collapsed: true, items: [
+    //         { text: '🔷 PRAKTIK METRON', link: '/encyclopedia/Systema/Metron/PraktikMetron' },
+    //         {
+    //           text: '🔷 THEORIA METRON', link: '/encyclopedia/Systema/Metron/TheoriaMetron/Overview', collapsed: true, items: [
+    //             { text: '🔷 TEKNIK METRON', link: '/encyclopedia/Systema/Metron/TekninkMetron/TeknikMetron' },
+    //             { text: '🔷 PROBABILTY METRON', link: '/encyclopedia/Systema/Metron/TeknikMetron/ProbabilitasMetron' },
+    //             { text: '🔷 KRATOS METRON', link: '/encyclopedia/Systema/Metron/TeknikMetron/KratosMetron' }
+    //           ]
+    //         }
+    //       ]
+    //     },
+    //   ]
+    // },
     {
-      text: '🔷 <beta>SYSTEMA</beta>', link: '/encyclopedia/Systema/Overview', collapsed: true, items: [
+      text: 'ATHLETE', link: '/encyclopedia/Athlete/Overview', items: [
+      ]
+    },
+    {
+      text: 'BETA', link: '/encyclopedia/Beta/Overview', items: [
         {
-          text: '🔷 PRAKTIK', link: '/encyclopedia/Systema/Praktik/Overview', collapsed: true, items: [
+          text: 'BetaAnalysis', link: '/encyclopedia/Beta/BetaAnalysis/Overview', items: [
+            { text: '', link: '/encyclopedia/Beta/BetaAnalysis/' }
+          ]
+        },
+        {
+          text: 'BetaCommunication', link: '/encyclopedia/Beta/BetaCommunication/Overview', items: [
             {
-              text: '🔷 BetaPlan', link: '/encyclopedia/Systema/Praktik/BetaPlan/Overview', collapsed: true, items: [
-                { text: '🔷 BetaPlan', link: '/encyclopedia/Systema/Praktik/BetaPlan/Betagram' },
-                { text: '🔷 BetaPlan', link: '/encyclopedia/Systema/Praktik/BetaPlan/BetaCode' },
+              text: 'BetaPlan', link: '/encyclopedia/Beta/BetaCommunication/BetaPlan/Overview', items: [
+                { text: 'BetaCode', link: '/encyclopedia/Beta/BetaCommunication/BetaPlan/BetaCode' },
+                { text: 'Betagram', link: '/encyclopedia/Beta/BetaCommunication/BetaPlan/Betagram' },
               ]
             },
-            { text: '🔷 BetaCycle', link: '/encyclopedia/Systema/Praktik/BetaCycle' },
-            { text: '🔷 PerformBeta', link: '/encyclopedia/Systema/Praktik/PerformBeta' },
-            { text: '🔷 SpeakBeta', link: '/encyclopedia/Systema/Praktik/SpeakBeta' },
-            { text: '🔷 SprayBeta', link: '/encyclopedia/Systema/Praktik/SprayBeta' },
+            { text: 'ShareBeta', link: '/encyclopedia/Beta/BetaCommunication/ShareBeta'},
+            { text: 'SpeakBeta', link: '/encyclopedia/Beta/BetaCommunication/SpeakBeta'},
+            { text: 'SprayBeta', link: '/encyclopedia/Beta/BetaCommunication/SprayBeta'}
 
           ]
         },
         {
-          text: '🔷 THEORIA', link: '/encyclopedia/Systema/Theoria/Overview', collapsed: true, items: [
-            {
-              text: '🔷 TYPE', link: '/encyclopedia/Systema/Theoria/Definitions/Type/Overview', collapsed: true, items: [
-                { text: '🔷 ', link: '/encyclopedia/Systema/Theoria/Definitions/Type/Overview' },
-              ]
-            },
-            {
-              text: '🔷 TAXA', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Overview', collapsed: true, items: [
-                {
-                  text: '🔷 ATTRIBUTES', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Overview', collapsed: true, items: [
-                    { text: '🔷 ANALOGY', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Analogy' },
-                    { text: '🔷 ANATOMY', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Anatomy' },
-                    { text: '🔷 CRUX', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Crux' },
-                    { text: '🔷 ERROR', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Error' },
-                    { text: '🔷 GEOMETRY', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Geometry' },
-                    { text: '🔷 KRATOS', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Kratos' },
-                    { text: '🔷 PROBABILITAS', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Probabilitas' },
-                    { text: '🔷 SKHEMA', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Skhema' },
-                    { text: '🔷 STATISTICS', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Arithmos' },
-                    { text: '🔷 TEKNIK', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Teknik' },
-                    { text: '🔷 TYPE', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Attributes/Type' },
-                  ]
-                },
-                { text: '🔷 METHODS', link: '/encyclopedia/Systema/Theoria/Definitions/Taxa/Methods/Overview' },
-              ]
-            },
+          text: 'BetaCreation', link: '/encyclopedia/Beta/BetaCreation/Overview', items: [
+            { text: '', link: '/encyclopedia/Beta/BetaCreation/' }
           ]
         },
-
         {
-          text: '🔷 METRON', link: '/encyclopedia/Systema/Metron/Overview', collapsed: true, items: [
-            { text: '🔷 PRAKTIK METRON', link: '/encyclopedia/Systema/Metron/PraktikMetron' },
-            {
-              text: '🔷 THEORIA METRON', link: '/encyclopedia/Systema/Metron/TheoriaMetron/Overview', collapsed: true, items: [
-                { text: '🔷 TEKNIK METRON', link: '/encyclopedia/Systema/Metron/TekninkMetron/TeknikMetron' },
-                { text: '🔷 PROBABILTY METRON', link: '/encyclopedia/Systema/Metron/TeknikMetron/ProbabilitasMetron' },
-                { text: '🔷 KRATOS METRON', link: '/encyclopedia/Systema/Metron/TeknikMetron/KratosMetron' }
-              ]
-            }
+          text: 'BetaPerformance', link: '/encyclopedia/Beta/BetaPerformance/Overview', items: [
+            { text: '', link: '/encyclopedia/Beta/BetaPerformance/' }
           ]
         },
+        {
+          text: 'BetaPurpose', link: '/encyclopedia/Beta/BetaPurpose/Overview', items: [
+            { text: '', link: '/encyclopedia/Beta/BetaPurpose/' }
+          ]
+        },
+      ]
+    },
+    {
+      text: 'GEOMETRIA', link: '/encyclopedia/Athlete/Overview', items: [
+      ]
+    },
+    {
+      text: 'METRON', link: '/encyclopedia/Athlete/Overview', items: [
+      ]
+    },
+    {
+      text: 'PHYSIK', link: '/encyclopedia/Athlete/Overview', items: [
       ]
     },
     // #Eko
@@ -349,8 +403,8 @@ function sidebarEncyclopedia() {
               ]
             },
             {
-              text: '🔻 ViaSurface', link: '/encyclopedia/Via/ViaGeometry/ViaSurface/Overview', collapsed: true, items: [
-                { text: '🔻 ViaSurface Texture', link: '/encyclopedia/Via/ViaSurface/ViaSurfaceTexture' },
+              text: '🔻 ViaContact', link: '/encyclopedia/Via/ViaGeometry/ViaContact/Overview', collapsed: true, items: [
+                { text: '🔻 ViaContact Texture', link: '/encyclopedia/Via/ViaContact/ViaContactTexture' },
               ]
             },
           ]
