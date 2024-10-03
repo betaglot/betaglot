@@ -12,16 +12,25 @@ Combined Metron from mulitple BetaSports
 
 ### 🍁Canadian Tetrabetathlon🍁
 
-Minimal Gear
+- Minimal Gear
+- Can be performed in any province and any city
+    - Not SkiBeta
 
-#### 🟠<moto>Climbing</moto>
+#### 🟠<moto>Climbing (Klimbeta)</moto>
 
-#### 🟩<eko>Planting</eko>
+- All about difficult moves
 
-#### 🔻<via>Via dominant</via>
+#### 🟩<eko>Planting (Plantbeta)</eko>
 
-- Archery
+- All about Ekosystem
 
-#### 💜<neuro>Dance</neuro>
+#### 🔻<via>Footbag (BursaBeta)</via>
 
+- Very little muscular strength is required (MOTO)
+- EKO is irrelevant, besides wind
+- "Keep the Bag up" is simple (NEURO)
+
+#### 💜<neuro>Dance (KhoroBeta)</neuro>
+
+- Self Expression is Neuro
 - Dance is neuro since it relies on hearing and music and time which are all only ever existing in neurvous system

@@ -59,3 +59,27 @@ The Theory of Gravitation is not useless, The Theory of Natural Selection is not
 Call a Proposition
 
 Propose a Proposition
+
+## ArmSwing is a Proposition
+
+ArmSwing is a Proposition
+
+Arm is a Definition
+
+Swing is a Proposition
+
+<!-- 
+
+Do Definitions have methods?
+
+- Arm has the method to flex or extend
+
+Remove the Concept of Taxa
+
+Propositions are Objects
+
+Propositions have attributes and Methods
+
+All Motons have the method to connect to another Moton in a sequence
+
+ -->

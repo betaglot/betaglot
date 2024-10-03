@@ -262,55 +262,44 @@ function sidebarEncyclopedia() {
       ]
     },
     {
-      text: 'BETA', link: '/encyclopedia/Beta/Overview', items: [
+      text: 'BETA', link: '/encyclopedia/Beta/Overview', collapsed: true, items: [
         {
-          text: 'BetaAnalysis', link: '/encyclopedia/Beta/BetaAnalysis/Overview', items: [
+          text: 'BetaAnalysis', link: '/encyclopedia/Beta/BetaAnalysis/Overview', collapsed: true, items: [
             { text: '', link: '/encyclopedia/Beta/BetaAnalysis/' }
           ]
         },
         {
-          text: 'BetaCommunication', link: '/encyclopedia/Beta/BetaCommunication/Overview', items: [
+          text: 'BetaCommunication', link: '/encyclopedia/Beta/BetaCommunication/Overview', collapsed: true, items: [
             {
               text: 'BetaPlan', link: '/encyclopedia/Beta/BetaCommunication/BetaPlan/Overview', items: [
                 { text: 'BetaCode', link: '/encyclopedia/Beta/BetaCommunication/BetaPlan/BetaCode' },
                 { text: 'Betagram', link: '/encyclopedia/Beta/BetaCommunication/BetaPlan/Betagram' },
               ]
             },
-            { text: 'ShareBeta', link: '/encyclopedia/Beta/BetaCommunication/ShareBeta'},
-            { text: 'SpeakBeta', link: '/encyclopedia/Beta/BetaCommunication/SpeakBeta'},
-            { text: 'SprayBeta', link: '/encyclopedia/Beta/BetaCommunication/SprayBeta'}
+            { text: 'ShareBeta', link: '/encyclopedia/Beta/BetaCommunication/ShareBeta' },
+            { text: 'SpeakBeta', link: '/encyclopedia/Beta/BetaCommunication/SpeakBeta' },
+            { text: 'SprayBeta', link: '/encyclopedia/Beta/BetaCommunication/SprayBeta' }
 
           ]
         },
         {
-          text: 'BetaCreation', link: '/encyclopedia/Beta/BetaCreation/Overview', items: [
+          text: 'BetaCreation', link: '/encyclopedia/Beta/BetaCreation/Overview', collapsed: true, items: [
             { text: '', link: '/encyclopedia/Beta/BetaCreation/' }
           ]
         },
         {
-          text: 'BetaPerformance', link: '/encyclopedia/Beta/BetaPerformance/Overview', items: [
+          text: 'BetaPerformance', link: '/encyclopedia/Beta/BetaPerformance/Overview', collapsed: true, items: [
             { text: '', link: '/encyclopedia/Beta/BetaPerformance/' }
           ]
         },
         {
-          text: 'BetaPurpose', link: '/encyclopedia/Beta/BetaPurpose/Overview', items: [
+          text: 'BetaPurpose', link: '/encyclopedia/Beta/BetaPurpose/Overview', collapsed: true, items: [
             { text: '', link: '/encyclopedia/Beta/BetaPurpose/' }
           ]
         },
       ]
     },
-    {
-      text: 'GEOMETRIA', link: '/encyclopedia/Athlete/Overview', items: [
-      ]
-    },
-    {
-      text: 'METRON', link: '/encyclopedia/Athlete/Overview', items: [
-      ]
-    },
-    {
-      text: 'PHYSIK', link: '/encyclopedia/Athlete/Overview', items: [
-      ]
-    },
+    
     // #Eko
     {
       text: '🟩 <eko>EKO</eko>', collapsed: true, link: '/encyclopedia/Eko/EkoOverview', items: [
@@ -409,8 +398,6 @@ function sidebarEncyclopedia() {
             },
           ]
         },
-        { text: '🔻 Via Problem', link: '/encyclopedia/Via/ViaProblem/Overview', collapsed: true, items: [] },
-        { text: '🔻 Via Theorem', link: '/encyclopedia/Via/ViaTheorem/Overview', collapsed: true, items: [] }
       ]
     },
     // #Neuro
@@ -522,9 +509,6 @@ function sidebarEncyclopedia() {
 
       ]
     },
-    // #Athlete
-    { text: 'ATHLETE', link: '/encyclopedia/Athlete/Overview', collapsed: true, items: [] },
-
     // #Geometria
     { text: 'GEOMETRIA', link: '/encyclopedia/Geometria/Overview', collapsed: true, items: [] },
 

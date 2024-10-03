@@ -1,20 +1,28 @@
-# 🔻 <via>Via</via>
-
-> the way
+# 🔻 <via>VIA</via>
 
 ![Via Icon](/Via/Via_Icon.png)
 
-## <via>Via Symbol</via> 🔻
+## <via>What is Via?</via>
+
+> the way
+
+> SpatialCognition
+
+> "by way of"
+
+The Via of a BetaInstance 
+
+### <via>Symbol for VIA</via> 🔻
 
 > Inverted Red Triangle
 
-## <via>What is Via ?</via>
-
-> the interface between Moto, Neuro and Eco
+```py
+🔻
+```
 
 ::: details Why is it called <via>Via</via>?
 
-## Etymology of "<via>Via</via>"
+### Etymology of "<via>Via</via>"
 
 Road, Path, Route, through, using, composed of
 
@@ -46,68 +54,16 @@ Road, Path, Route, through, using, composed of
 
 :::
 
-## <via>What are Via Types?</via>
-
-```py
-🔻
-```
+## <via>What are Vions?</via>
 
 - Via Object
-- Via Property
-- Via Method
+- Vion Attributes
+- Vion Method
 
-## <via>What are Via Objects?</via>
+## <via>What are Vion Attributes?</via>
 
-## <via>What are Via Attributes?</via>
+## <via>What are Vion Methods?</via>
 
-## <via>What are Via Methods?</via>
-
-### Via must be easily attainable
-
-Flying through air from hole to hole is possible but not attainable.
-
-There's no point in thinking about paths which won't work
-
-Not worth the trouble
-
-### Inter
-
-- Interact
-- Interface
-    - Via is the interface between <eko>Eko</eko> and <moto>Moto</moto>
-    - Via is the interface between <eko>Eko</eko> and <neuro>Neuro</neuro>
-- Interpolate
-    - Most ViaGeometry is interpolated.
-
-### "By way of"
-
-> "Be able to because of"
-
-> Moto Via Eco
-
-> "Move by way of the land"
-
-> "Use that branch to pull yourself up"
-
-- Computational Geometry
-- The interface between Moto, Neuro and Eco.
-- Via is an abstract layer on top of Eco. A via is where the Planter
-- A vias start and finish at the Cache.
-
-### Purpose of Via
-
-- Minimize Deadwalking
-- To be able to have a detailed mental model of your land, so that you can plan how you're going to Cover your lang.
-
-> a particular way or direction between places
-
-> a method of achieving something
-
-Also Known As "Land Management"
-
-[Routing](https://dictionary.cambridge.org/dictionary/english/routing)
-
-> the use of a particular path or direction for something to travel or be placed
 
 ## Linguistics of Via
 
@@ -139,6 +95,7 @@ Also Known As "Land Management"
     'While': [],
 }
 
+```
 
 ## Via Questions
 
