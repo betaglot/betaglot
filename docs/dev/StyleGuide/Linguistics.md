@@ -4,6 +4,6 @@
 
 - 🟠<moto>Moto</moto>: Moton
 - 🟩<eko>Eko</eko>: Ekon
-- 🔻<via>Via</via>: Vion
+- 🔻<via>Via</via>: Vium
 - 💜<neuro>Neuro</neuro>: Neuro
-- 🔷<beta>Beta</beta>: Beta
+- 🔷<beta>Beta</beta>: Betum

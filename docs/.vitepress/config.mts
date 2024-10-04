@@ -1,46 +1,42 @@
-import mermaid from 'mermaid';
 import { defineConfig } from 'vitepress'
-import { withMermaid } from "vitepress-plugin-mermaid";
 
 // https://vitepress.dev/encyclopedia/site-config
-export default withMermaid(
-  defineConfig({
-    title: "BETAGLOT",
-    description: "Be the Beta",
-    lastUpdated: true,
-    ignoreDeadLinks: true,
-    cleanUrls: true,
-    appearance: 'dark',
-    head: [
-      ["link", { rel: "apple-touch-icon", href: "/Betaglot_Logo.png" }],
-      ["link", { rel: "icon", type: "image/png", href: "/Betaglot_Logo.png" }]
+export default defineConfig({
+  title: "BETAGLOT",
+  description: "Be the Beta",
+  lastUpdated: true,
+  ignoreDeadLinks: true,
+  cleanUrls: true,
+  appearance: 'dark',
+  head: [
+    ["link", { rel: "apple-touch-icon", href: "/Betaglot_Logo.png" }],
+    ["link", { rel: "icon", type: "image/png", href: "/Betaglot_Logo.png" }]
+  ],
+  themeConfig: {
+    siteTitle: "BETAGLOT",
+    outline: [2, 4],
+    logo: '/Betaglot_Logo.png',
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/betaglot/betaglot' }
     ],
-    themeConfig: {
-      siteTitle: "BETAGLOT",
-      outline: [2, 4],
-      logo: '/Betaglot_Logo.png',
-      socialLinks: [
-        { icon: 'github', link: 'https://github.com/betaglot/betaglot' }
-      ],
-      // footer: {
-      //   message: "Library released under <a style='text-decoration:underline;' href='https://github.com/betaglot/betaglot/blob/main/LICENSE'>MIT License</a>.",
-      //   copyright: `Copyright © 2024–${new Date().getUTCFullYear()} Christopher Duncan`
-      // },
-      search: {
-        provider: 'local'
-      },
-      sidebar: {
-        '/guide/': sidebarGuide(),
-        '/examples/': sidebarExamples(),
-        '/tutorial/': sidebarTutorial(),
-        '/encyclopedia/': sidebarEncyclopedia(),
-        '/dev/': sidebarDevelopment(),
-        '/agora/': sidebarAgora(),
-      },
-      nav: nav(),
+    // footer: {
+    //   message: "Library released under <a style='text-decoration:underline;' href='https://github.com/betaglot/betaglot/blob/main/LICENSE'>MIT License</a>.",
+    //   copyright: `Copyright © 2024–${new Date().getUTCFullYear()} Christopher Duncan`
+    // },
+    search: {
+      provider: 'local'
     },
-  })
-)
+    sidebar: {
+      '/guide/': sidebarGuide(),
+      '/examples/': sidebarExamples(),
+      '/tutorial/': sidebarTutorial(),
+      '/encyclopedia/': sidebarEncyclopedia(),
+      '/dev/': sidebarDevelopment(),
+      '/agora/': sidebarAgora(),
+    },
+    nav: nav(),
+  },
+})
 
 
 //#nav
@@ -299,7 +295,7 @@ function sidebarEncyclopedia() {
         },
       ]
     },
-    
+
     // #Eko
     {
       text: '🟩 <eko>EKO</eko>', collapsed: true, link: '/encyclopedia/Eko/EkoOverview', items: [

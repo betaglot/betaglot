@@ -130,7 +130,7 @@ Point form is lazy. Think about all the coding documentation which is not easy t
 - Names of BETASYSTEMA
 - BetaTypes Names
 
-EKO, EKON, MOTO, MOTON, VIA, VION, NEURO
+BETA, BETUM, EKO, EKON, MOTO, MOTON, VIA, VIUM, NEURO
 
 ## <dev>ClassName</dev>
 
@@ -138,7 +138,7 @@ EKO, EKON, MOTO, MOTON, VIA, VION, NEURO
 
 ## <dev>Bilingual</dev>
 
- French,  English
+French,  English
 
 ## <dev>Grammar</dev>
 

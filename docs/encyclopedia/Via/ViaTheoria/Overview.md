@@ -40,7 +40,7 @@ Propositions
 
 Theoretical Units
 
-VIONS
+VIUM
 
 🛠<dev>Contact needs to be split into 3D and 2D. Shape and form</dev>
 
@@ -51,7 +51,7 @@ Shape: Contact
 Form: Place
 Space: Space
 
-## What are the Vions (units of Via) assembled into?
+## What are the Via (plural of Vium) assembled into?
 
 ### To solve problems
 

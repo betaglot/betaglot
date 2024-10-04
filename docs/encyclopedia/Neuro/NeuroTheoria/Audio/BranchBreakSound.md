@@ -41,15 +41,15 @@ Answer 3
 
 ## Related 💜<neuro>Neuro</neuro>
 
-## Related 🟠<moto>Motons</moto>
+## Related 🟠<moto>Moton</moto>
 
 -
 
-## Related 🟩<eko>Ekons</eko>
+## Related 🟩<eko>Ekon</eko>
 
 -
 
-## Related 🔻<via>Vions</via>
+## Related 🔻<via>Vium</via>
 
 -
 

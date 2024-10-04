@@ -10,7 +10,7 @@
 
 > "by way of"
 
-The Via of a BetaInstance 
+The Via of a BetaInstance
 
 ### <via>Symbol for VIA</via> 🔻
 
@@ -54,16 +54,15 @@ Road, Path, Route, through, using, composed of
 
 :::
 
-## <via>What are Vions?</via>
+## <via>What is a Vium?</via>
 
-- Via Object
-- Vion Attributes
-- Vion Method
+- Via Element
+- Vium Attributes
+- Vium Method
 
-## <via>What are Vion Attributes?</via>
+## <via>What are Vium Attributes?</via>
 
-## <via>What are Vion Methods?</via>
-
+## <via>What are Vium Methods?</via>
 
 ## Linguistics of Via
 
@@ -132,8 +131,7 @@ GoogleMaps
 
 Directions contains path and direction
 
-Directions signs 
-
+Directions signs
 
 ### Relative to Anchor
 
@@ -161,7 +159,6 @@ Up, Down
 
 ### Stage Directions
 
-
 ## Displacement
 
 ( Displacement != Distance )
@@ -171,8 +168,6 @@ Up, Down
 ### Absolute Position
 
 ### Relative Position
-
-```
 
 <!-- =================================================== -->
 <!-- =================================================== -->

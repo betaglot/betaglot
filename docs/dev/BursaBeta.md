@@ -55,6 +55,7 @@ Scope(Kick < Trick < TrickString < Routine < Session)
 
 ### 🔻<via>Space</via>
 
+- Bag's trajectory is far enough to require a step 
 - Leg = Radius
 
 ### 🔻<via>Point</via>
@@ -75,6 +76,7 @@ Scope(Kick < Trick < TrickString < Routine < Session)
 
 ### 🔻<via>Contact</via>
 
+- HandContact
 - FootContact
     - Sole
     - Upper
@@ -82,15 +84,24 @@ Scope(Kick < Trick < TrickString < Routine < Session)
     - Heel
     - Toe
 - FloorContact
+    - OneFoot
+    - TwoFoot
 - BursaContact
+    - Do you ever try to cause Bag to spin by hitting off center.
 
 ## 🟠<moto>MOTO</moto>
 
-- Drop
+- LegPurpose
+    - KickLeg
+    - SupportLeg
+- BagDrop is an ArmMove
 - HandCatch
 - Clothing
     - Kicking Shorts
-- Ambidexterity reduces injury
+    - To prevent FootSnag in OtherLeg
+- Injury
+    - Over rotate Knee
+    - Ambidexterity reduces injury
 - Stall
 - Hop
 - BodyRotate
@@ -101,6 +112,8 @@ Scope(Kick < Trick < TrickString < Routine < Session)
 
 ## 🟩<eko>EKO</eko>
 
+- Floor
+    - One thing the european Footbag players and dancers have been doing for some time, is to roll out a thin floor over the concrete which modifies whatever surface they are on, into an ideal one.  I've tried athletic flooring in the past and my conclusion was that the plastic ones that used tongue and groove were too bulky to transport and the rubber ones sucked the energy from my legs and reduced my leaping ability.  I never before saw the wisdom of thin supplemental flooring, but I'm all over it now!
 - Floor is flat
 - There is almost no Eko
 - WindProtection

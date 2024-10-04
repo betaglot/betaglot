@@ -1,17 +1,5 @@
 # UserFlowChart
 
-```mermaid
----
-title: Hello Title
-config:
-  theme: base
-  themeVariables:
-    primaryColor: "#569cd6"
----
-flowchart LR
-    id1([This it in the box])
-```
-
 ## Differentiate(WebsiteArchitecture, DirectoryStructure)
 
 The Directory Structure is not the same as the UI Architecture.
