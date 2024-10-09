@@ -17,7 +17,7 @@ hero:
 
 features:
   - title: "Last Updated:"
-    details: September 29, 2024
+    details: October 9, 2024
   - title: Under Development
     details: This website is like a Sketchbook for what Betaglot will become
 ---

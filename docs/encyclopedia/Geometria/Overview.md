@@ -34,3 +34,11 @@ Form Implies Function
 
 - A shape has emotion
     - Conemotion
+
+
+## MOTO has Curves, VIA has Lines and EKO has edges
+
+Straight lines don't occur MOTO
+
+VIA is abstract so Lines in 
+

@@ -1,1 +1,0 @@
-# Via-Propositions-Curve

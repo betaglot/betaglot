@@ -14,7 +14,7 @@ A method can be a Problema
 - 🟩<eko>EKON</eko>
 - 💜<neuro>NEURO</neuro>
 
-## Hierarchy of Elements
+## Taxonomy of Elements
 
 - Symbols
     - The methods of symbols connect symbols to another

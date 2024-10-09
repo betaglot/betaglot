@@ -4,6 +4,15 @@
 
 Via is a an abstract concept.
 
+- Line
+    - Point
+    - Curve
+    - Contact
+    - Space
+- Cover
+    - Line
+    - Density
+
 ## BetaAnalogy
 
 ## Symbols
@@ -24,7 +33,7 @@ Length
 
 ### Theorems
 
-> Knowing how to solve a pproblem isn't the same as actually solving the problem
+> Knowing how to solve a problem isn't the same as actually solving the problem
 
 - Types of Cover
 
@@ -46,10 +55,6 @@ VIUM
 
 Geometry
 
-Line: Curve
-Shape: Contact
-Form: Place
-Space: Space
 
 ## What are the Via (plural of Vium) assembled into?
 
@@ -64,6 +69,8 @@ Space: Space
 Trajectory
 
 Cover
+
+## Line
 
 ## ViaCurve
 
