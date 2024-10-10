@@ -35,10 +35,34 @@ Form Implies Function
 - A shape has emotion
     - Conemotion
 
+## Point
 
-## MOTO has Curves, VIA has Lines and EKO has edges
+- 🟠<moto>MOTO</moto>: Position
+- 🔻<via>VIA</via>: Point
+- 🟩<eko>EKO</eko>: Site
 
-Straight lines don't occur MOTO
+## Line
 
-VIA is abstract so Lines in 
+- 🟠<moto>MOTO</moto>: Curve
+- 🔻<via>VIA</via>: Line
+- 🟩<eko>EKO</eko>: Contur
 
+## Surface
+
+- 🟠<moto>MOTO</moto>: Haptik
+- 🔻<via>VIA</via>: Contact
+- 🟩<eko>EKO</eko>: Topos
+    - Utopia
+    - Dystopia
+
+## Space
+
+Soma changes size during CrackClimbing, when tucking in a flip
+
+Soma relates to AngularMomentum and Moment Arms
+
+- 🟠<moto>MOTO</moto>: Soma
+- 🔻<via>VIA</via>: Zone
+- 🟩<eko>EKO</eko>: Air
+
+Difference between Zone and Space is clearance, lots of room to spare

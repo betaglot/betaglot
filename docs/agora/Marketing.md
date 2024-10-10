@@ -162,3 +162,9 @@ Planting spade gardening
 Remove weed is the same as remove tree
 
 Spade hiking
+
+### Scenographics
+
+[Play Scenery](https://scenographics.com/pages/photo-contest)
+
+Wang Shaoqiang

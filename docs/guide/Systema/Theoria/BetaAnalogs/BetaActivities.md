@@ -603,6 +603,18 @@ Planting while your body is moving away or towards hole
 
 🔻<via>Via: </via>
 
+## 🔷 Yoga (YogaBeta)
+
+🔷<beta>Beta: </beta>
+
+💜<neuro>Neuro: </neuro>
+
+🟩<eko>Eko: </eko>
+
+🟠<moto>Moto: </moto>
+
+🔻<via>Via: </via>
+
 ```py
 
 betaglot_activities = {

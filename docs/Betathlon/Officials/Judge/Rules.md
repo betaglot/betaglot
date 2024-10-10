@@ -1,0 +1,5 @@
+# ⚖ Rules
+
+## Dress Code
+
+### Advertisements

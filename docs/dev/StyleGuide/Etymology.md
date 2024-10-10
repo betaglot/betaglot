@@ -20,6 +20,9 @@ Use 'K' instead of 'C'
 
 - <https://en.wikipedia.org/wiki/Musical_system_of_ancient_Greece>
 
+- Plastos
+    > something molded or formed
+    - ClimbingHold
 - -oid
 - Hero
 - metaphor

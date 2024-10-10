@@ -20,4 +20,4 @@ Lips can be Contacts
 
 Potential Contact (Affordance) vs State of Contact
 
-
+## Topography
