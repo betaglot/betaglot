@@ -35,27 +35,29 @@ Form Implies Function
 - A shape has emotion
     - Conemotion
 
-## Point
+## Synonyms
+
+### Point
 
 - 🟠<moto>MOTO</moto>: Position
 - 🔻<via>VIA</via>: Point
 - 🟩<eko>EKO</eko>: Site
 
-## Line
+### Line
 
 - 🟠<moto>MOTO</moto>: Curve
 - 🔻<via>VIA</via>: Line
-- 🟩<eko>EKO</eko>: Contur
+- 🟩<eko>EKO</eko>: Contour
 
-## Surface
+### Surface
 
 - 🟠<moto>MOTO</moto>: Haptik
 - 🔻<via>VIA</via>: Contact
-- 🟩<eko>EKO</eko>: Topos
+- 🟩<eko>EKO</eko>:
     - Utopia
     - Dystopia
 
-## Space
+### Space
 
 Soma changes size during CrackClimbing, when tucking in a flip
 
@@ -64,5 +66,6 @@ Soma relates to AngularMomentum and Moment Arms
 - 🟠<moto>MOTO</moto>: Soma
 - 🔻<via>VIA</via>: Zone
 - 🟩<eko>EKO</eko>: Air
+    - AirTime
 
 Difference between Zone and Space is clearance, lots of room to spare

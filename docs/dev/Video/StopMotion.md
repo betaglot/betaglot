@@ -2,6 +2,8 @@
 
 > possessed by gods
 
+<iframe class="youtube-video" src="https://www.youtube.com/embed/nTE9XIi_QcM" title="Athlete - Stop Motion Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Diorama inclue Eko and Moto Armature
 
 Sell the Diorama. Replicate the Beta exactly. Use AI to determine how close the submitted beta
@@ -64,9 +66,9 @@ For tall routes use two walls which leapfrog
 
 Tnuts?
 
-#### Holds made of Clay
+#### Plasts made of Clay
 
-Holds should be cast so they are rigid to support Athlete and so they can be reused
+Plasts should be cast so they are rigid enough to support Athlete and so they can be reused
 
 Not plasticine
 
@@ -86,33 +88,46 @@ To see through Ekons
 
 ### 🟠<moto>MOTO</moto>
 
-#### ATHLETE is the Figure
+![ArmaturePlan](/dev/StopMotion/ArmaturePlan.png)
+
+![ArmatureSkeleton](/dev/StopMotion/ArmatureSkeleton.png)
+
+#### <moto>ATHLETE is the Figure</moto>
 
 Simplify goniogram joint label to dozen instead of 360
 
-- Child sized
+- Child sized (140cm)
 
-- Adult Sized
+- Adult Sized (168cm)
+    - Recreate myself
 
-- Tall Adult Sized
+- Tall Adult Sized (200cm)
+
+For fun, make a Bonobo (not a chimpanzee) and a Gibbon
 
 Sections can be removed for Paralympic. The Teknik of Paralymics is almost totally unexplored. Except for the guy at Allez Up.
 
-##### Wooden
+#### <moto>ScapulaMoto is required</moto>
 
-Athlete is bolt tnut and matthais wandel wooden jigs
+The Athlete needs Scapular movements, since ScapulaPosition is essential for safe biomechanics.
 
-#### ScapulaMoto is required
+ScapulaMoto is required.
 
-ScapulaMoto is required. Most armatures don't have scapula.
+Laika achieves ScapulaMoto by having a collar bone segment.
 
-#### Close Ups of HandMoto and FootMoto
+Most armatures don't have scapula.
 
-Hand is my hand, foot is simple enough to be created by clay
+#### <moto>Close Ups of HandMoto and FootMoto</moto>
+
+Hand is my hand, foot is simple enough to be created with clay
 
 CloseUp of HandMoto is my hand painted orange with some black contour lines for definition around joints.
 
 CloseUp of FootMoto with orange shoe made of Clay.
+
+#### Replacements of Hands
+
+Apparently puppet hands sometimes break so it's a good idea to make multiple copies of the hand
 
 ### 🔻<via>VIA</via>
 

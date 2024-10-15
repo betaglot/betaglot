@@ -1,5 +1,9 @@
 # 💜 <neuro>Attention</neuro>
 
+## Reattend
+
+## Attencide
+
 ## Differences between Awareness and Attention
 
 <!-- =================================================== -->
